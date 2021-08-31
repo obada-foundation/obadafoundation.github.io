@@ -1,7 +1,7 @@
 ---
 title: Bylaws
 nav_order: 1
-permalink: /foundation/corporate-documents/bylaws/
+permalink: /corporate-documents/bylaws/
 parent: Corporate Documents 
 ---
 ## OBADA Foundation Corporate Bylaws
