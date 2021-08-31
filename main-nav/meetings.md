@@ -1,5 +1,5 @@
 ---
-title: Meetings
+title: Meeting Schedule
 permalink: /meetings
 nav_order: 5
 ---
