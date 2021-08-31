@@ -4,6 +4,7 @@ nav_order: 2
 permalink: /corporate-documents/
 parent: The OBADA Foundation
 has_children: true
+has_toc: false
 ---
 ## Corporate Documents
 
