@@ -1,6 +1,6 @@
 ---
 title: Corporate Documents
-nav_order: 2
+nav_order: 4
 permalink: /corporate-documents/
 parent: The OBADA Foundation
 has_children: true
