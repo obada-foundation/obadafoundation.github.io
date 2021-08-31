@@ -1,5 +1,5 @@
 ---
-title: The DAO
+title: The OBADA DAO
 permalink: /dao/
 nav_order: 3
 ---
