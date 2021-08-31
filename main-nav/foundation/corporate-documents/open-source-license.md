@@ -3,6 +3,7 @@ title: Open Source License
 nav_order: 2
 permalink: /corporate-documents/open-source-license/
 parent: Corporate Documents 
+grand_parent: The OBADA Foundation
 ---
 ## Open Source License
 
