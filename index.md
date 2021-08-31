@@ -1,5 +1,5 @@
 ---
-title: OBADA Home
+title: Public Homepage
 nav_order: 1
 ---
 
