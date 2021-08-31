@@ -1,5 +1,5 @@
 ---
-title: Presentations
+title: Past Presentations
 permalink: /presentations/
 nav_order: 5
 ---
