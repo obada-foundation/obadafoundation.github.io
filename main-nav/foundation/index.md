@@ -1,6 +1,6 @@
 ---
 title: The Nonprofit Foundation
-permalink: /foundation/
+permalink: /
 nav_order: 4
 has_children: true
 ---
