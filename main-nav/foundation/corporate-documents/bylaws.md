@@ -1,6 +1,6 @@
 ---
 title: Bylaws
-nav_order: 2
+nav_order: 1
 permalink: /foundation/corporate-documents/bylaws/
 parent: Corporate Documents 
 ---
