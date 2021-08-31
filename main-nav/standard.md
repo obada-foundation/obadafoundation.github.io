@@ -1,5 +1,5 @@
 ---
-title: The ANSI Standard
+title: The OBADA Standard
 parent: Other OBADA Sites
 nav_order: 1
 permalink: /standard/
