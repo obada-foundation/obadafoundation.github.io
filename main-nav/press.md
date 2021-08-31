@@ -1,7 +1,7 @@
 ---
 title: Press
-permalink: /press
-nav_order: 4
+permalink: /press/
+nav_order: 5
 ---
 
 
