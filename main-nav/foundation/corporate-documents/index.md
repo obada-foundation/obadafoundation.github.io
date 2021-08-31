@@ -8,7 +8,7 @@ has_children: true
 ## Corporate Documents
 
 
-+ ### [Corporate Bylaws](/foundation/corporate-documents/bylaws.md) 
-+ ### [Incorporation Documents](/foundation/corporate-documents/incorporation-docs.md)
-+ ### [Open Source License](/foundation/corporate-documents/open-source-license.md)
++ ### [Corporate Bylaws](/bylaws.md) 
++ ### [Open Source License](/open-source-license.md)
++ ### [Incorporation Documents](/incorporation-docs.md)
 
