@@ -1,6 +1,6 @@
 ---
 title: Incorporation Documents
-nav_order: 2
+nav_order: 3
 permalink: /foundation/corporate-documents/incorporation-docs
 parent: Corporate Documents 
 ---
