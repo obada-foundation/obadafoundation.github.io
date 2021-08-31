@@ -1,5 +1,5 @@
 ---
-title: the OBADA Standard
+title: the Standard
 nav_order: 3
 permalink: /standard/
 
