@@ -1,6 +1,7 @@
 ---
 title: The ANSI Standard
-nav_order: 2
+parent: Other OBADA Sites
+nav_order: 1
 permalink: /standard/
 
 ---
