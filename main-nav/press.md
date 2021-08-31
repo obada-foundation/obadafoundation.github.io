@@ -1,5 +1,5 @@
 ---
-title: Press & Announcements
+title: Press
 permalink: /press
 nav_order: 6
 ---
