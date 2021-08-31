@@ -1,7 +1,8 @@
 ---
 title: Other OBADA Sites
 nav_order: 5
-permalink: other_obada_sites
+has_children: true
+permalink: /other_obada_sites/
 ---
 
 The OBADA Public Homepage
