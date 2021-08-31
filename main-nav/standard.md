@@ -1,6 +1,6 @@
 ---
-title: the Standard
-nav_order: 5
+title: the ANSI Standard
+nav_order: 2
 permalink: /standard/
 
 ---
