@@ -1,7 +1,7 @@
 ---
 title: Open Source License
 nav_order: 2
-permalink: /foundation/corporate-documents/open-source-license/
+permalink: /corporate-documents/open-source-license/
 parent: Corporate Documents 
 ---
 ## Open Source License
