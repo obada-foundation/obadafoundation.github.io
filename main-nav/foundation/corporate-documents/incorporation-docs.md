@@ -1,7 +1,7 @@
 ---
 title: Incorporation Documents
 nav_order: 3
-permalink: /foundation/corporate-documents/incorporation-docs
+permalink: /corporate-documents/incorporation-docs/
 parent: Corporate Documents 
 ---
 ## Incorporation Documents
