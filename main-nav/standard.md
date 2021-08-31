@@ -1,5 +1,5 @@
 ---
-title: the ANSI Standard
+title: The ANSI Standard
 nav_order: 2
 permalink: /standard/
 
