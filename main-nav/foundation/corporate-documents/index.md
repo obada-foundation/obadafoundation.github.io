@@ -1,7 +1,7 @@
 ---
 title: Corporate Documents
 nav_order: 2
-permalink: /foundation/corporate-documents/
+permalink: /corporate-documents/
 parent: The OBADA Foundation
 has_children: true
 ---
