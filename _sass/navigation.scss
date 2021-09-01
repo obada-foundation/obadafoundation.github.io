@@ -184,22 +184,19 @@
 // Breadcrumb nav
 
 .breadcrumb-nav {
-  display: none;
   @include mq(md) {
-    display: none;
     margin-top: -$sp-4;
   }
 }
 
 .breadcrumb-nav-list {
-  display: none;
   padding-left: 0;
   margin-bottom: $sp-3;
   list-style: none;
 }
 
 .breadcrumb-nav-list-item {
-  display: none;
+  display: table-cell;
   @include fs-2;
 
   &::before {
@@ -207,7 +204,7 @@
   }
 
   &::after {
-    display: none;
+    display: inline-block;
     margin-right: $sp-2;
     margin-left: $sp-2;
     color: $grey-dk-000;
@@ -215,9 +212,7 @@
   }
 
   &:last-child {
-    display: none;
     &::after {
-      display: none;
       content: "";
     }
   }
