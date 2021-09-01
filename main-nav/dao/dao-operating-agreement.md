@@ -7,7 +7,7 @@ nav_order: 2
 
 # DAO Operating Agreement
 
-A community session to review this DAO Operating Agreement is scheduled for Thursday Sept 2, 2021 at 12pm ET on [meet.jit.si/obada](meet.jit.si/obada)
+A community session to review this DAO Operating Agreement is scheduled for Thursday Sept 2, 2021 at 12pm ET on [meet.jit.si/obada](https://meet.jit.si/obada)
 
 After feedback, the agreement will be ratified with our attorney and submitted to the State of Wyoming to update the existing Wyoming DAO LLC incorporation documents.
 
