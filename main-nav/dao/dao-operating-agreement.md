@@ -11,4 +11,4 @@ After feedback, the agreement will be ratified with our attorney and submitted t
 
 ## Current Presentation:
 
-<iframe src="https://docs.google.com/presentation/d/1N-6X_22RxkWbp2xG9PBXp_-4tnEDCrp8YK8L-bqNOu0/edit?usp=sharing" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" width="736" height="500" frameborder="0" style="max-width:100%"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT9aiZ6QOQvndgMvYnth7P9aFx4tdlvLOdOMsxhVqNb-mTE8iUTsP9DxybwvJ6pI1vF89G3qyz1rAX3/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
