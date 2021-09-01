@@ -4,4 +4,8 @@ description: The Open Blockchain for Asset Disposition Architecture
 search_enabled: false
 footer_content: "Copyright &copy; 2017-2021 Open Blockchain for Asset Disposition Alliance (OBADA)"
 logo: "/assets/images/obada-logo.svg"
+has_toc: false
+breadcrumbs: false
+has_breadcrumbs: false
+
 
