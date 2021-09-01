@@ -2,7 +2,7 @@
 title: The OBADA DAO
 permalink: /dao/
 nav_order: 2
-has-children: true
+has_children: true
 ---
 
 ## The OBADA DAO (Decentralized Autonomous Organization)
