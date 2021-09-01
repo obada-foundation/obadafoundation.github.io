@@ -5,7 +5,7 @@ parent: Other OBADA Sites
 ---
 
 <meta charset="utf-8">
- <meta http-equiv="refresh" content="0; URL="https://github.com/obada-foundation/">
+ <meta http-equiv="refresh" content="0; URL=https://github.com/obada-foundation/">
  <link rel="canonical" href="https://github.com/obada-foundation/">
 
 
