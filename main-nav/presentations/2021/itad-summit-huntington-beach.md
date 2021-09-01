@@ -1,6 +1,7 @@
 ---
-title: ITAD 2021
+title: ITAD Summit
 has_children: false
+permalink: /foundation/presentations/2021/itad-summit
 nav_exclude: true
 ---
 
