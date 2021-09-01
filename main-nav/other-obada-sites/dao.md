@@ -1,8 +1,8 @@
 ---
 title: The OBADA DAO
-permalink: /other-obada-sites/dao/
-parent: Other OBADA Sites
+permalink: /dao/
 nav_order: 2
+has-children: true
 ---
 
 ## The OBADA DAO (Decentralized Autonomous Organization)
