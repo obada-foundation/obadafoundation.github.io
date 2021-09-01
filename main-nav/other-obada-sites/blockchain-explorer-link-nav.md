@@ -5,7 +5,7 @@ parent: Other OBADA Sites
 ---
 
 <meta charset="utf-8">
- <meta http-equiv="refresh" content="0; URL="https://gateway.obada.io">
+ <meta http-equiv="refresh" content="0; URL=https://gateway.obada.io">
  <link rel="canonical" href="https://gateway.obada.io">
 
 
