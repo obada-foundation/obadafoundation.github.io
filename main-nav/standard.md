@@ -1,7 +1,6 @@
 ---
 title: The OBADA Standard
-parent: Other OBADA Sites
-nav_order: 1
+nav_order: 3
 permalink: /standard/
 
 ---
