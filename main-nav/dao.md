@@ -1,7 +1,7 @@
 ---
 title: The OBADA DAO
 permalink: /dao/
-nav_order: 2
+nav_order: 3
 has-children: true
 ---
 
