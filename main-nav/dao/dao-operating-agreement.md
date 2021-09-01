@@ -2,7 +2,7 @@
 title: DAO Operating Agreement
 parent: The OBADA DAO
 permalink: /dao/dao-operating-agreement/
-
+nav_order: 2
 ---
 
 A community session to review this DAO Operating Agreement is scheduled for Thursday Sept 2, 2021 at 12pm ET on [meet.jit.si/obada](meet.jit.si/obada)
