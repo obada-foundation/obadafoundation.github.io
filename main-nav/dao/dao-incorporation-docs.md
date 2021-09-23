@@ -22,32 +22,32 @@ The OBADA DAO is a Wyoming DAO LLC.
   
 
 <strong>I. The name of the decentralized autonomous organization limited liability company is:</strong>
-
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OBADA, DAO LLC
-
+<br/><br/>
 <strong>II. The name and physical address of the registered agent of the decentralized autonomous organization limited liability company is:</strong>
-
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Northwest Registered Agent Service, Inc.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 30 N Gould St Ste N<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sheridan, WY 82801<br/></p>
-
+<br/>
 <strong>III. The mailing address of the decentralized autonomous organization limited liability company is:</strong>
-
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 30 N Gould St Ste N<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sheridan, WY 82801<br/>
-
+<br/>
 <strong>IV. The principal office address of the decentralized autonomous organization limited liability company is:</strong>
-
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 30 N Gould St Ste N<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sheridan, WY 82801<br/>
-
+<br/>
 <strong>V. The organizer of the decentralized autonomous organization limited liability company is:</strong>
-
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ROHI SUKHIA<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 N. GOULD ST. STE N, SHERIDAN, WY 82801<br/>
-
+<br/>
 <strong>VI. Additional Article</strong><i> (as amended 07/07/2021)</i>:
-
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pursuant to W.S. 17-31-106(a), OBADA DAO LLC is a decentralized autonomous organization.<br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pursuant to W.S. 17-31-106(b), OBADA DAO LLC does not currently use a smart contract.  In the event that a smart contract is<br/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; used to manage, facilitate or  operate the DAO, an amendment to these articles will be filed, to provide a public identifier.<br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pursuant to W.S. 17-31-104(c), the Notice of Restrictions on Duties and Transfers will appear in the operating agreement.<br/><br/>
