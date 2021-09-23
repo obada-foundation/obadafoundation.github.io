@@ -12,6 +12,7 @@ The OBADA DAO is a Wyoming DAO LLC.
 
 
 
+<br/><br/><br/>
 
 <p align="center"><strong>Decentralized Autonomous Organization Limited Liability Company
   <br/>Articles of Organization</strong><p>
@@ -48,7 +49,7 @@ The OBADA DAO is a Wyoming DAO LLC.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pursuant to W.S. 17-31-106(b), OBADA DAO LLC does not currently use a smart contract.  In the event that a smart contract is<br/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; used to manage, facilitate or  operate the DAO, an amendment to these articles will be filed, to provide a public identifier.<br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pursuant to W.S. 17-31-104(c), the Notice of Restrictions on Duties and Transfers will appear in the operating agreement.<br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pursuant to W.S. 17-31-106(c), OBADA DAO LLC is a member managed DAO.<br/>
-
+<br/><br/>
 <strong>Signature:</strong> ROHI SUKHIA      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           <strong>Date:</strong> 07/01/2021<br/>
 <strong>Print Name:</strong> ROHI SUKHIA<br/>
 <strong>Title:</strong> ORGANIZER<br/>
