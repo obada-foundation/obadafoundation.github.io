@@ -2,7 +2,7 @@
 title: Press
 parent: The OBADA Foundation
 permalink: /press/
-nav_order: 5
+nav_order: 7
 ---
 
 
