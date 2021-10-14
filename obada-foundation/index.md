@@ -1,5 +1,6 @@
 ---
 title: Past Presentations
+parent: The OBADA Foundation
 permalink: /presentations/
 nav_order: 4
 ---
