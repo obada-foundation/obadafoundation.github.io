@@ -10,7 +10,7 @@ has_toc: false
 
 
 + ### [Foundation Bylaws](/bylaws.md) 
-+ ### [Corporate Filings](/filings.md)
++ ### [Legal Filings](/filings.md)
 + ### [Open Source License](/open-source-license.md)
 + ### [Other Documents](/other-docs.md)
 + 
