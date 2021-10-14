@@ -1,7 +1,7 @@
 ---
 title: OBADA Homepage
 nav_order: 1
-permalink: https://www.obada.io
+permalink: ../
 
 ---
 
@@ -12,4 +12,3 @@ permalink: https://www.obada.io
 
 <!-- DO NOT DELETE OR CHANGE PERMALINK: File MUST exist to redirect people to the main REPO 
 -->
-
