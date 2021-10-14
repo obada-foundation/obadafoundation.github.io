@@ -1,5 +1,6 @@
 ---
 title: Meeting Schedule
+parent: The OBADA Foundation
 permalink: /meetings
 nav_order: 4
 ---
