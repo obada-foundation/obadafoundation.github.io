@@ -2,6 +2,8 @@
 title: ITAD Summit
 has_children: false
 permalink: /presentations/2021/itad-summit
+parent: Presentations
+grandparent: The OBADA Foundation
 nav_exclude: true
 ---
 
