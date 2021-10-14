@@ -1,7 +1,7 @@
 ---
 title: Mission
 nav_order: 1
-permalink: /mission/
+permalink: /foundation/mission/
 parent: The OBADA Foundation
 ---
 ### OUR MISSION
