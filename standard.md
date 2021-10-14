@@ -1,8 +1,7 @@
 ---
 title: The OBADA Standard
-nav_order: 3
-parent: The OBADA Foundation
-permalink: /foundation/standard/
+nav_order: 2
+permalink: /standard/
 
 ---
 
