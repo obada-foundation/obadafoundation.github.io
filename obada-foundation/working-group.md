@@ -1,5 +1,6 @@
 ---
 title: Working Group
+parent: The OBADA Foundation
 nav_order: 4
 permalink: /working-group/
 ---
