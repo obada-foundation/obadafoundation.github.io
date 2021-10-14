@@ -1,8 +1,8 @@
 ---
 title: Foundation Incorporation Documents
 nav_order: 3
-permalink: /corporate-documents/incorporation-docs/
-parent: OBADA Corporate Documents 
+permalink: /corporate-documents/filings/
+parent: Corporate Docs 
 grand_parent: The OBADA Foundation
 ---
 ## Incorporation Documents
