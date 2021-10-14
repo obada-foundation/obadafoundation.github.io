@@ -1,7 +1,7 @@
 ---
 title: Legal Filings
 nav_order: 3
-permalink: /corporate-docs/filings/
+permalink: /corporate-docs/legal-filings/
 parent: Corporate Docs 
 grand_parent: The OBADA Foundation
 ---
