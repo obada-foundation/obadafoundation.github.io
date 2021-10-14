@@ -1,7 +1,7 @@
 ---
 title: OBADA Homepage
 nav_order: 1
-permalink: ../
+permalink: www.obada.io
 
 ---
 
