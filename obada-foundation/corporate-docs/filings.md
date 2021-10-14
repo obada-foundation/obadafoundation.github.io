@@ -1,5 +1,5 @@
 ---
-title: Foundation Incorporation Documents
+title: Legal Filings
 nav_order: 3
 permalink: /corporate-docs/filings/
 parent: Corporate Docs 
@@ -11,6 +11,3 @@ grand_parent: The OBADA Foundation
 
 + ### [OBADA WY Incorporation](https://github.com/adamc15/adamc15.github.io/files/6246169/obada-incorp.pdf)
 
-+ #### [Member Contact List](https://docs.google.com/spreadsheets/d/12un_4X-nJmClOmxLpwr79Vzv-0_qxtRjhFKiAramUL4/edit#gid=0)  (need permission to access)
-+ #### [Blank Letterhead](https://docs.google.com/document/d/1kSPtRmo-KnFvYWnVawx3DdAVJfIArnTtKWDkEGmGfOk/edit) (need permission to access)
-+ #### [Blank NDA](https://www.dropbox.com/home/Legal%20(NDA%20etc)?preview=_OTR+NDA-COAC-Template.docx) (need permission to access)
