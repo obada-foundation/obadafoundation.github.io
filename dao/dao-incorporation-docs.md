@@ -11,7 +11,7 @@ nav_order: 3
 The OBADA DAO is a Wyoming DAO LLC.
 
 ### [OBADA DAO Articles of Organization](/foundation/main-nav/dao/DAO-Articles-of-Organization.pdf)
-### [OBADA DAO Ammendment Document](/foundation/main-nav/dao/DAO-AMMENDMENT.pdf)
+### [OBADA DAO Amendment Document](/foundation/main-nav/dao/DAO-AMENDMENT.pdf)
 
 
 <br/><br/><br/>
