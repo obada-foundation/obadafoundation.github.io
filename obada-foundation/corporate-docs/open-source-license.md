@@ -1,8 +1,8 @@
 ---
 title: Open Source License
-nav_order: 2
-permalink: /corporate-documents/open-source-license/
-parent: OBADA Corporate Documents 
+nav_order: 4
+permalink: /corporate-docs/open-source-license/
+parent: Corporate Docs 
 grand_parent: The OBADA Foundation
 ---
 ## Open Source License
