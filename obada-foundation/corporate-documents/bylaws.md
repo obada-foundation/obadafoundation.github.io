@@ -1,8 +1,8 @@
 ---
 title: Bylaws
-nav_order: 1
+nav_order: 2
 permalink: /corporate-documents/bylaws/
-parent: Foundation Corporate Documents 
+parent: Corporate Docs
 grand_parent: The OBADA Foundation
 ---
 ## OBADA Foundation Corporate Bylaws
