@@ -5,4 +5,16 @@ permalink: /bod/
 nav_order: 2
 ---
 
-List of BOARD members goes here.
+The Board members are:
++ Charles Brennick
++ David Franquesa
++ Robin Ingenthron
++ Kenneth Jacobsen
++ Ronald Lembke
++ Joe Marion
++ Leandro Navarro
++ Rohi Sukhia, **Chairman of the Board**
++ Mark Schaffer, **Treasurer**
++ Neil Vill
+
+
