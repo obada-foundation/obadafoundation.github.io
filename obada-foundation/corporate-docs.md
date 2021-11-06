@@ -9,9 +9,8 @@ has_toc: false
 ## Corporate Documents
 
 
-+ ### [Foundation Bylaws](/bylaws.md) 
-+ ### [Legal Filings](/filings.md)
-+ ### [Open Source License](/open-source-license.md)
-+ ### [Other Documents](/other-docs.md)
-+ 
++ ### [Foundation Bylaws](/bylaws) 
++ ### [Legal Filings](/legal-filings)
++ ### [Open Source License](/open-source-license)
++ ### [Other Documents](/other)
 
