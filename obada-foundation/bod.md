@@ -13,8 +13,8 @@ The Board members are:
 + Ronald Lembke
 + Joe Marion
 + Leandro Navarro
-+ Rohi Sukhia, **Chairman of the Board**
 + Mark Schaffer, **Treasurer**
++ Rohi Sukhia, **Chairman of the Board**
 + Neil Vill
 
 
