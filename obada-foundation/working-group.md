@@ -11,5 +11,5 @@ This is a public forum for the OBADA community. To join the working group, pleas
 
 <br>
 
-#### Past OBADA Working Group Presentations
+Past OBADA Working Group Presentations
 + [WG Meeting - December 2021](/presentations/2021/OBADA-WG-Dec2021.pdf) (pdf)
