@@ -8,7 +8,7 @@ nav_order: 6
 
 ## Past OBADA Presentations
 
-### ITAD Summit - Huntington Beach, California - August 2021 <br/> [NFT Registry for Physical Asset Data](foundation/obada-foundation/presentations/2021/OBADA-ITAD-SUMMIT-Aug2021.pdf) 
+### ITAD Summit - Huntington Beach, California - August 2021 <br/> [NFT Registry for Physical Asset Data](/presentations/2021/OBADA-ITAD-SUMMIT-Aug2021.pdf) 
 
 
 
