@@ -19,7 +19,7 @@ The Board members are:
 
 Past OBADA BOD Presentations
 + [BOD Meeting - September 21, 2021](/presentations/2021/OBADA-BOD-Sep_21_21.pdf) (pdf)
-+ [BOD Meeting - November 16, 2021](/presentations/2021/ OBADA-BOD-Nov_16_21.pdf) (pdf)
++ [BOD Meeting - November 16, 2021](/presentations/2021/OBADA-BOD-Nov_16_21.pdf) (pdf)
 + [BOD Meeting - January 11, 2022](/presentations/2022/OBADA-BOD-Jan_11_22.pdf) (pdf)
 
 
