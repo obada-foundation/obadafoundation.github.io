@@ -18,8 +18,8 @@ The Board members are:
 + Neil Vill
 
 #### Past OBADA BOD Presentations
-+ [BOD Presentation - September 21, 2021](/presentations/2021/OBADA-BOD-Sep_21_21.pdf) 
-+ [BOD Presentation - November 16, 2021](/presentations/2021/OBADA-BOD-Nov_16_21.pdf) 
-+ [BOD Presentation - January 11, 2022](/presentations/2021/OBADA-BOD-Jan_11_22) 
++ [BOD Meeting - September 21, 2021](/presentations/2021/OBADA-BOD-Sep_21_21.pdf) (pdf)
++ [BOD Meeting - November 16, 2021](/presentations/2021/OBADA-BOD-Nov_16_21.pdf) (pdf)
++ [BOD Meeting - January 11, 2022](/presentations/2021/OBADA-BOD-Jan_11_22) (pdf)
 
 
