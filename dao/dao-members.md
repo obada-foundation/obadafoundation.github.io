@@ -38,4 +38,4 @@ nav_order: 4
 #### Past Meeting Dates, Presentations & Recordings
   + DAO Meeting - Thursday February 3, 2022
     + [MP4 Recording](https://www.dropbox.com/s/8ucrhchmu86pgzu/obada%20on%202022-02-03%2018-29.mp4?dl=0)
-    + [PDF Slide Deck](/presentations/2022/OBADA-DAO-Feb_3_22.pdf)
+    + [PDF Slide Deck](/dao/presentations/2022/OBADA-DAO-Feb_3_22.pdf)
