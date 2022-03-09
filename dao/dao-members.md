@@ -5,9 +5,8 @@ permalink: /dao/members/
 nav_order: 4
 ---
 
-## Current OBADA DAO Members
-
 <div class="container" style="width: 800px;">
+    <h4>    Current OBADA DAO Members</h4>
     <div class="row">
         <div class="row" style="width: 100%;padding: 10px;">
         
@@ -375,7 +374,7 @@ nav_order: 4
             
         </div>
 
-    </div>
+    </div></div>
 
 
 
