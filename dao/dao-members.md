@@ -12,15 +12,15 @@ nav_order: 4
     <div class="row" width="100%">
         <div class="row" style="width: 100%;padding: 15px;">
         
-            <div class="col-md-2" style="text-align: center; padding: 5px;">
-            <img src="../member-logos/ascdi-logo.jpg" height="60px" width="60px"><br/>
+            <div class="col-md-6" style="text-align: center; padding: 5px;">
+            <img src="../member-logos/ascdi-logo.jpg" height="40px" width="40px"><br/>
             ASCDI<br/>
             Joe Marion | President<br/>
 
             </div>
             
             
-            <div class="col-md-10" style="text-align: center; padding-left: 30px;"><p style="text-align: left;">We are a worldwide not for profit trade association of companies that buy, sell, service, lease and provide ITAD services on IT and communications equipment dealing. The ASCDI embraces a world focused on the putting used technology back into productive use in an environmentally sound manner while protecting our customers’ data.</p></div>
+            <div class="col-md-6" style="text-align: center; padding-left: 30px;"><p style="text-align: left;">We are a worldwide not for profit trade association of companies that buy, sell, service, lease and provide ITAD services on IT and communications equipment dealing. The ASCDI embraces a world focused on the putting used technology back into productive use in an environmentally sound manner while protecting our customers’ data.</p></div>
 
             
             
