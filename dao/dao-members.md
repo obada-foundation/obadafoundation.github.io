@@ -5,13 +5,12 @@ permalink: /dao/members/
 nav_order: 4
 ---
 
-<div class="container" style="width: 800px;">
-    <h4>    Current OBADA DAO Members</h4>
+<div class="container">
     <div class="row">
         <div class="row" style="width: 100%;padding: 10px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
-            <img src="/dao/member-logos/ascdi-logo.jpg" height="90"><br/>
+            <img src="/member-logos/ascdi-logo.jpg" height="90"><br/>
             ASCDI<br/>
             Joe Marion | President<br/>
 
@@ -374,15 +373,23 @@ nav_order: 4
             
         </div>
 
-    </div></div>
+    </div>
 
 
 
 
 
 <br/>
+    
+    
 
-#### Past Meeting Dates, Presentations & Recordings
-  + DAO Meeting - Thursday February 3, 2022
-    + [MP4 Recording](https://www.dropbox.com/s/8ucrhchmu86pgzu/obada%20on%202022-02-03%2018-29.mp4?dl=0)
-    + [PDF Slide Deck](/presentations/2022/OBADA-DAO-Feb_3_22.pdf)
+    <h4>Past Meeting Dates, Presentations & Recordings</h4>
+<ul>
+    <li>DAO Meeting - Thursday February 3, 2022
+        <li><a href="https://www.dropbox.com/s/8ucrhchmu86pgzu/obada%20on%202022-02-03%2018-29.mp4?dl=0">MP4 Recording</a></li>
+        <li><a href="/presentations/2022/OBADA-DAO-Feb_3_22.pdf">PDF Slide Deck</a></li>
+    </li>
+    <li>DAO Meeting - Thursday March 3, 2022
+        <li><a href="">MP4 Recording</a></li>
+    </ul>
+    
