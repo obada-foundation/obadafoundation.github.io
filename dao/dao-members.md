@@ -5,12 +5,13 @@ permalink: /dao/members/
 nav_order: 4
 ---
 
-<div class="container">
+## Current OBADA DAO Members
+<div>
     <div class="row">
         <div class="row" style="width: 100%;padding: 10px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
-            <img src="/member-logos/ascdi-logo.jpg" height="90"><br/>
+            <img src="foundation/dao/member-logos/ascdi-logo.jpg" height="90"><br/>
             ASCDI<br/>
             Joe Marion | President<br/>
 
@@ -373,10 +374,8 @@ nav_order: 4
             
         </div>
 
-    </div>
 
-
-
+</div>
 
 
 <br/>
