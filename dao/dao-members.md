@@ -13,7 +13,7 @@ nav_order: 4
         <div class="row" style="width: 100%;padding: 5px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
-            <img src="../member-logos/ascdi-logo.jpg" height="40px" width="40px"><br/>
+            <img src="../member-logos/ascdi-logo.jpg" height="70px" width="70px"><br/>
             ASCDI<br/>
             Joe Marion | President<br/>
 
