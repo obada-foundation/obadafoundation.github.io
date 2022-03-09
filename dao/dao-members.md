@@ -18,7 +18,7 @@ nav_order: 4
             </div>
             
             
-            <div class="col-md-8" style="text-align: center; padding-left: 30px;"><p style="text-align: left;">We are a worldwide not for profit trade association of companies that buy, sell, service, lease and provide ITAD services on IT and communications equipment dealing. The ASCDI embraces a world focused on the putting used technology back into productive use in an environmentally sound manner while protecting our customers’ data.</p></div>
+            <div class="col-md-6" style="text-align: center; padding-left: 30px;"><p style="text-align: left;">We are a worldwide not for profit trade association of companies that buy, sell, service, lease and provide ITAD services on IT and communications equipment dealing. The ASCDI embraces a world focused on the putting used technology back into productive use in an environmentally sound manner while protecting our customers’ data.</p></div>
 
             
             
