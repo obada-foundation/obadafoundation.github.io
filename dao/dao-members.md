@@ -5,32 +5,10 @@ permalink: /dao/members/
 nav_order: 4
 ---
 
-## Current OBADA DAO Members
-  + Techspec
-  + Good Point Recycling
-  + Tradeloop
-  + Rhapsody Ventures
-  + The Broker Site
-  + World Data Products, Inc. 
-  + USODY
-  + ASCDI
-  + Network Commerce International
-  + University of Nevada
-  + CELX Advisory, LLC
-  + E-Reuse Services Inc.
-  + iFixit
-  + JT Environmental Consulting, Inc.
-  + The Repair Association
-  + XS International, Inc.
-  + Dynamic Lifecycle Innovations
-  + Eagle Advisors, LLC
-  + First Class Networks
-  + Greentec
-  + Quantum Lifecycle Partners LP
-  + Unduit
-  + DMD Systems Recovery, Inc. 
 
 <div class="container" style="width: 800px;">
+  
+  <h4>Current OBADA DAO Members</h4>
     <div class="row">
         <div class="row" style="width: 100%;padding: 10px;">
         
@@ -399,6 +377,8 @@ nav_order: 4
         </div>
 
     </div>
+
+
 
 
 <br/>
