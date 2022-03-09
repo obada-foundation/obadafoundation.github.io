@@ -8,7 +8,7 @@ nav_order: 4
 ## Current OBADA DAO Members
 <div>
     <div class="row">
-        <div class="row" style="width: 100%;padding: 10px;">
+        <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <img src="dao/member-logos/ascdi-logo.jpg" height="90"><br/>
@@ -24,9 +24,9 @@ nav_order: 4
             
         </div>
 
-        <div class="row" style="width: 100%;padding: 5px;">
+        <div class="row" style="width: 100%;padding: 15px;">
         
-            <div class="col-md-4" style="text-align: center; padding: 5px;">
+            <div class="col-md-4" style="text-align: center; padding: 10px;">
             <img src="/dao/member-logos/dmd-logo.png" height="90"><br/>
             DMD Systems Recovery, Inc.<br/>
             Aaron Zepper | CEO<br/>
@@ -39,10 +39,10 @@ nav_order: 4
             
             
         </div>
-         <div class="row" style="width: 100%;padding: 5px;">
+         <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
-            <img src="/dao/member-logos/ers_logo_sq_transp.png" height="90"><br/>
+            <img src="dao/member-logos/ers_logo_sq_transp.png" height="90"><br/>
             E-Reuse Services Inc.<br/>
             Sarah Kim<br/>
 
@@ -55,7 +55,7 @@ nav_order: 4
             
         </div>
 
-        <div class="row" style="width: 100%;padding: 10px;">
+        <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <img src="/dao/member-logos/eagle-advisors-logo.png" height="90"><br/>
@@ -71,7 +71,7 @@ nav_order: 4
             
         </div>
 
-        <div class="row" style="width: 100%;padding: 5px;">
+        <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <img src="/dao/member-logos/greentec-logo.jpg" height="90"><br/>
@@ -86,7 +86,7 @@ nav_order: 4
             
             
         </div>
-         <div class="row" style="width: 100%;padding: 5px;">
+         <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <img src="/dao/member-logos/jt-environmental-logo.gif" height="90"><br/>
@@ -101,7 +101,7 @@ nav_order: 4
             
             
         </div>
-        <div class="row" style="width: 100%;padding: 10px;">
+        <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <img src="/dao/member-logos/techreuse-logo.jpg" height="90"><br/>
@@ -117,7 +117,7 @@ nav_order: 4
             
         </div>
 
-        <div class="row" style="width: 100%;padding: 5px;">
+        <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <img src="/dao/member-logos/broker-site-white-bck-logo.png" height="90"><br/>
@@ -132,7 +132,7 @@ nav_order: 4
             
             
         </div>
-         <div class="row" style="width: 100%;padding: 5px;">
+         <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <img src="/dao/member-logos/Tradeloop-Logo-Hi-Res.png" height="90"><br/>
@@ -147,7 +147,7 @@ nav_order: 4
             
             
         </div>
-        <div class="row" style="width: 100%;padding: 10px;">
+        <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <img src="/dao/member-logos/university-of-nevada-logo.eps" height="90"><br/>
@@ -163,7 +163,7 @@ nav_order: 4
             
         </div>
 
-        <div class="row" style="width: 100%;padding: 5px;">
+        <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <img src="/dao/member-logos/xs-international-logo.png" height="90"><br/>
@@ -178,7 +178,7 @@ nav_order: 4
             
             
         </div>
-         <div class="row" style="width: 100%;padding: 5px;">
+         <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <!-- LOGO GOES HERE <img src="" height="50" width="250"> --><br/>
@@ -194,7 +194,7 @@ nav_order: 4
             
             
         </div>
-        <div class="row" style="width: 100%;padding: 10px;">
+        <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <!-- LOGO GOES HERE <img src="" height="50" width="250"> --><br/>
@@ -211,7 +211,7 @@ nav_order: 4
             
         </div>
 
-        <div class="row" style="width: 100%;padding: 5px;">
+        <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <!-- LOGO GOES HERE <img src="" height="50" width="250"> --><br/>
@@ -227,7 +227,7 @@ nav_order: 4
             
             
         </div>
-         <div class="row" style="width: 100%;padding: 5px;">
+         <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <!-- LOGO GOES HERE <img src="" height="50" width="250"> --><br/>
@@ -243,7 +243,7 @@ nav_order: 4
             
             
         </div>
-        <div class="row" style="width: 100%;padding: 10px;">
+        <div class="row" style="width: 100%;padding: 150px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <!-- LOGO GOES HERE <img src="" height="50" width="250"> --><br/>
@@ -260,7 +260,7 @@ nav_order: 4
             
         </div>
 
-        <div class="row" style="width: 100%;padding: 5px;">
+        <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <!-- LOGO GOES HERE <img src="" height="50" width="250"> --><br/>
@@ -276,7 +276,7 @@ nav_order: 4
             
             
         </div>
-         <div class="row" style="width: 100%;padding: 5px;">
+         <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <!-- LOGO GOES HERE <img src="" height="50" width="250"> --><br/>
@@ -291,7 +291,7 @@ nav_order: 4
             
             
         </div>
-        <div class="row" style="width: 100%;padding: 10px;">
+        <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <!-- LOGO GOES HERE <img src="" height="50" width="250"> --><br/>
@@ -308,7 +308,7 @@ nav_order: 4
             
         </div>
 
-        <div class="row" style="width: 100%;padding: 5px;">
+        <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <!-- LOGO GOES HERE <img src="" height="50" width="250"> --><br/>
@@ -324,7 +324,7 @@ nav_order: 4
             
             
         </div>
-         <div class="row" style="width: 100%;padding: 5px;">
+         <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <!-- LOGO GOES HERE <img src="" height="50" width="250"> --><br/>
@@ -340,7 +340,7 @@ nav_order: 4
             
             
         </div>
-        <div class="row" style="width: 100%;padding: 10px;">
+        <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <!-- LOGO GOES HERE <img src="" height="50" width="250"> --><br/>
@@ -357,7 +357,7 @@ nav_order: 4
             
         </div>
 
-        <div class="row" style="width: 100%;padding: 5px;">
+        <div class="row" style="width: 100%;padding: 15px;">
         
             <div class="col-md-4" style="text-align: center; padding: 5px;">
             <!-- LOGO GOES HERE <img src="" height="50" width="250"> --><br/>
