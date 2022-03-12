@@ -6,6 +6,25 @@ nav_order: 4
 ---
 
 ## Current OBADA DAO Members
+
+<div style="width:100%">
+     <div class="row">
+         <div class="row" style="width: 100%;padding-bottom: 20px;">
+
+             <div class="col-12 col-md-4" style="text-align: center; padding: 5px;">
+             <img src="../member-logos/ascdi-logo.jpg" height="70px" width="70px"><br/>
+             ASCDI<br/>
+             Joe Marion | President<br/>
+             </div>
+
+
+             <div class="col-md-8" style="text-align: center; padding-left: 10px; width:100%"><p style="text-align: left;">We are a worldwide not for profit trade association of companies that buy, sell, service, lease and provide ITAD services on IT and communications equipment dealing. The ASCDI embraces a world focused on the putting used technology back into productive use in an environmentally sound manner while protecting our customer's data.</p></div>
+
+
+
+        </div></div></div>
+
+
    + Techspec
    + Good Point Recycling
    + Tradeloop
