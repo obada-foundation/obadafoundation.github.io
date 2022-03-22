@@ -388,12 +388,12 @@ nav_order: 4
     <li>DAO Meeting - Thursday February 3, 2022
     <ul>    
     <li><a href="https://www.dropbox.com/s/8ucrhchmu86pgzu/obada%20on%202022-02-03%2018-29.mp4?dl=0">MP4 Recording</a></li>
-        <li><a href="/dao/presentations/2022/OBADA-DAO-Feb_3_22.pdf">PDF Slide Deck</a></li>
+        <li><a href="/foundation/dao/presentations/2022/OBADA-DAO-Feb_3_22.pdf">PDF Slide Deck</a></li>
         </ul>    </li>
     <li>DAO Meeting - Thursday March 3, 2022
      <ul> 
           <li><a href="https://www.dropbox.com/sh/e25de0g855x0w15/AABpiceuTu7Gwp_nbdEvpFuPa/obada%20dao%20on%202022-03-03%2018-02.mp4?dl=0">PART I</a> | <a href="https://www.dropbox.com/sh/e25de0g855x0w15/AABJhxM90LWHfSEgFfZ184Vua/obada%20dao%20on%202022-03-03%2018-33.mp4?dl=0">PART II</a> (MP4 Recordings)</li>
-          <li><a href="/dao/presentations/2022/OBADA-DAO-Mar_3_22.pdf">PDF Slide Deck</a></li>
+          <li><a href="/foundation/dao/presentations/2022/OBADA-DAO-Mar_3_22.pdf">PDF Slide Deck</a></li>
 </ul>    </li>
     </ul>
     
