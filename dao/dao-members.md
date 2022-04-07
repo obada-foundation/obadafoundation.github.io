@@ -7,6 +7,7 @@ nav_order: 4
 
 ## Current OBADA DAO Members
 
+<h4>DAO Members: Companies</h4>
 <div style="width:100%">
      <div class="row">
          <div class="row" style="width: 100%;padding-bottom: 20px;">
@@ -178,22 +179,6 @@ nav_order: 4
 
 
          </div>
-         <div class="row" style="width: 100%;padding-bottom: 20px;">
-
-             <div class="col-md-4" style="text-align: center; padding: 5px;">
-             <!-- LOGO GOES HERE <img src="" height="50" width="250"> --><br/>
-             CELX Advisory, LLC<br/>
-             <!-- CONTACT NAME --><br/>
-
-             </div>
-
-
-             <div class="col-md-8" style="text-align: center; padding-left: 10px;width:100%"><p style="text-align: left;"><!-- BLURB GOES HERE--></p></div>
-
-
-
-
-         </div>
         <div class="row" style="width: 100%;padding-bottom: 20px;">
 
              <div class="col-md-4" style="text-align: center; padding: 5px;">
@@ -237,7 +222,7 @@ nav_order: 4
              </div>
 
 
-             <div class="col-md-8" style="text-align: center; padding-left: 10px;width:100%"><p style="text-align: left;"><!-- BLURB GOES HERE--></p></div>
+             <div class="col-md-8" style="text-align: center; padding-left: 10px;width:100%"><p style="text-align: left;">Good Point Recycling is a nationally-recognized electronics recycling company and a respected expert in “Fair Trade Recycling.” We are one of the region’s leading “e-waste” recycling operations, based in Middlebury, Vermont.</p></div>
 
 
 
@@ -343,14 +328,14 @@ nav_order: 4
          <div class="row" style="width: 100%;padding-bottom: 20px;">
 
              <div class="col-md-4" style="text-align: center; padding: 5px;">
-             <!-- LOGO GOES HERE <img src="" height="50" width="250"> --><br/>
+             <img src="../member-logos/usody-logo.png" height="50" width="250"> --><br/>
              USODY<br/>
              <!--CONTACT NAME--><br/>
 
              </div>
 
 
-             <div class="col-md-8" style="text-align: center; padding-left: 10px;width:100%"><p style="text-align: left;"><!-- BLURB GOES HERE--></p></div>
+             <div class="col-md-8" style="text-align: center; padding-left: 10px;width:100%"><p style="text-align: left;">Device inventory management for lifecycle chain of custody.</p></div>
 
 
 
@@ -373,7 +358,25 @@ nav_order: 4
 
 
          </div>
+          
+          <h4>DAO Members: People</h4> 
 
+           <div class="row" style="width: 100%;padding-bottom: 20px;">
+
+             <div class="col-md-4" style="text-align: center; padding: 5px;">
+             <!-- LOGO GOES HERE <img src="" height="50" width="250"> --><br/>
+             <!-- COMPANY NAME--><br/>
+             Guennael Delorme<br/>
+
+             </div>
+
+
+             <div class="col-md-8" style="text-align: center; padding-left: 10px;width:100%"><p style="text-align: left;"><!-- BLURB GOES HERE--></p></div>
+
+
+
+
+         </div>
 
  </div></div>
 
