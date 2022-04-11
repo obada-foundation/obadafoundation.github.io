@@ -10,4 +10,4 @@ permalink: /other_obada_sites/
 
 [Demo Site](https://dev.rd.obada.io/)  (proof-of-concept 2)
 
-[Blockchain Explorer and Tools](https://gateway.obada.io/)  (proof-of-concept 2)
+[Blockchain Explorer and Tools](http://explorer.alpha.obada.io/)  (proof-of-concept 2)
