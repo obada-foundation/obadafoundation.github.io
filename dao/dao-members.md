@@ -198,14 +198,14 @@ nav_order: 4
         <div class="row" style="width: 100%;padding-bottom: 20px;">
 
              <div class="col-md-4" style="text-align: center; padding: 5px;">
-             <!-- LOGO GOES HERE <img src="" height="50" width="250"> --><br/>
+             <img src="../member-logos/think-dynamic-logo.png" height="90px" width="130px"><br/>
              Dynamic Lifecycle Innovations<br/>
-             <!-- CONTACT NAME --><br/>
+             Bobbie Suhr<br/>
 
              </div>
 
 
-             <div class="col-md-8" style="text-align: center; padding-left: 10px;width:100%"><p style="text-align: left;"><!-- BLURB GOES HERE--></p></div>
+             <div class="col-md-8" style="text-align: center; padding-left: 10px;width:100%"><p style="text-align: left;">Dynamic Lifecycle Innovations is a full-service electronics and materials lifecycle management corporation specializing in IT asset disposition, data security, remarketing and resale, electronics recycling, legislative compliance, product refurbishment, materials recovery, and logistics. We create customized, worldwide service packages designed to safeguard our customers’ sensitive data and protect the environment from e-waste and other pollutants.</p></div>
 
 
 
