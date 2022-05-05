@@ -11,9 +11,9 @@ The Board members are:
 + Robin Ingenthron
 + Kenneth Jacobsen
 + Ronald Lembke
-+ Joe Marion
++ Joe Marion, **Treasurer**
 + Leandro Navarro
-+ Mark Schaffer, **Treasurer**
++ Mark Schaffer, **Secretary**
 + Rohi Sukhia, **Chairman of the Board**
 + Neil Vill
 
