@@ -32,7 +32,7 @@ nav_order: 4
 ## Past Technical/Development Meetings: Presentations & Recordings
 <ul>
     <li>Technical Meeting - April 26, 2022
-     <ul> <li><a href="https://www.dropbox.com/s/zteujf5ji52yxer/obada-dev-meeting%20on%202022-04-26%2016-07.mp4?dl=0">MP4 Recording</li>
+     <ul> <li><a href="https://www.dropbox.com/s/zteujf5ji52yxer/obada-dev-meeting%20on%202022-04-26%2016-07.mp4?dl=0">MP4 Recording</a></li>
           <li><a href="https://docs.google.com/presentation/d/1JspHrOePm3rKQFHqVTOiVVX8ee57rVS8YIq0VblGbAA/edit?usp=sharing">Slide Deck</a></li>
 </ul>    </li>
     <li>Technical Meeting - March 22, 2022
