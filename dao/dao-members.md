@@ -50,7 +50,7 @@ nav_order: 4
     <li><a href="https://www.dropbox.com/s/s8knxu4t3zdjxeg/obada-dev-meeting%20on%202022-01-25%2017-44.mp4?dl=0">MP4 Recording</a></li>
         <li><a href="https://docs.google.com/presentation/d/1NVTqhLU9jWVcviFmBoKg4nqxwnuyPivc2smyqeBZfT4/edit?usp=sharing">Slide Deck</a></li>
         </ul>    </li>
-        
+ </ul>       
 ## Past Working Group/Member Meetings
 <ul>
 <li> <a href="https://drive.google.com/drive/folders/1ZadjfhI-RsFLCp-MxpUaRv_UqSdwxA8s?usp=sharing">2021 Presentations</a></li>   
