@@ -11,7 +11,6 @@ nav_order: 4
 
 #### Links from past meetings: 
 Audio and Video recordings are available for most meetings.  Please request permission from [jennifer@obada.io](mailto:jennifer@obada.io)
-  + *current meeting presentations need to be added here / perhaps just link to a Google Docs directory instead*
   + 2022 OBADA BOD: [Meeting Presentation w/Notes](https://drive.google.com/drive/folders/1HDTleDuylO-4s9SSnXsuzT_i4QTJEzlr?usp=sharing)
   + 2021 OBADA BOD: [Meeting Presentation w/Notes](https://drive.google.com/drive/folders/1u_VvpKaURcZ_kTz3QE_u_fJDnx5jVksM?usp=sharing)
   + November 7, 2019: [Meeting Presentation w/Notes](https://docs.google.com/presentation/d/1QMtDy43yBfMdiVE5itZAui_hHZM65Ai9Kzs4ULOM4zQ/edit?usp=sharing)
