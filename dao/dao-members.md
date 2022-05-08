@@ -8,7 +8,7 @@ nav_order: 4
 ## Past DAO Meetings: Presentations & Recordings
 <ul>
     <li>DAO Meeting - Thursday May 5, 2022
-     <ul> 
+     <ul> <li><a href="https://www.dropbox.com/s/9anijph0zpfatzb/obada%20on%202022-05-05%2017-04.mp4?dl=0">PART I</a> | <a href="https://www.dropbox.com/s/cadnp091wy4iqei/obada%20on%202022-05-05%2017-40.mp4?dl=0">PART II</a> (MP4 Recordings)</li>
           <li><a href="/foundation/dao/presentations/2022/OBADA%20DAO%20Meeting%2005.05.22.pdf">PDF Slide Deck</a></li>
 </ul>    </li>
     <li>DAO Meeting - Thursday April 7, 2022
