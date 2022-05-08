@@ -34,6 +34,28 @@ nav_order: 4
 <ul>
     
     
+## Past Technical/Development Meetings: Presentations & Recordings
+<ul>
+    <li>Technical Meeting - April 26, 2022
+     <ul> <li><a href="https://www.dropbox.com/s/zteujf5ji52yxer/obada-dev-meeting%20on%202022-04-26%2016-07.mp4?dl=0">MP4 Recording</li>
+          <li><a href="https://docs.google.com/presentation/d/1JspHrOePm3rKQFHqVTOiVVX8ee57rVS8YIq0VblGbAA/edit?usp=sharing">Slide Deck</a></li>
+</ul>    </li>
+    <li>Technical Meeting - March 22, 2022
+     <ul> 
+         <li><a href="https://www.dropbox.com/s/792tde2lawcixts/obada-dev-meeting%20on%202022-03-22%2016-26.mp4?dl=0">PART I</a> | <a href="https://www.dropbox.com/s/ly5n30soixyntyi/obada-dev-meeting%20on%202022-03-22%2017-43.mp4?dl=0">PART II</a> (MP4 Recordings)</li>
+</ul>    </li>
+    <li>Technical Meeting - February 22, 2022
+     <ul> 
+          <li><a href="https://www.dropbox.com/s/p81264z2945wtvq/obada-dev-meeting%20on%202022-02-22%2016-57.mp4?dl=0">PART I</a> | <a href="https://www.dropbox.com/s/xidgfogniaj26ob/obada-dev-meeting%20on%202022-02-22%2017-03.mp4?dl=0">PART II</a> (MP4 Recordings)</li>
+           
+</ul>    </li>
+<li>DAO Meeting - January 25, 2022
+    <ul>    
+    <li><a href="https://www.dropbox.com/s/s8knxu4t3zdjxeg/obada-dev-meeting%20on%202022-01-25%2017-44.mp4?dl=0">MP4 Recording</a></li>
+        <li><a href="https://docs.google.com/presentation/d/1NVTqhLU9jWVcviFmBoKg4nqxwnuyPivc2smyqeBZfT4/edit?usp=sharing">Slide Deck</a></li>
+        </ul>    </li>
+        
+</ul>
         
 </ul>
 
