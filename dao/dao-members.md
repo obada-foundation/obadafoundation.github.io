@@ -31,7 +31,6 @@ nav_order: 4
 
 ## Past Working Group/Member Meetings
 <li> <a href="https://drive.google.com/drive/folders/1ZadjfhI-RsFLCp-MxpUaRv_UqSdwxA8s?usp=sharing">2021 Presentations</a></li>
-<ul>
     
     
 ## Past Technical/Development Meetings: Presentations & Recordings
@@ -55,7 +54,6 @@ nav_order: 4
         <li><a href="https://docs.google.com/presentation/d/1NVTqhLU9jWVcviFmBoKg4nqxwnuyPivc2smyqeBZfT4/edit?usp=sharing">Slide Deck</a></li>
         </ul>    </li>
         
-</ul>
         
 </ul>
 
