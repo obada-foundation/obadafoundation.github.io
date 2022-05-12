@@ -2,7 +2,7 @@
 title: DAO Operating Agreement
 parent: The OBADA DAO
 permalink: /dao/dao-operating-agreement/
-nav_order: 2
+nav_order: 3
 ---
 
 # DAO Operating Agreement
