@@ -34,7 +34,7 @@ Eagle Advisors, LLC (Eagle) specializes in investing in large-scale ventures wit
 
 <hr>
 **Original HTML**
-
+<div style="width:100%">
          <div class="row" style="width: 100%;padding-bottom: 20px;">
 
              <div class="col-md-4" style="text-align: center; padding: 5px;">
