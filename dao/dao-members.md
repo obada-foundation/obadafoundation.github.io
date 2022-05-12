@@ -2,7 +2,7 @@
 title: DAO Members
 parent: The OBADA DAO
 permalink: /dao/members/
-nav_order: 1
+nav_order: 2
 ---
 ## Current OBADA DAO Members
 
