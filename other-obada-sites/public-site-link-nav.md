@@ -1,7 +1,7 @@
 ---
-title: OBADA Public Site
+title: Public Explainer Site
 nav_order: 1
-parent: Other OBADA Sites
+parent: Marketing
 ---
 
 <meta charset="utf-8">
