@@ -1,5 +1,5 @@
 ---
-title: OBADA DAO Forum
+title: DAO Forum
 parent: The OBADA DAO
 nav_order: 1
 ---
