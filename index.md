@@ -3,7 +3,7 @@ title: The OBADA Foundation
 permalink: /
 nav_order: 2
 has_children: true
-toc: false
+has_toc: false
 ---
 	
 ##  The OBADA Foundation - Document Repository and Information Site
