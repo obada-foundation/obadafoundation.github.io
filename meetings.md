@@ -1,5 +1,5 @@
 ---
-title: Meeting Schedule
+title: BOD Meetings
 permalink: /meetings
 nav_order: 1
 ---
