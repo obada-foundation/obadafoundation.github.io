@@ -86,3 +86,10 @@ DAO Meeting - Thursday February 3, 2022
 <ul>
 <li> <a href="https://drive.google.com/drive/folders/1ZadjfhI-RsFLCp-MxpUaRv_UqSdwxA8s?usp=sharing">2021 Presentations</a></li>   
 </ul>
+
+<br><br>
+
+## Past OBADA Presentations
+
+* ITAD Summit - Huntington Beach, California - August 2021 <br/> [NFT Registry for Physical Asset Data](/presentations/2021/OBADA-ITAD-SUMMIT-Aug2021.pdf) (pdf)
+* E-Scrap / E-Reuse Conference - Chicago, Illinois - November 2021 <br/> [NFT Registry for Physical Asset Data](/presentations/2021/OBADA-EScrap-EReuse-Conf-Nov2021.pdf) (pdf)
