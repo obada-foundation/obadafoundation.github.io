@@ -2,7 +2,7 @@
 title: DAO Incorporation Docs
 parent: The OBADA DAO
 permalink: /dao/incorporation-docs/
-nav_order: 4
+nav_order: 5
 ---
 
 # OBADA DAO Incorporation Docs
