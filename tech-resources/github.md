@@ -1,7 +1,7 @@
 ---
 title: Github Account
 nav_order: 2
-parent: Other OBADA Sites
+parent: Tech Resources
 ---
 
 <meta charset="utf-8">
