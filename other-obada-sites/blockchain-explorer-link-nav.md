@@ -1,7 +1,7 @@
 ---
 title: Blockchain Explorer
 nav_order: 4
-parent: Other OBADA Sites
+parent: Tech Resources
 ---
 
 <meta charset="utf-8">
