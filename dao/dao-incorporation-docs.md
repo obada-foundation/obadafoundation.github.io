@@ -1,5 +1,5 @@
 --- 
-title: DAO Incorporation Docs
+title: DAO LLC Corp Docs
 parent: The OBADA DAO
 permalink: /dao/incorporation-docs/
 nav_order: 5
