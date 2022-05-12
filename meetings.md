@@ -11,10 +11,13 @@ nav_order: 2
 
 ## OBADA BOD Meetings
 
-Audio and Video recordings are available for most meetings.  Please request permission from [jennifer@obada.io](mailto:jennifer@obada.io)
   + 2022 OBADA BOD: [Meeting Presentation w/Notes](https://drive.google.com/drive/folders/1HDTleDuylO-4s9SSnXsuzT_i4QTJEzlr?usp=sharing)
+  + BOD Meeting - March 8, 2022 [PART I](https://www.dropbox.com/sh/e25de0g855x0w15/AAAKD2bV2dAl4W4EjS4Z0k8Ha/obada-bod%20on%202022-03-08%2017-07.mp4?dl=0) / [PART II](https://www.dropbox.com/sh/e25de0g855x0w15/AAD5UvgBH0IIf2xiJL8bSwOMa/obada-bod%20on%202022-03-08%2017-33.mp4?dl=0) (MP4 Recordings)
   + 2021 OBADA BOD: [Meeting Presentation w/Notes](https://drive.google.com/drive/folders/1u_VvpKaURcZ_kTz3QE_u_fJDnx5jVksM?usp=sharing)
-  + November 7, 2019: [Meeting Presentation w/Notes](https://docs.google.com/presentation/d/1QMtDy43yBfMdiVE5itZAui_hHZM65Ai9Kzs4ULOM4zQ/edit?usp=sharing)
++ [BOD Meeting - September 21, 2021](/presentations/2021/OBADA-BOD-Sep_21_21.pdf) (pdf)
++ [BOD Meeting - November 16, 2021](/presentations/2021/OBADA-BOD-Nov_16_21.pdf) (pdf)
++ [BOD Meeting - January 11, 2022](/presentations/2022/OBADA-BOD-Jan_11_22.pdf) (pdf)
+ + November 7, 2019: [Meeting Presentation w/Notes](https://docs.google.com/presentation/d/1QMtDy43yBfMdiVE5itZAui_hHZM65Ai9Kzs4ULOM4zQ/edit?usp=sharing)
   + October 17, 2019: [Meeting Presentation w/Notes](https://docs.google.com/presentation/d/1j0VRM8VDldQDe9Zj97WF7PM4UBxb-lOFKAcXjDeIebo/edit?usp=sharing)
   + October 3, 2019: [Meeting Presentation w/Notes](https://docs.google.com/presentation/d/1tdErKB4IddL-fJQYAyqjIyPAEFMuw6fGufACInBsYkI/edit?usp=sharing)
   + September 19, 2019: [Meeting Presentation w/Notes](https://docs.google.com/presentation/d/1kTpKJXWgrtBaSahEk4O2R90UqhTdBwPv0tyUrp-bE5A/edit?usp=sharing)
