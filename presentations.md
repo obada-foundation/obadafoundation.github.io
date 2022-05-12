@@ -1,9 +1,7 @@
 ---
-title: Past Presentations
-parent: The OBADA Foundation
-has-children: true
+title: Presentations
 permalink: /presentations/
-nav_order: 6
+nav_order: 1
 ---
 
 ## Past OBADA Presentations
