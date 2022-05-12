@@ -86,9 +86,8 @@ DAO Meeting - Thursday February 3, 2022
  </ul>       
 
 ## Working Group Meetings
-<ul>
-<li> <a href="https://drive.google.com/drive/folders/1ZadjfhI-RsFLCp-MxpUaRv_UqSdwxA8s?usp=sharing">2021 Presentations</a></li>   
-</ul>
+* [2021 Presentations](https://drive.google.com/drive/folders/1ZadjfhI-RsFLCp-MxpUaRv_UqSdwxA8s)
+* [WG Meeting - December 2021](/presentations/2021/OBADA-WG-Dec2021.pdf) 
 
 <br><br>
 
