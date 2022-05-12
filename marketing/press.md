@@ -1,8 +1,8 @@
 ---
 title: Press
-parent: The OBADA Foundation
-permalink: /press/
-nav_order: 7
+parent: Marketing
+permalink: /marketing/press/
+nav_order: 
 ---
 
 
