@@ -1,8 +1,7 @@
 --- 
 title: DAO Meetings
-parent: The OBADA DAO
 permalink: /dao/meetings/
-nav_order: 3
+nav_order: 1
 ---
 
 ### The OBADA DAO meets monthly on the first Thursday at 12pm EST on [https://meet.jit.si/obada](meet.jit.si/obada)
