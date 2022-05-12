@@ -1,6 +1,6 @@
 --- 
 title: DAO Members
-parent: The OBADA DAO
+parent: Marketing
 permalink: /marketing/dao/members/
 nav_order: 2
 ---
