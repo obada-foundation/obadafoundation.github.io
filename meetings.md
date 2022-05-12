@@ -1,7 +1,8 @@
 --- 
 title: Meeting Minutes
 permalink: /meetings/
-nav_order: 1
+parent: Quick Links
+nav_order: 2
 ---
 
 ### The OBADA DAO meets monthly on the first Thursday at 12pm EST on [https://meet.jit.si/obada](meet.jit.si/obada)
