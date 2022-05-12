@@ -1,6 +1,7 @@
 ---
 title: Calendar
 permalink: /calendar
+parent: Quick Links
 nav_order: 1
 ---
 
