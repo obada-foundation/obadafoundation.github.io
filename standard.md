@@ -1,6 +1,6 @@
 ---
-title: The OBADA Standard
-nav_order: 4
+title: The pNFT Standard
+nav_order: 2
 permalink: /standard/
 
 ---
