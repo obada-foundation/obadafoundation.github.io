@@ -1,7 +1,7 @@
 ---
 title: Demo Site
 nav_order: 3
-parent: Other OBADA Sites
+parent: Tech Resources
 ---
 
 <meta charset="utf-8">
