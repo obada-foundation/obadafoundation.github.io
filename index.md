@@ -15,3 +15,17 @@ The **OBADA Foundation** is a 501(c)6 nonprofit coalition of stakeholders in the
 2. The foundation deals with **"real-world" issues** such as lawyers, fiat, and the asset disposition industry.
 
 3. The foundation is chartered with **developing the initial software** and **forming the OBADA DAO** to run the decentralized software application.
+
+<br><br>
+
+## The pNFT Standard.
+<br>
+The OBADA Foundation is working with ISO to develop the pNFT Standard, an international standard for representing physical assets as non-fungible tokens (NFTs).
+
+<br><br>
+
+## The OBADA DAO
+<br>
+The OBADA DAO is a decentralized autonomous organization consisting of a consortium of stakeholders from the IT Asset Disposition sector.   DAO documents are here.  The DAO communicates and decides on proposals via the [DAO Forum](https://forum.obada.io).
+
+
