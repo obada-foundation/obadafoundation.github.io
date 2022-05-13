@@ -9,25 +9,25 @@ nav_order: 2
 <br><br>
 
 ### ASCDI - Joe Marion | President
-<img src="../member-logos/ascdi-logo.jpg"  align="left" height="90px" width="70px">
+<img src="/member-logos/ascdi-logo.jpg"  align="left" hspace="10" height="90px" width="70px">
 We are a worldwide not for profit trade association of companies that buy, sell, service, lease and provide ITAD services on IT and communications equipment dealing. The ASCDI embraces a world focused on the putting used technology back into productive use in an environmentally sound manner while protecting our customer's data.
 <br><br>
 
 
 ### DMD Systems Recovery, Inc. - Aaron Zepper | CEO
-<img src="../member-logos/dmd-logo.png" align="left" height="90px" width="90px">
+<img src="../member-logos/dmd-logo.png" align="left" hspace="10" height="90px" width="90px">
 DMD provides ITAD solutions adhering to the most rigorous environmental and security standards to deliver confidence for companies who value our world and their reputation. DMD works with hundreds of companies and public entities to securely destroy their data, decommission assets, and redeploy or remarket the equipment across IT categories including Data Center, End User Compute, and Mobility.
 
 <br><br>
 
 ### E-Reuse Services Inc. - Sarah Kim
-<img src="../member-logos/ers_logo_sq_transp.png" align="left" height="90px" width="90px">
+<img src="../member-logos/ers_logo_sq_transp.png" hspace="10" align="left" height="90px" width="90px">
 E-Reuse Services provides consulting and collaboration services to electronics repair, recycling and refurbishing industries and hosts the annual Electronics Reuse Conference (ERC). In January 2018, ERS launched the E-Reuse Network, a new collaboration forum to better connect device cell phone repair businesses, electronics recyclers, Refurbishers, and ITADs with the vendors that supply them with the tools and services they need to run their businesses.
               
 <br><br>
 
 ### Eagle Advisors, LLC - Seve Romo
-<img src="../member-logos/eagle-advisors-logo.png" align="left" height="100px" width="100px">
+<img src="../member-logos/eagle-advisors-logo.png" align="left" hspace="10"  height="100px" width="100px">
 Eagle Advisors, LLC (Eagle) specializes in investing in large-scale ventures with new and or existing technology. We focus our investments principally on projects revolving around food, water, energy, minerals, renewables and artificial intelligence.
 
 <br><br>
