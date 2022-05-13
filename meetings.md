@@ -6,13 +6,7 @@ nav_order: 2
 ---
 
 # Meeting Minutes and Past Presentations
-The following are incomplete lists. 
 
-~~~ 
-
-Can we instead just link here to the appropriate folders in our Google Drive and Dropbox which contain these docs?
-
-~~~
 
 <br>
 
