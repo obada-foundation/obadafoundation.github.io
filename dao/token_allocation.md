@@ -6,4 +6,8 @@ nav_order: 4
 has_toc: false
 ---
 
-Link to Token Allocation spreadsheet goes here
+<br> <br>
+
+# Link to Token Allocation spreadsheet goes here
+
+<br> <br>
