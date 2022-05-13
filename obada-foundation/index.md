@@ -1,6 +1,6 @@
 ---
 title: The OBADA Foundation
-permalink: /foundation/about
+permalink: /about
 nav_order: 2
 has_children: true
 has_toc: false
