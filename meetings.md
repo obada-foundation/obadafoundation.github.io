@@ -43,7 +43,7 @@ The OBADA BOD meets monthly on the second Tuesday at 11am EST on [https://meet.j
 
 
 ## DAO Meetings
-The OBADA BOD meets monthly on the first Thursday at 12am EST on [https://meet.jit.si/obada](meet.jit.si/obada)
+The OBADA BOD meets monthly on the first Thursday at Noon EST on [https://meet.jit.si/obada](meet.jit.si/obada)
 
 * Thursday May 5, 2022 
 ~ [MP4 PART I](https://www.dropbox.com/s/9anijph0zpfatzb/obada%20on%202022-05-05%2017-04.mp4?dl=0) 
