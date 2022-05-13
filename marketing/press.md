@@ -2,7 +2,7 @@
 title: Press
 parent: Marketing
 permalink: /marketing/press/
-nav_order: 
+nav_order: 3
 ---
 
 
