@@ -5,7 +5,7 @@ permalink: /dao/members/
 nav_order: 2
 ---
 <br/>
-# Current OBADA DAO Members
+## Current OBADA DAO Members
 
 <br/>
 
@@ -56,12 +56,12 @@ For over twenty years, Tradeloop has been the wholesale network of choice for IT
 
 ### University of Nevada | Ron Lembke
 <img src="../member-logos/university-of-nevada-logo.png" align="left" vspace="5"  hspace="10" height="80px" width="80px">
-University of Nevada, “Business is more than you think.”
+University of Nevada, “Business is more than you think.” At Nevada's College of Business, the faculty and staff are what has earned the college its impressive reputation. Experts with years of industry, research and academic experience take pride in preparing the next generation to be leaders and innovators in business. 
 <br/>
 
 ### XS International, Inc. | Todd A. Bone
 <img src="../member-logos/xs-international-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px">
-XSI specializes in a suite of IT lifecycle services and IT hardware lifecycle support for data center servers, storage, network and EUC.
+XSi helps companies with their IT Lifecycle Services and Support. Services begin with the installation of new technology as well as de-installation, moving, consolidating, onsite disk wiping & destruction, IT Asset Disposition (ITAD) of legacy equipment, including resale or recycling. In addition, XSi provides lower-cost, Third Party Hardware Maintenance for installed models and extends the life of legacy, enterprise-brand servers, storage, network hardware and other devices, including UPS systems and supercomputers.
 <br/>
 
 
@@ -97,17 +97,17 @@ Quantum Lifecycle is both an IT asset disposition (ITAD) company and an end-of-l
 
 ### The Repair Association | Gay Gordon-Byrne
 <img src="../member-logos/repair-org-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px"> 
-Our goal is to advocate for repair-friendly policies, regulations, statutes, and standards at the national, state, and local levels. 
+The Repair Association brings businesses big and small from many sectors of the repair industry together to move us all forward. Our goal is to advocate for repair-friendly policies, regulations, statutes, and standards at the national, state, and local levels. The Repair Association enjoy the backing of some of the world's most powerful activisits. We travel the globe on your behalf, testifying in front of statehouses, standards committees, and media outlets to make sure your business continues to thrive.
 <br/>
 
 ### Unduit
 <!-- Need image that works on white background <img src="../member-logos/unduit-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px"> -->
-Unduit Wireless is a cloud based platform and services solution for corporate device repairs.
+Unduit is a software and services organization that provides asset life cycle management of IT Assets from procurement to end of life of assets for enterprises ranging from small businesses to Fortune 100 companies. Unduit's app based cloud platform that uses technologies such as blockchain to drive value for customers.
 <br/>
 
 ### USODY
 <img src="../member-logos/usody-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px"> 
-Device inventory management for lifecycle chain of custody.
+Device inventory management for lifecycle chain of custody. Our solutions help customers collect devices to maximize their life cycle and ensure final recycling. We support local actors and ecosystems to create or regenerate the circular economy of secondary market. At a global level, we are providing decentralized and open-source technologies to democratize the access of collection, repair, reuse and recyling our electronic devices. Right to repair, right to know circularity, close digital divide, sustainability
 <br/>
 
 ### World Data Products, Inc. | Neil Vill
