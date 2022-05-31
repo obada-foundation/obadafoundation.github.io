@@ -40,7 +40,7 @@ Technology lifecycle solutions to protect your business and our environment.
 
 <br/><br/><br/>
 
-## JT Environmental - Jason Teliszczak | CEO/Founder
+## JT Environmental - Jason Teliszczak | CEO
 <img src="../member-logos/jt-environmental-logo.gif" align="left" vspace="5"  hspace="10" height="60px" width="60px">
 We assist clients to become certified to several standards (in this realm, R2, e-Stewards, ISO 27001, ISO 14001, NAID AAA, etc.)
 
