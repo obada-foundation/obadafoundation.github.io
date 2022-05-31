@@ -41,7 +41,7 @@ Technology lifecycle solutions to protect your business and our environment.
 <br>
 
 ## JT Environmental - Jason Teliszczak | CEO/Founder
-<img src="../member-logos/jt-environmental-logo.gif" align="left" vspace="5"  hspace="10" height="140px" width="120px">
+<img src="../member-logos/jt-environmental-logo.gif" align="left" vspace="5"  hspace="10" height="80px" width="80px">
 We assist clients to become certified to several standards (in this realm, R2, e-Stewards, ISO 27001, ISO 14001, NAID AAA, etc.)
 
 
@@ -69,7 +69,7 @@ For over twenty years, Tradeloop has been the wholesale network of choice for IT
 <br>
 
 ## University of Nevada - Ron Lembke
-<img src="../member-logos/university-of-nevada-logo.eps" align="left" vspace="5"  hspace="10" height="140px" width="120px">
+<!-- NEED PNG IMAGE <img src="../member-logos/university-of-nevada-logo.eps" align="left" vspace="5"  hspace="10" height="80px" width="80px"> -->
 University of Nevada, “Business is more than you think.”
 
 
