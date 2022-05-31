@@ -52,7 +52,7 @@ We assist clients to become certified to several standards (in this realm, R2, e
 <br>
 
 ## TechReuse - Charles Brennick
-<img src="../member-logos/techreuse-logo.jpg" align="left" vspace="5"  hspace="10" height="60px" width="60px">
+<img src="../member-logos/techreuse-logo.jpg" align="left" vspace="5"  hspace="10" height="100px" width="90px">
 TechReuse provides tools and services to help others start new reuse operations, increase efficiency at existing operations and make all reuse businesses more successful. Our main product is TechSpec, software that helps computer refurbishers increase efficiency by automatically testing computers and capturing hardware specifications.
 
 <br>
@@ -60,7 +60,7 @@ TechReuse provides tools and services to help others start new reuse operations,
 <br>
 
 ## The Broker Site - Brian G. Altman | Technical Director
-<img src="../member-logos/broker-site-white-bck-logo.png" align="left" vspace="5"  hspace="10" height="60px" width="60px">
+<img src="../member-logos/broker-site-white-bck-logo.png" align="left" vspace="5"  hspace="10" height="100px" width="90px">
 Europe's leading Computer Trading Exchange since 1999 and organizer of the www.EuropeanBrokerMeeting.com, the leading get-together for the computer trading industry with over 600 traders attending each year!
 
 <br>
@@ -68,7 +68,7 @@ Europe's leading Computer Trading Exchange since 1999 and organizer of the www.E
 <br>
 
 ## Tradeloop - Rohi Sukhia | Founder
-<img src="../member-logos/Tradeloop-Logo-Hi-Res.png" align="left" vspace="5"  hspace="10" height="60px" width="60px">
+<img src="../member-logos/Tradeloop-Logo-Hi-Res.png" align="left" vspace="5"  hspace="10" height="100px" width="90px">
 For over twenty years, Tradeloop has been the wholesale network of choice for ITADs, Recyclers, Refurbishers, Brokers, and other professional traders. Tradeloop's mission is to improve reuse and recycling rates for the circular economy including tackling the problems of fraud, counterfeiting, sustainability, e-Waste, data breaches, and participating in legislative efforts to give consumers the right to repair their digital devices.
 
 <br>
@@ -76,7 +76,7 @@ For over twenty years, Tradeloop has been the wholesale network of choice for IT
 <br>
 
 ## University of Nevada - Ron Lembke
-<img src="../member-logos/university-of-nevada-logo.eps" align="left" vspace="5"  hspace="10" height="60px" width="60px">
+<img src="../member-logos/university-of-nevada-logo.eps" align="left" vspace="5"  hspace="10" height="100px" width="90px">
 University of Nevada, “Business is more than you think.”
 
 <br>
@@ -84,7 +84,7 @@ University of Nevada, “Business is more than you think.”
 <br>
 
 ## XS International, Inc. - Todd A. Bone
-<img src="../member-logos/xs-international-logo.png" align="left" vspace="5"  hspace="10" height="60px" width="60px">
+<img src="../member-logos/xs-international-logo.png" align="left" vspace="5"  hspace="10" height="100px" width="90px">
 XSI specializes in a suite of IT lifecycle services and IT hardware lifecycle support for data center servers, storage, network and EUC.
 
 <br>
@@ -92,7 +92,7 @@ XSI specializes in a suite of IT lifecycle services and IT hardware lifecycle su
 <br>
 
 ## Dynamic Lifecycle Innovations - Bobbie Suhr
-<img src="../member-logos/think-dynamic-logo.png" align="left" vspace="5"  hspace="10" height="60px" width="60px">
+<img src="../member-logos/think-dynamic-logo.png" align="left" vspace="5"  hspace="10" height="100px" width="90px">
 Dynamic Lifecycle Innovations is a full-service electronics and materials lifecycle management corporation specializing in IT asset disposition, data security, remarketing and resale, electronics recycling, legislative compliance, product refurbishment, materials recovery, and logistics. We create customized, worldwide service packages designed to safeguard our customers’ sensitive data and protect the environment from e-waste and other pollutants.
 
 <br>
@@ -100,7 +100,7 @@ Dynamic Lifecycle Innovations is a full-service electronics and materials lifecy
 <br>
 
 ## First Class Networks 
-<img src="../member-logos/first-class-networks.png" align="left" vspace="5"  hspace="10" height="60px" width="60px"> 
+<img src="../member-logos/first-class-networks.png" align="left" vspace="5"  hspace="10" height="100px" width="90px"> 
 First Class Networks provides local businesses with customized and affordable IT support and cyber security solutions in a professional and accessible manner.
 
 <br>
@@ -108,7 +108,7 @@ First Class Networks provides local businesses with customized and affordable IT
 <br>
 
 ## Good Point Recycling - Robin Ingenthron
-<img src="../member-logos/good-point-recycling.png" align="left" vspace="5"  hspace="10" height="60px" width="60px"> 
+<img src="../member-logos/good-point-recycling.png" align="left" vspace="5"  hspace="10" height="100px" width="90px"> 
 Good Point Recycling is a nationally-recognized electronics recycling company and a respected expert in “Fair Trade Recycling.” We are one of the region’s leading “e-waste” recycling operations, based in Middlebury, Vermont.
 
 <br>
@@ -116,7 +116,7 @@ Good Point Recycling is a nationally-recognized electronics recycling company an
 <br>
 
 ## iFixit - Kyle Wiens
-<img src="../member-logos/ifixit-logo.png" align="left" vspace="5"  hspace="10" height="60px" width="60px"> 
+<img src="../member-logos/ifixit-logo.png" align="left" vspace="5"  hspace="10" height="100px" width="90px"> 
 We help thousands of people repair their devices every day. And every time you fix something, you help the planet by keeping e-waste from entering the landfill.
 
 <br>
@@ -124,7 +124,7 @@ We help thousands of people repair their devices every day. And every time you f
 <br>
 
 ## Network Commerce International
-<!-- <img src="../member-logos/" align="left" vspace="5"  hspace="10" height="60px" width="60px"> -->
+<!-- <img src="" align="left" vspace="5"  hspace="10" height="100px" width="90px"> -->
 Network Commerce International is an online marketplace for technology resellers specializing in Computer and Telecom Equipment.
 
 <br>
@@ -132,21 +132,21 @@ Network Commerce International is an online marketplace for technology resellers
 <br>
 
 ## Quantum Lifcycle Partners LP - Gary Diamond
-<img src="../member-logos/quantum-lifecycle-logo.png" align="left" vspace="5"  hspace="10" height="60px" width="60px"> 
+<img src="../member-logos/quantum-lifecycle-logo.png" align="left" vspace="5"  hspace="10" height="100px" width="90px"> 
 Quantum Lifecycle is both an IT asset disposition (ITAD) company and an end-of-life electronics recycler. Through this strategic pairing of services, we cover every step of the IT disposition process, from data destruction to refurbishment, resale and recycling. 
 <br>
 
 <br>
 
 ## The Repair Association - Gay Gordon-Byrne
-<img src="../member-logos/repair-org-logo.png" align="left" vspace="5"  hspace="10" height="60px" width="60px"> 
+<img src="../member-logos/repair-org-logo.png" align="left" vspace="5"  hspace="10" height="100px" width="90px"> 
 Our goal is to advocate for repair-friendly policies, regulations, statutes, and standards at the national, state, and local levels. 
 <br>
 
 <br>
 
 ## Unduit
-<img src="../member-logos/unduit-logo.png" align="left" vspace="5"  hspace="10" height="60px" width="60px"> 
+<!-- <img src="../member-logos/unduit-logo.png" align="left" vspace="5"  hspace="10" height="100px" width="90px"> -->
 Unduit Wireless is a cloud based platform and services solution for corporate device repairs.
 
 <br>
@@ -154,7 +154,7 @@ Unduit Wireless is a cloud based platform and services solution for corporate de
 <br>
 
 ## USODY
-<img src="../member-logos/usody-logo.png" align="left" vspace="5"  hspace="10" height="60px" width="60px"> 
+<img src="../member-logos/usody-logo.png" align="left" vspace="5"  hspace="10" height="100px" width="90px"> 
 Device inventory management for lifecycle chain of custody.
 
 <br>
@@ -162,7 +162,7 @@ Device inventory management for lifecycle chain of custody.
 <br>
 
 ## World Data Products, Inc. - Neil Vill
-<img src="../member-logos/world-data-logo.png" align="left" vspace="5"  hspace="10" height="60px" width="60px"> 
+<img src="../member-logos/world-data-logo.png" align="left" vspace="5"  hspace="10" height="100px" width="90px"> 
 Since 1987, World Data Products has delivered value with IT hardware, maintenance programs, and other IT services including repair and logistics. We provide OEM-quality refurbished server, storage, networking solutions, and computer tape at substantial savings.
 
 <br>
