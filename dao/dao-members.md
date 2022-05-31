@@ -69,7 +69,7 @@ For over twenty years, Tradeloop has been the wholesale network of choice for IT
 <br/>
 
 ## University of Nevada - Ron Lembke
-<!-- NEED PNG IMAGE <img src="../member-logos/university-of-nevada-logo.eps" align="left" vspace="5"  hspace="10" height="80px" width="80px"> -->
+<img src="../member-logos/university-of-nevada-logo.png" align="left" vspace="5"  hspace="10" height="80px" width="80px">
 University of Nevada, “Business is more than you think.”
 
 
