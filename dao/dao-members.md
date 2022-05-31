@@ -38,7 +38,7 @@ Eagle Advisors, LLC (Eagle) specializes in investing in large-scale ventures wit
 <img src="../member-logos/greentec-logo.jpg" align="left" vspace="5"  hspace="10" height="140px" width="120px">
 Technology lifecycle solutions to protect your business and our environment.
 
-<br/><br/>
+<br/><br/><br/>
 
 ## JT Environmental - Jason Teliszczak | CEO/Founder
 <img src="../member-logos/jt-environmental-logo.gif" align="left" vspace="5"  hspace="10" height="60px" width="60px">
