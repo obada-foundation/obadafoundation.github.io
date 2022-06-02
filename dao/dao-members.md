@@ -4,10 +4,7 @@ parent: Marketing
 permalink: /dao/members/
 nav_order: 2
 ---
-<br/>
 ## Current OBADA DAO Members
-
-<br/>
 
 ### ASCDI | Joe Marion, President
 <img src="../member-logos/ascdi-logo.jpg"  align="left" vspace="5" hspace="10" height="100px" width="100px">
