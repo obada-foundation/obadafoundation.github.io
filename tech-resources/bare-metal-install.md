@@ -5,6 +5,14 @@
 
 1.  Server to host node
 
+    | Resource | Amount | Note |
+    | -------- | ------ | ---- |
+    | CPU | 4 Core |  |
+    | Memory | 8GB |  |
+    | Hard Drive | 512GB+ | 32GB free at all times |
+    | Nic | 2 | One for external public internet / one for internal network |
+    | USB Drive | 1 x 8GB | For Install media |
+
 2. Workstation to provision node.  Look at [Installation | Ubuntu](https://ubuntu.com/server/docs/installation) for minimum requirements then add resources needed for workstation load.
 
 * You will need a 3rd PC for preparation
