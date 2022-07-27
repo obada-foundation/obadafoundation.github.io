@@ -15,22 +15,68 @@
 
 2. Workstation to provision node.  Look at [Installation | Ubuntu](https://ubuntu.com/server/docs/installation) for minimum requirements then add resources needed for workstation load.
 
+    | Resource | Amount | Note |
+    | -------- | ------ | ---- |
+    | CPU | 4 Core |  |
+    | Memory | 8GB |  |
+    | Hard Drive | 128GB |  |
+    | Nic | 1 | One for internal network connection. Must be able to connect to node internal connection |
+    | USB Drive | 1 x 8GB | For Install media |
+    
 * You will need a 3rd PC for preparation
 
 ## Software Prerequisites
+
+| Resource | Software | Note |
+| -------- | ------ | ---- |
+| Node | Ubuntu 22.04 LTS | Desktop or server |
+| Workstation | Ubuntu 22.04 LTS | Desktop |
+| Github | Obada/testnode | https://github.com/obada-foundation/testnet |
+| Balena | Etcher 1.7.9 | [balenaEtcher - Flash OS images to SD cards & USB drives](https://www.balena.io/etcher/), used on preparation pc |
 
 ## Preparation Checklist
 
 1. Node
 
+    | Parameter | Value | Note |
+    | -------- | ------ | ---- |
+    | Hostname |  |  |
+    | IP Address |  |  |
+    | Netmask |  |  |
+    | Default gateway |  |  |
+    | DNS Server |  |  |
+    | User Name |  | First account is administrator |
+    | Password |  |  |
+    
 2. Workstation
 
+    | Parameter | Value | Note |
+    | -------- | ------ | ---- |
+    | Hostname |  |  |
+    | IP Address |  |  |
+    | Netmask |  |  |
+    | Default gateway |  |  |
+    | DNS Server |  |  |
+    | User Name |  | First account is administrator |
+    | Password |  |  |
+    
 3. Prepare Install Media to USB Drive
     1. Use Etcher to create Workstation Media
   
 ## Time Breakdown
 
 Several of these steps don't require attention from the user, you don't need to wait while the job is done.
+
+| Step | Approximate Time | Note |
+| -------- | ------ | ---- |
+| Source/build node hardware | 1 hour to 1 day | Can vary depending on source and availability of hardware |
+| Source/build workstation | 1 hour to 1 day | Can vary depending on source and availability of hardware |
+| Download prepare install media | 1 hour | Can vary based on internet seped |
+| Install Operating System | 1 hour | Can vary depending on hardware |
+| Configure Operating System | 1 hour | Can vary depending on environment |
+| Watch testnode video | 30 minutes | [Link to Video Here](https://github.com/obada-foundation/testnet#installation--deploying-obada-node) |
+| Install prerequisites | 5 minutes |  |
+| Install node | 10 minutes |  |
 
 ## Setup Diagram
 
@@ -40,7 +86,7 @@ Several of these steps don't require attention from the user, you don't need to 
 
 1. Download Ubuntu Desktop
     1. Using a browser navigate to [Download Ubuntu Desktop | Download | Ubuntu](https://ubuntu.com/download/desktop)
-    2 Click the 'Download' button
+    2. Click the 'Download' button
 2. Download and install BalenaEtcher from [balenaEtcher - Flash OS images to SD cards & USB drives](https://www.balena.io/etcher/) on preparation pc.
 3. Create Media
     1. Insert USB Drive into Computer being used for preparation
@@ -124,6 +170,7 @@ On the Node server
 2. Update system.  At prompt enter the following commands
 
     > sudo apt-get update
+    > 
     > sudo apt-get upgrade
 
 3. Install dependencies.
@@ -136,6 +183,7 @@ Do the following steps from the workstation.
 5. Update system.  At prompt enter the following commands.
 
     > sudo apt-get update
+    > 
     > sudo apt-get upgrade
 
 6. Install dependencies.
@@ -153,9 +201,13 @@ Do the following steps from the workstation.
 10. Clone repository.
 
     > mkdir obada
+    > 
     > cd obada
+    > 
     > git clone https://github.com/obada-foundation/testnet
+    > 
     > cd testnet
+    > 
 
 11. Generate server certificates.
 
@@ -166,15 +218,21 @@ Do the following steps from the workstation.
     2. Open terminal and enter these commands.
   
     > mkdir .ssh
+    > 
     > chmod 700 .ssh
+    > 
     > cd .ssh
+    > 
     > touch authorized_keys
+    > 
     > vi authorized_keys
 
     Append the contents of ssh/obada_node_ssh_key.pub to ~/.ssh/authorized_keys
 
     > ~wq to save the file
+    > 
     > chmod 600 authorized_keys
+    > 
     > exit
 
 13. Enter rest from workstation, Edit Make file.
@@ -182,13 +240,21 @@ Do the following steps from the workstation.
     Add –ask-become-pass to end of docker run command in make file, parameter begins with a double dash.
   
     > docker run \ 
+    > 
     > -it \
+    > 
     > --rm \
+    > 
     > -v $(pwd)/ssh:/home/ansible/.ssh \
+    > 
     > -v $(pwd)/deployment:/home/ansible/deployment \
+    > 
     > -v $(pwd)/inventory:/home/ansible/inventory \
+    > 
     > -v $(pwd)/testnets:/home/ansible/testnets \
+    > 
     > obada/ansible \
+    > 
     > ansible-playbook deployment/playbook.yml -i inventory --ask-become-pass
 
 14. Run make deploy.
