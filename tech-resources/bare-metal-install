@@ -1,1 +1,20 @@
+
 # Bare Metal Install
+
+## Hardware Prerequisites
+
+1.  Server to host node
+
+2. Workstation to provision node.  Look at [Installation | Ubuntu](https://ubuntu.com/server/docs/installation) for minimum requirements then add resources needed for workstation load.
+
+* You will need a 3^rd^ PC for preparation
+
+## Software Prerequisites
+
+## Preparation Checklist
+
+1. Node
+
+2. Workstation
+
+3. Prepare Install Media to USB Drive
