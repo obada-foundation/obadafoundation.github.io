@@ -168,33 +168,25 @@ On the Node server
     
 1. Open a terminal.
 2. Update system.  At prompt enter the following commands
-
-```
-sudo apt-get update
-sudo apt-get upgrade
-```
-
+    ```
+    sudo apt-get update
+    sudo apt-get upgrade
+    ```
 3. Install dependencies.
-
-```
-sudo apt-get install openssh-server -y
-```
-
-Do the following steps from the workstation.
-
+    ```
+    sudo apt-get install openssh-server -y
+    ```
+    Do the following steps from the workstation.
 4. Open a terminal.
 5. Update system.  At prompt enter the following commands.
-
-```
-sudo apt-get update
-sudo apt-get upgrade
-```
-
+    ```
+    sudo apt-get update
+    sudo apt-get upgrade
+    ```
 6. Install dependencies.
-
-```
-sudo apt install docker.io make -y
-```
+    ```
+    sudo apt install docker.io make -y
+    ```
 
 7. Add user to the docker group.
 
