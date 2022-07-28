@@ -169,30 +169,38 @@ On the Node server
 1. Open a terminal.
 2. Update system.  At prompt enter the following commands
 
-    > sudo apt-get update
-    > 
-    > sudo apt-get upgrade
+```
+sudo apt-get update
+sudo apt-get upgrade
+```
 
 3. Install dependencies.
 
-    > sudo apt-get install openssh-server -y
+```
+sudo apt-get install openssh-server -y
+```
 
 Do the following steps from the workstation.
 
 4. Open a terminal.
 5. Update system.  At prompt enter the following commands.
 
-    > sudo apt-get update
-    > 
-    > sudo apt-get upgrade
+```
+sudo apt-get update
+sudo apt-get upgrade
+```
 
 6. Install dependencies.
 
-    > sudo apt install docker.io make -y
+```
+sudo apt install docker.io make -y
+```
 
 7. Add user to the docker group.
 
-    > sudo usermod -aG docker $USER
+```
+sudo usermod -aG docker $USER
+```
 
 8. Reboot computer.
 
@@ -200,62 +208,54 @@ Do the following steps from the workstation.
 
 10. Clone repository.
 
-    > mkdir obada
-    > 
-    > cd obada
-    > 
-    > git clone https://github.com/obada-foundation/testnet
-    > 
-    > cd testnet
-    > 
+```
+mkdir obada
+cd obada
+git clone https://github.com/obada-foundation/testnet
+cd testnet
+```
 
 11. Generate server certificates.
 
-    > make certificates
+```
+make certificates
+```
 
 12. Add certificates to node server.
     1. Login to node server with admin credentials
     2. Open terminal and enter these commands.
   
-    > mkdir .ssh
-    > 
-    > chmod 700 .ssh
-    > 
-    > cd .ssh
-    > 
-    > touch authorized_keys
-    > 
-    > vi authorized_keys
+```
+mkdir .ssh
+chmod 700 .ssh
+cd .ssh
+touch authorized_keys
+vi authorized_keys
+```
 
-    Append the contents of ssh/obada_node_ssh_key.pub to ~/.ssh/authorized_keys
+Append the contents of ssh/obada_node_ssh_key.pub to ~/.ssh/authorized_keys
 
-    > ~wq to save the file
-    > 
-    > chmod 600 authorized_keys
-    > 
-    > exit
+```
+~wq to save the file
+chmod 600 authorized_keys
+exit
+```
 
 13. Enter rest from workstation, Edit Make file.
 
-    Add –ask-become-pass to end of docker run command in make file, parameter begins with a double dash.
+    Add --ask-become-pass to end of docker run command in make file, **parameter begins with a double dash.**
   
-    > docker run \ 
-    > 
-    > -it \
-    > 
-    > --rm \
-    > 
-    > -v $(pwd)/ssh:/home/ansible/.ssh \
-    > 
-    > -v $(pwd)/deployment:/home/ansible/deployment \
-    > 
-    > -v $(pwd)/inventory:/home/ansible/inventory \
-    > 
-    > -v $(pwd)/testnets:/home/ansible/testnets \
-    > 
-    > obada/ansible \
-    > 
-    > ansible-playbook deployment/playbook.yml -i inventory --ask-become-pass
+```
+docker run \ 
+-it \
+--rm \
+-v $(pwd)/ssh:/home/ansible/.ssh \
+-v $(pwd)/deployment:/home/ansible/deployment \
+-v $(pwd)/inventory:/home/ansible/inventory \
+-v $(pwd)/testnets:/home/ansible/testnets \
+obada/ansible \
+ansible-playbook deployment/playbook.yml -i inventory --ask-become-pass
+```
 
 14. Run make deploy.
     1. Enter password 
