@@ -13,7 +13,7 @@
     | Nic | 2 | One for external public internet / one for internal network |
     | USB Drive | 1 x 8GB | For Install media |
 
-2. Workstation to provision node.  Look at [Installation | Ubuntu](https://ubuntu.com/server/docs/installation) for minimum requirements then add resources needed for workstation load.
+2. Workstation to provision node.  Look at [Installation - Ubuntu](https://ubuntu.com/server/docs/installation) for minimum requirements then add resources needed for workstation load.
 
     | Resource | Amount | Note |
     | -------- | ------ | ---- |
@@ -85,7 +85,7 @@ Several of these steps don't require attention from the user, you don't need to 
 ## Preparation PC - Download and Create Install Media
 
 1. Download Ubuntu Desktop
-    1. Using a browser navigate to [Download Ubuntu Desktop | Download | Ubuntu](https://ubuntu.com/download/desktop)
+    1. Using a browser navigate to [Download Ubuntu Desktop - Download - Ubuntu](https://ubuntu.com/download/desktop)
     2. Click the 'Download' button
 2. Download and install BalenaEtcher from [balenaEtcher - Flash OS images to SD cards & USB drives](https://www.balena.io/etcher/) on preparation pc.
 3. Create Media
