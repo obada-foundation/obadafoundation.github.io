@@ -1,3 +1,9 @@
+--- 
+title: Bare Metal Install
+parent: Tech Resources
+permalink: /foundation/tech-resources/bare-metal-install
+nav_order: 4
+---
 
 # Bare Metal Install
 
