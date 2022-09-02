@@ -1,8 +1,8 @@
----
+<!------
 title: Resources
 permalink: /dao/resources
 has_toc: false
----
+--->
 
 LINK TO THIS PAGE IS NOT PUBLISHED for security /privacy reasons.
 
