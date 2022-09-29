@@ -10,4 +10,12 @@ permalink: /marketing/faq
 
 # Frequently Asked Questions
 
-This site is a documents repository.  Some of the pages listed in this section do not belong here.  They are intended for "public explanation" for explanatory and/or adoption purposes.  These "marketing" pages should be migrated to a pretty public facing site.
+## Section 1
+* Bullet 1
+* Bullet 2
+
+### Subsection
+This is a parapraph
+``comment``
+_italics_
+**bold**
