@@ -15,15 +15,12 @@ The name of the organization is the OBADA Foundation, "the Open Blockchain for A
 
 ~~### Section 2. Membership.~~
 
-``**Needs some discussion on how a 501c(3) works without any members**``
-
 ~~OBADA is a membership organization. This corporation shall have three classes of membership, two of which are voting memberships: (i) Industry Stakeholders; (ii) Ecosystem Stewards; and (iii) General Participants. General Participants may vote in committees but not in the Annual meeting as described below. General Participants may also sit on the Advisory Board as described below. Only voting members are eligible for Committee chairs, Directors or Officer positions.~~
 
 ~~<strong>2.1 Industry Stakeholders.</strong> The Industry Stakeholders shall be the primary stakeholders of recycling ecosystems, consisting of commercial individuals and entities that have a direct effect on (a) recycling ecosystem(s). These entities engage in or support the production, use, sale, or standardization of all OBADA Compliant Networks, based on open source-based technologies. An Industry Stakeholder shall have voting rights, and shall contribute resources and/or pay the annual membership dues identified on Schedule A to these Bylaws (the “Membership Dues Schedule”). An Industry Stakeholder shall cease to be a member in the event of its resignation or expulsion from this corporation.~~
 
 ~~<strong>2.2 Ecosystem Stewards.</strong> The Ecosystem Stewards shall be the secondary stakeholders of recycling ecosystems, consisting of individuals and entities that have indirect interest or influence on (a) recycling ecosystem(s). These entities govern the specification, design, and operation of all OBADA Compliant Networks, based on open source-based technologies. A Stakeholder shall have voting rights, and shall contribute resources and/or pay the annual membership dues identified on Schedule A to these Bylaws (the “Membership Dues Schedule”). An Ecosystem Steward shall cease to be a member in the event of its resignation or expulsion from this corporation.~~
 
-**``NOTE:  The language above DOES NOT specify that the BOD must consist of 6 secondary stakeholders and 5 primary stakeholders.   This rule does not appear in the DAO operating agreement either.   So I guess it was never really a rule.``**
 
 ~~<strong>2.3 General Participants.</strong> General Participants shall be any entity or individual, including commercial and nonprofit organizations, research institutions, government entities, consulting firms or other industry or non-industry service providers that utilize or engage with any OBADA Compliant Network. General Participants shall have no voting rights. General Participants may be members of committees and may vote on committee issues. A General Participant may be required to pay for documents or services that are otherwise provided to Stakeholders or Stewards.~~
 
@@ -78,7 +75,14 @@ Each so designated group shall have a chairperson nominated and elected by said 
 
 ### Section 1. Number of Directors.
 
-The organization shall be managed by a Board of Directors consisting of no less than 3 nor more than 11 director(s) at large. Included in the 11 can be up to 1 to 3 directors from outside the ~~recycling~~ ''asset disposition'' ecosystem, with or without financial interest, as long as the board majority is without financial interest. ~~The chairpersons of each authorized committee or working group are required to be members of the board of directors.~~
+The organization shall be managed by a Board of Directors consisting of no less than 3 nor more than 11 director(s) at large. Included in the 11 can be up to 1 to 3 directors from outside the ~~recycling~~ **''asset disposition''** ecosystem, with or without financial interest, as long as the board majority is without financial interest. ~~The chairpersons of each authorized committee or working group are required to be members of the board of directors.~~
+
+**``NOTE:  Thus language says the majority should not have "financial interest" but it DOES NOT specify what "financial interest" means. It should probably say "secondary stakeholders".  The following is inserted from the operating agreement."  Should we add this to clarify?``**
+
+**``Primary Stakeholders” or "On-Chain Stakeholder"``** ``are actors in the ITAD sector who directly process equipment or who supply software or services related to the processing of equipment. These actors are all on-chain actors, i.e. users or operators of the system in some way. Examples include, but are not limited to, ITADs, recyclers, dealers, brokers, asset management software, trading networks, and drive wiping software.``
+
+**``“Secondary Stakeholders” or “Off-Chain Stakeholders”``** ``means those ITAD actors who do not directly deal in the processing of equipment but who have secondary interest in the industry. These are off-chain actors, such as trade associations, compliance organizations, strategic investors in the ITAD space, or the like.``
+
 
 ### Section 2. Election and Term of Office.
 
