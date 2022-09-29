@@ -20,3 +20,18 @@ This is a parapraph
 ``comment``
 _italics_
 **bold**
+
+
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  Example text
+  
+</details>
