@@ -9,6 +9,57 @@ parent: Marketing
 
 # Frequently Asked Questions
 
+<details>
+  <summary>
+  
+  ## OBADA Round B
+  
+  </summary>
+  
+**1. What is this?**
+Round B of the OBADA Decentralized Autonomous Organization (DAO)
+
+**2. What does a company gain from joining?**
+By joining, a company gains:
+  - a seat at the table as the OBADA DAO shapes the future
+  - voting rights: 1 vote per member company
+  - system credit rights, also known as token rights, the right to a certain number of system credits
+  - node rights: the right to operate a node
+  - revenue sharing: operating a node entitles the node operator a share of the revenues from fees charged to users of the network
+  
+**3. Is this a solicitation for an investment?**
+No. It definitely is not a solicitation for an investment.  
+  
+**4. What is OBADA building?**
+- OBADA is using blockchain to create a decentralized registry for IT assets, and establish a clean chain of custody
+- This will link inventory and reduce the value destruction that results when information loss when products change hands  
+  
+**5. What is a DAO?**
+- "DAO" stands for "Decentralized Autonomous Organization"
+- An agreement to run a node of the decentralized registry 
+- learn more [below](#DAO-Structure)
+
+**6. Who is the round B for?**
+- Restricted to members of the Asset Disposition (ITAD) sector, as well as institutions and non-profit organizations supporting and helping shape our industry
+- Accredited Investors and expert corporations in the Asset Disposition industry
+- These DAO members will be responsible for the growth, use and direction of the blockchain tool
+- Companies interested in helping design the most exciting and impactful new technology in our space of the last few decades
+
+**7. How many can join Round B?**
+There are a maximum of 53 seats available
+  
+**8. What is the cost of joining the DAO?**
+The cost of joining the DAO is $5,000. Each company can only join once.
+
+**9. How does a company show its interest in joining?**
+Starting on November 20, 2022, fil out this form to express interest & provide details about your company: 
+https://forms.gle/y3sd4CB9Ein9QXV8A 
+
+**10. Where can I find the Operating Agreement, to learn more?**
+Right [here](https://docs.google.com/document/d/1F1luIwP-0R2RpdBZWuuU76vyxw10Eept/edit)
+  
+</details>
+
 
 <details>
   <summary>
@@ -159,9 +210,10 @@ OBADA member companies only need to run the OBADA node, or connect to the blockc
 <details>
   <summary>
     
+  <a name="DAO-Structrue">
   ## DAO Structure
-
- </summary> 
+  </a>
+  </summary> 
 
 **1. What is a DAO?**
 A DAO is a Decentralized Autonomous Organization. Unlike a traditional trade organization, or an LLC, there is no central decision maker. All decisions are made by the members of the DAO. Nobody is in charge.
@@ -324,9 +376,16 @@ Then, the ITAD generates the information (a drive wiping report, a device status
 **9. What if the device cannot communicate? (I.e., “bricked”?)**
 1. Ideally, the device will be able to communicate to the ITAD's systems directly. 
 2. If the device does not power up, in some cases, its USN may be accessible electronically, via USB or similar technology. 
-3. If the device is unable to communicate, and the USN is printed on the device, Optical Character Recognition (OCR) may be used to read the USN.
-4. If OCR fails, a person may be able to read and type the USN.
-5. If the USN is not present, OCR may be used to read in the information required to generate the USN.
+3. If the device is unable to communicate, the USN may be printed on the device in a 12N QR code
+4. If there is no 12N QR code, Optical Character Recognition (OCR) may be used to read the USN.
+5. If OCR fails, a person may be able to read and type the USN.
+6. If the USN is not present, OCR may be used to read in the information required to generate the USN.
+  
+**10. Where are the uploaded files stored? Can anyone find them and look at them?**
+The files are encrypted, so if anyone were to find them, they would not be able to open them or understand them.
+The files are stored using a system called Inter-Planetary File Storage, or IPFS.
+IPFS stores the files in separate pieces, scattered over many servers, but the entire file is accessible from a single address.
+
   
 </details>
 
@@ -336,49 +395,120 @@ Then, the ITAD generates the information (a drive wiping report, a device status
   ## System Credits or "tokens"   
     
   </summary>
+  **1. What are system credits or tokens used for?**
+  Every public blockchain needs tokens to pay gas fees. A gas fee is incurred when:
+  - a device is added to the registry
+  - any new information about the device is added to the registry
+  Additionally, system credits are needed to pre-pay for services like drive wiping, or provenance tracking
+
+
+  **2. Why use system credits? Why not price transactions in US Dollars?**
+  By using system credits, we can take advantage of smart contracts to automate payments, with no transaction fees.
+  If US Dollars are used, and traditional banks, fees will be incurred every time a payment changes hands. With smart contracts, there are no such fees.
+    
+  **3. Do companies need to buy system credits?**
+  ITAD companies will likely not need to system credits. They will work with a member of the OBADA DAO, who will bill them for the transaction. The DAO member may require the customer to maintain an account of system credits. Or, to make like simpler for their customers, the DAO members may bill their customers in US Dollars, meaning the customers will never directly deal with system credits.
+
+  **4. How will companies buy system credits?**
+  If any DAO members or other organizations need to buy system credits, they can trade US Dollars for system credits through something called a 
+  "Liquidity Pool." The whole purpose of the liquity pool is to provide liquidity for anyone who needs to buy or sell system credits.
+
+  **5. What is the Vesting period for system credits?**
+For companies joining the DAO before the DAO goes live, the vesting period is three years. This means that every month, one 36th of their tokens are transferred to their wallets.
+
+  **6. What is the Locking period?**
+The Locking period is 12 months, which means that once system credits received, they cannot be sold for 12 months.
+
 </details>
 
 <details>
   <summary>
     
   ## Blockchain Questions
-
   
   </summary>
+
+  **1. What is a blockchain?**
+  A blockchain is also known as a "Distributed Ledger," or "Distributed Ledger Technology" (DLT).
+  In the ledger, transactions are recorded sequentially, the way they are recorded in any type of ledger.
+  A blockchain is immutable, meaning it is impossible to alter or change a transaction, once recorded.
+  The immutability comes because every so often, a kind of glorified snapshot, or "hash," is taken of the most recent transactions.
+  If anyone tried to change any of those transactions, the hash would not match the transcations any more, and the fraud would be identified.
+  When generating the hash, the hash from the previous block of transactions is also included in the data that gets hashed.
+  In this way, the blocks of transactions are chained together, hence the name blockchain.
+  
+  **2. Why do we need a blockchain, why not some simpler kind of database?**
+  As described above, blockchains are extremely secure, and do not require companies to even trust oneanother to work together.
+  The informations is encrypted, so the files cannot be adulterated. 
+  Because copies of the database are held by dozens of companies, even if someone did try to adulterate a transaction, it would not match the copies held by all of the other servers.
+  A blockchain provides security not available through any other type of database.
+  
+  **3. Can we move pNFTs from one blockchain to another?**
+  Yes, absolutely. If a pNFT is created on the OBADA blockchain, and the owner wants to transfer that asset to another blockchain, that can be easily done.
+  
+  **4. Why Cosmos? Why not Ethereum?**
+  At the time we are building the OBADA blockchain, Cosmos is best suited to our needs, but it is quite possible that someday, a newer technology might prove more attractive, and the blockchain might be migrated to another platform.
+  Cosmos is the best choice, because unlike other blockchains, Cosmos was specifically designed to make it easy for different blockchains built on Cosmos to interact. This means that is easy to move assets from one Cosmos blockchain to another.
+  
+
 </details>
 
 <details>
   <summary>
     
   ## ITAD Questions
-
   
   </summary>
+**1. What does ITAD stand for?**
+IT asset disposition
+
+**2. What is ITAD?**
+IT asset disposition (ITAD) is an industry term and practice built around reusing, recycling, repurposing, repairing or disposing of unwanted IT equipment in a safe and environmentally friendly way. 
+
+**3. What are problems facing ITADs?**
+1. Siloed and poor information on electronic devices
+2. Poor electronics recycling rates
+3. Fraud / scams in the market 
+4. Chain of custody issues
+5. Environmental damage / problems from used electronics
+
+  **4. How does a blockchain solve these problems?**
+1. Decentralized pNFT registry of all electronics devices accessible by all participants
+2. Economic incentives, and pre-funded recycling built into the protocols.
+3. Permissioned blockchain using registrars doing KYC/AML on users reduces instances of fraud. 
+4. Smart contracts payments mean funds are verified and hard to fake
+5. The permanent and immutable tracking of assets on the blockchain means chain of custody is easy to track and impossible to fake.
+6. Increasing incentive and ease of recycling will have a long term large scale effect on reduction of potential detrimental environmental impacts.
+
+**5. How would blockchain work for an ITAD?**
+- In theory, presuming you’re using an ERP or some other system to track your assets, you wouldn’t really notice much of a difference as data standards have been created to aid ERP providers in generating the data needed for the blockchain. 
+- One main difference would be that anytime you sell a device, you would also have to transfer the pNFT (proof of ownership) to the buyer via the blockchain. 
+- Whenever you upgrade, update, repair, refurbish, run diagnostics, wipe, recycle or put a device into reuse, you would simply add some data to the pNFT for that particular device, most of this will be handled by software designed to make it easy to do so. 
+
+**6. For example, what if I wiped a drive on a laptop and then sold it. How would that work?**
+1. You can now publish the reports proving the device was wiped to the blockchain.
+2. When you sell the device, you can give someone access to the pNFT records (like a carfax) and they can now see verifiably the device was wiped and view the full report. 
+3. Any record added to the pNFT by software can now remove the potential for fraud, because the software can be audited and authorized specifically by the OBADA DAO (or group that manages the blockchain / standard)
+4. Since the OBADA DAO is primarily composed of companies in the ITAD sector, their focus has always been ease of use, simple integration into existing workflows, and  vastly improving the efficiency of transactions. 
+
+ **7. Is this all private? Who would be able to see my blockchain tracked assets?**
+Most blockchains are open and viewable by most anyone. When OBADA launched, one of the major concerns was privacy. 
+All of the information stored on the blockchain is encrypted. 
+Anyone who looked around on the blockchain would only see encrypted information they would have no way to unencrypt.
+
+**8. How do I know transactions are safe / secure?**
+All of the information stored on the blockchain is encrypted, so your data is always safe.
+  
+**9. What methods are available for recourse if something goes wrong?**
+All ITADs involved in the OBADA blockchain use KYC (Know Your Customer) identification methods to ensure that they know the identity of the companies they are working with, to know these are trustworthy companies, not fly-by-night operations.
+If a transaction is not up to the parties' expectations, they have the same recourse for compensation as in any other business transaction.
+  
+**10. What would happen if my buyer doesn’t use the OBADA blockchain to track their assets?**
+There are financial penalties built into the system, so if someone fails to properly handle the devices entrusted to them, they face significant financial penalities, such that no rational company would choose to fail to deliver.
+
 </details>
 
 
 
-<details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Code
-  Example text
-  
-</details>
 
 
-## Section 1
-* Bullet 1
-* Bullet 2
-
-### Subsection
-This is a parapraph
-``comment``
-_italics_
-**bold**
