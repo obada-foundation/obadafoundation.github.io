@@ -211,8 +211,11 @@ OBADA member companies only need to run the OBADA node, or connect to the blockc
   <summary>
     
   <a name="DAO-Structrue">
+    
   ## DAO Structure
+  
   </a>
+  
   </summary> 
 
 **1. What is a DAO?**
