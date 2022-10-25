@@ -10,8 +10,9 @@ parent: Marketing
 # Frequently Asked Questions
 
 <details>
-  <summary><H2>OBADA Round B</H2></summary>
+<summary><H2>OBADA Round B</H2></summary>
 <br>
+
   
 **1. What is this?**
 Round B of the OBADA Decentralized Autonomous Organization (DAO)
@@ -55,6 +56,7 @@ https://forms.gle/y3sd4CB9Ein9QXV8A
 **10. Where can I find the Operating Agreement, to learn more?**
 Right [here](https://docs.google.com/document/d/1F1luIwP-0R2RpdBZWuuU76vyxw10Eept/edit)
   
+
 </details>
 
 
