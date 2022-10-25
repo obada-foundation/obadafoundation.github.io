@@ -98,7 +98,7 @@ Anyone could petition the OBADA Foundation to make a change to improve the stand
 The Decentralized Autonomous Organization (DAO) and owns the code it has commissioned.
 Software is licensed under the GNU XXX.
 The source code is freely available on Github. 
-However, companies must pay for a license and join the DAO in order to use it.
+However, companies must join the DAO in order to be able to read or write to the distributed ledger.
 Anyone could download the code and modify it as they see fit, and run it.
 The OBADA Foundation hopes to respond to any needs or requests in such a way that no organization ever feels the need to develop a competing standard.
 
@@ -226,7 +226,7 @@ Nobody owns it. Fees charged to end users are collected by DAO members and share
 The goal of the OBADA DAO is to build and run the OBADA blockchain for the benefit of the IT Asset Disposition (ITAD) industry, and for the financial benefit of the DAO members.
 
 **4. Is the DAO for-profit?**
-Yes, but all of the platform revenue is directly distributed to the members of the DAO. The DAO itself does not retain any profits.
+Yes, but all of the platform revenue is directly distributed to the members of the DAO. The DAO itself does not retain any fees.
 
 **5. This DAO idea seems confusing, and I’ve never been part of one before. Why can’t we use a more traditional organizational structure?**
 The SEC has rules about what constitutes a “security.” If we had a traditional organizational structure, with some small group of people making the decisions (“performing essential tasks”), the SEC would classify our system credits or tokens as securities. That would mean we would have to go through the SEC process for creating an IPO in order to sell system credits, requiring significant time and cost.
@@ -375,8 +375,9 @@ An ITAD company will identify a device, and read its USN, or generate the USN, i
 Then, the ITAD generates the information (a drive wiping report, a device status report, etc.), and uploads the data to the database, through a DAO member.
   
 **9. What if the device cannot communicate? (I.e., “bricked”?)**
+There are many ways to access the USN for the device.
 1. Ideally, the device will be able to communicate to the ITAD's systems directly. 
-2. If the device does not power up, in some cases, its USN may be accessible electronically, via USB or similar technology. 
+2. If the device does not power up, in some cases, its USN may be accessible electronically, via USB or similar connection. 
 3. If the device is unable to communicate, the USN may be printed on the device in a 12N QR code
 4. If there is no 12N QR code, Optical Character Recognition (OCR) may be used to read the USN.
 5. If OCR fails, a person may be able to read and type the USN.
