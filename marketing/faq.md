@@ -14,7 +14,7 @@ parent: Marketing
     
   ## OBADA Round B
   </summary>
-  
+
 **1. What is this?**
 Round B of the OBADA Decentralized Autonomous Organization (DAO)
 
