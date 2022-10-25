@@ -397,28 +397,29 @@ IPFS stores the files in separate pieces, scattered over many servers, but the e
   ## System Credits or "tokens"   
     
   </summary>
-  **1. What are system credits or tokens used for?**
-  Every public blockchain needs tokens to pay gas fees. A gas fee is incurred when:
-  - a device is added to the registry
-  - any new information about the device is added to the registry
-  Additionally, system credits are needed to pre-pay for services like drive wiping, or provenance tracking
+  
+**1. What are system credits or tokens used for?**
+Every public blockchain needs tokens to pay gas fees. A gas fee is incurred when:
+- a device is added to the registry
+- any new information about the device is added to the registry
+Additionally, system credits are needed to pre-pay for services like drive wiping, or provenance tracking
 
 
-  **2. Why use system credits? Why not price transactions in US Dollars?**
-  By using system credits, we can take advantage of smart contracts to automate payments, with no transaction fees.
-  If US Dollars are used, and traditional banks, fees will be incurred every time a payment changes hands. With smart contracts, there are no such fees.
+**2. Why use system credits? Why not price transactions in US Dollars?**
+By using system credits, we can take advantage of smart contracts to automate payments, with no transaction fees.
+If US Dollars are used, and traditional banks, fees will be incurred every time a payment changes hands. With smart contracts, there are no such fees.
     
-  **3. Do companies need to buy system credits?**
-  ITAD companies will likely not need to system credits. They will work with a member of the OBADA DAO, who will bill them for the transaction. The DAO member may require the customer to maintain an account of system credits. Or, to make like simpler for their customers, the DAO members may bill their customers in US Dollars, meaning the customers will never directly deal with system credits.
+**3. Do companies need to buy system credits?**
+ITAD companies will likely not need to system credits. They will work with a member of the OBADA DAO, who will bill them for the transaction. The DAO member may require the customer to maintain an account of system credits. Or, to make like simpler for their customers, the DAO members may bill their customers in US Dollars, meaning the customers will never directly deal with system credits.
 
-  **4. How will companies buy system credits?**
-  If any DAO members or other organizations need to buy system credits, they can trade US Dollars for system credits through something called a 
-  "Liquidity Pool." The whole purpose of the liquity pool is to provide liquidity for anyone who needs to buy or sell system credits.
+**4. How will companies buy system credits?**
+If any DAO members or other organizations need to buy system credits, they can trade US Dollars for system credits through something called a 
+"Liquidity Pool." The whole purpose of the liquity pool is to provide liquidity for anyone who needs to buy or sell system credits.
 
-  **5. What is the Vesting period for system credits?**
+**5. What is the Vesting period for system credits?**
 For companies joining the DAO before the DAO goes live, the vesting period is three years. This means that every month, one 36th of their tokens are transferred to their wallets.
 
-  **6. What is the Locking period?**
+**6. What is the Locking period?**
 The Locking period is 12 months, which means that once system credits received, they cannot be sold for 12 months.
 
 </details>
