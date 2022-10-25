@@ -10,11 +10,9 @@ parent: Marketing
 # Frequently Asked Questions
 
 <details>
-  <summary>
-    
-  ## OBADA Round B
-  </summary>
-
+<summary><H2>OBADA Round B</summary>
+<br>
+  
 **1. What is this?**
 Round B of the OBADA Decentralized Autonomous Organization (DAO)
 
