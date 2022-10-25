@@ -11,9 +11,7 @@ parent: Marketing
 
 <details>
   <summary>
-  
   ## OBADA Round B
-  
   </summary>
   
 **1. What is this?**
