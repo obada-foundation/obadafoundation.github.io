@@ -10,7 +10,11 @@ parent: Marketing
 # Frequently Asked Questions
 
 <details>
-  <summary>OBADA Round B</summary>
+  <summary markdown="1">
+    
+    ## OBADA Round B
+    
+  </summary>
   
   <div markdown="1">
     
