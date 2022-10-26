@@ -220,9 +220,9 @@ OBADA member companies only need to run the OBADA node, or connect to the blockc
 </details>
 
 <details>
-  <summary><strong>DAO Structure</strong></summary> 
+<summary><strong>DAO Structure</strong></summary> 
   
-  <div markdown="1">
+<div markdown="1">
 
 **1. What is a DAO?**
 A DAO is a Decentralized Autonomous Organization. Unlike a traditional trade organization, or an LLC, there is no central decision maker. All decisions are made by the members of the DAO. Nobody is in charge.
@@ -262,8 +262,8 @@ The members of the DAO will vote on every decision about changes to the operatio
 - Creating additional membership seats for the DAO, and the price of membership
 - Changes to the supply of system credits or tokens, OBD
 
-    
-  </div>
+  
+</div>
 </details>
 
 <details>
