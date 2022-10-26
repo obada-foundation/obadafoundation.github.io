@@ -10,11 +10,7 @@ parent: Marketing
 # Frequently Asked Questions
 
 <details>
-  <summary markdown="1">
-    
-    ## OBADA Round B
-    
-  </summary>
+  <summary><h2>OBADA Round B</h2></summary>
   
   <div markdown="1">
     
@@ -65,8 +61,9 @@ parent: Marketing
 
 
 <details>
-  <summary>OBADA Overview</summary>
+  <summary><h2>OBADA Overview</h2></summary>
 
+  <div markdown="1">
   **1. What is the goal of OBADA?**
   To build a blockchain solution to track physical assets through their lifetimes using pNFTs on a blockchain, to facilitate device and component reuse, and end-of-life proper recovery or disposal.
 
@@ -110,11 +107,13 @@ parent: Marketing
   **9. Is OBADA an open standard?**
   Yes, it’s right there, in the first word of the name: Open Blockchain for Asset Disposition Architecture. This means anyone can download the software, similar to how Linux is an open standard. However, to use it, they must pay a license fee, and have to join DAO.
   
+  </div>
 </details>
 
 <details>
-  <summary>Decentralized Registry</summary>
+  <summary><h2>Decentralized Registry</h2></summary>
 
+  <div markdown="1">
   **1. What is OBADA creating?**
   A decentralized registry. It is implemented in a blockchain, also known as decentralized ledger technology (DLT).
   You can read more about blockchains further down in this FAQ.
@@ -131,17 +130,22 @@ parent: Marketing
   The URL that most people are familiar with is a website URL, which starts with "http://".
   A DiD can be used in the place of a URL, if the device being linked to has methods for connecting and returning information.
   
+  </div>
 </details>
 
 
 
 <details>
   <summary>
-    
-  ## The OBADA Foundation
-  
+    <div markdown="1">
+      
+      ## The OBADA Foundation
+      
+    </div>
   </summary>
 
+  <div markdown="1">
+    
 **1. What is the purpose of the OBADA Foundation?**
 The purpose of the OBADA Foundation is to ensure the success of the OBADA blockchain standard. The Foundation is responsible for overseeing the initial development of the blockchain software, similar to how the Mozilla Foundation is responsible for the Firefox browser, or the Linux Foundation for the development of Linux software.  The Foundation is also responsible for evangelizing about the standard, to get people to use the standard.
 
@@ -169,6 +173,7 @@ Once the DAO is operational, the OBADA Foundation will have two missions related
 The Foundation will be charged with promoting the standard to other companies and other industries. But the Foundation will need resources to do that, so the DAO will send funds to the Foundation to do that.
 Also, when the DAO identifies modifications that should be made to the standard, the Foundation will decide on changes to the standard, and then the DAO can implement those changes it the software.
 
+  </div>
 </details>
 
 <details>
@@ -178,6 +183,8 @@ Also, when the DAO identifies modifications that should be made to the standard,
   
   </summary> 
   
+  <div markdown="1">
+    
 **1. Why is the Foundation trying to get ISO approval?**
 ISO approval gives the stamp of approval that Tier 1 companies will require. For OBADA to prosper, major companies need to join. Major multinational corporations are not going to join the project unless they are confident that what we are developing is a major global standard. 
 
@@ -203,6 +210,7 @@ Once the ISO standard is complete, a certification body will create qualificatio
 The OBADA decentralized registry will be audited and certified for compliance with the new standard.
 OBADA member companies only need to run the OBADA node, or connect to the blockchain. Companies do not need to get certification that they are in compliance with the ISO standard.
  
+  </div>
 </details>
 
 <details>
@@ -211,6 +219,8 @@ OBADA member companies only need to run the OBADA node, or connect to the blockc
   ## DAO Structure
   
   </summary> 
+  
+  <div markdown="1">
 
   <a name="DAO-Structrue">
 
@@ -253,6 +263,7 @@ The members of the DAO will vote on every decision about changes to the operatio
 - Creating additional membership seats for the DAO, and the price of membership
 - Changes to the supply of system credits or tokens, OBD.
     
+  </div>
 </details>
 
 <details>
@@ -262,6 +273,8 @@ The members of the DAO will vote on every decision about changes to the operatio
   
   </summary>
 
+  <div markdown="1">
+    
 **1. How does the DAO make money?**
 A small fee, known as a gas fee, is charged by the DAO every time information is added to the blockchain. These fees are collected and distributed to all of the members of the DAO.
 
@@ -291,6 +304,7 @@ The members of the DAO may vote at any time to increase the number of available 
 **8. Can the price for DAO membership change?**
 The members of the DAO may vote at any time to change the price of DAO membership.
 
+  </div>
 </details>
 
 <details>
@@ -300,6 +314,7 @@ The members of the DAO may vote at any time to change the price of DAO membershi
   
   </summary>
 
+  <div markdown="1">
 **1. What is OBADA Business Services (OBS)?**
 OBADA Business Services (OBS) is a small company charged with sourcing and compensating the programming staff needed to build the OBADA blockchain, and to help companies with any issues they may experience in deploying and using the blockchain.
 
@@ -321,6 +336,7 @@ Companies joining the DAO are unlikely to have the IT expertise in house to impl
 **6. Can’t the DAO manage those services without OBS?**
 The DAO could certainly decide to do all of the work in house. But this would require the DAO to hire staff to match clients to providers, send out and collect those bills. And that will cost the DAO time and money. It seems that the DAO, collectively, is better off to let someone else handle those details.
 
+  </div>
 </details>
 
 <details>
@@ -330,6 +346,8 @@ The DAO could certainly decide to do all of the work in house. But this would re
   
   </summary>
   
+  <div markdown="1">
+    
 **1. How is information stored using the OBADA registry?**
 For every device, a Digital Identifier, DID, is created, using the item's Universal Serial Number. Files containing information about the device are uploaded and added to the device's list of files.
 Information that may be uploaded includes:
@@ -388,7 +406,7 @@ The files are encrypted, so if anyone were to find them, they would not be able 
 The files are stored using a system called Inter-Planetary File Storage, or IPFS.
 IPFS stores the files in separate pieces, scattered over many servers, but the entire file is accessible from a single address.
 
-  
+  </div>
 </details>
 
 <details>
@@ -398,6 +416,7 @@ IPFS stores the files in separate pieces, scattered over many servers, but the e
     
   </summary>
   
+  <div markdown="1">
 **1. What are system credits or tokens used for?**
 Every public blockchain needs tokens to pay gas fees. A gas fee is incurred when:
 - a device is added to the registry
@@ -422,6 +441,7 @@ For companies joining the DAO before the DAO goes live, the vesting period is th
 **6. What is the Locking period?**
 The Locking period is 12 months, which means that once system credits received, they cannot be sold for 12 months.
 
+  </div>
 </details>
 
 <details>
@@ -431,6 +451,8 @@ The Locking period is 12 months, which means that once system credits received, 
   
   </summary>
 
+  <div markdown="1">
+    
   **1. What is a blockchain?**
   A blockchain is also known as a "Distributed Ledger," or "Distributed Ledger Technology" (DLT).
   In the ledger, transactions are recorded sequentially, the way they are recorded in any type of ledger.
@@ -453,7 +475,7 @@ The Locking period is 12 months, which means that once system credits received, 
   At the time we are building the OBADA blockchain, Cosmos is best suited to our needs, but it is quite possible that someday, a newer technology might prove more attractive, and the blockchain might be migrated to another platform.
   Cosmos is the best choice, because unlike other blockchains, Cosmos was specifically designed to make it easy for different blockchains built on Cosmos to interact. This means that is easy to move assets from one Cosmos blockchain to another.
   
-
+  </div>
 </details>
 
 <details>
@@ -462,6 +484,8 @@ The Locking period is 12 months, which means that once system credits received, 
   ## ITAD Questions
   
   </summary>
+  
+  <div markdown="1">
   **1. What does ITAD stand for?**
   IT asset disposition
 
@@ -509,5 +533,6 @@ The Locking period is 12 months, which means that once system credits received, 
   **10. What would happen if my buyer doesn’t use the OBADA blockchain to track their assets?**
   There are financial penalties built into the system, so if someone fails to properly handle the devices entrusted to them, they face significant financial penalities, such that no rational company would choose to fail to deliver.
 
+  </div>
 </details>
 
