@@ -7,6 +7,20 @@ permalink: /marketing/faq
 parent: Marketing
 ---
 
+<!-- comment
+
+Dropdown + markdown structure:
+
+<details>
+  <summary>title, do not use h2 or other tags</summary>
+  
+  <div markdown="1">
+    
+  </div>
+</details>
+
+-->
+
 # Frequently Asked Questions
 
 <details>
@@ -241,11 +255,13 @@ Only members of the DAO get to vote on DAO decisions. Every DAO member gets one 
 
 **10. What decisions will the DAO vote on?**
 The members of the DAO will vote on every decision about changes to the operation of the DAO. Some possible topics that the DAO may vote on some day could include:
+    
 - Changes they would like made to the standard
 - Gas fees for using the blockchain
 - Distribution of the collected gas fees
 - Creating additional membership seats for the DAO, and the price of membership
 - Changes to the supply of system credits or tokens, OBD
+
     
   </div>
 </details>
