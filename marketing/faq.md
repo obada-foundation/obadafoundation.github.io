@@ -10,7 +10,7 @@ parent: Marketing
 # Frequently Asked Questions
 
 <details>
-  <summary><h2>OBADA Round B</h2></summary>
+  <summary><strong>OBADA Round B</strong></summary>
   
   <div markdown="1">
     
@@ -61,9 +61,10 @@ parent: Marketing
 
 
 <details>
-  <summary><h2>OBADA Overview</h2></summary>
+  <summary><strong>OBADA Overview</strong></summary>
 
   <div markdown="1">
+    
   **1. What is the goal of OBADA?**
   To build a blockchain solution to track physical assets through their lifetimes using pNFTs on a blockchain, to facilitate device and component reuse, and end-of-life proper recovery or disposal.
 
@@ -111,9 +112,10 @@ parent: Marketing
 </details>
 
 <details>
-  <summary><h2>Decentralized Registry</h2></summary>
+  <summary><strong>Decentralized Registry</strong></summary>
 
   <div markdown="1">
+    
   **1. What is OBADA creating?**
   A decentralized registry. It is implemented in a blockchain, also known as decentralized ledger technology (DLT).
   You can read more about blockchains further down in this FAQ.
@@ -136,13 +138,7 @@ parent: Marketing
 
 
 <details>
-  <summary>
-    <div markdown="1">
-      
-      ## The OBADA Foundation
-      
-    </div>
-  </summary>
+  <summary><strong>The OBADA Foundation</strong></summary>
 
   <div markdown="1">
     
@@ -177,11 +173,7 @@ Also, when the DAO identifies modifications that should be made to the standard,
 </details>
 
 <details>
-  <summary>
-    
-  ## ISO Application
-  
-  </summary> 
+  <summary><strong>ISO Application</strong></summary> 
   
   <div markdown="1">
     
@@ -214,11 +206,7 @@ OBADA member companies only need to run the OBADA node, or connect to the blockc
 </details>
 
 <details>
-  <summary>
-    
-  ## DAO Structure
-  
-  </summary> 
+  <summary><strong>DAO Structure</strong></summary> 
   
   <div markdown="1">
 
@@ -267,11 +255,7 @@ The members of the DAO will vote on every decision about changes to the operatio
 </details>
 
 <details>
-  <summary>
-    
-  ## DAO Membership and Operation
-  
-  </summary>
+  <summary><strong>DAO Membership and Operation</strong></summary>
 
   <div markdown="1">
     
@@ -308,11 +292,7 @@ The members of the DAO may vote at any time to change the price of DAO membershi
 </details>
 
 <details>
-  <summary>
-    
-  ## Network Maintenance
-  
-  </summary>
+  <summary><strong>Network Maintenance</strong></summary>
 
   <div markdown="1">
 **1. What is OBADA Business Services (OBS)?**
@@ -340,11 +320,7 @@ The DAO could certainly decide to do all of the work in house. But this would re
 </details>
 
 <details>
-  <summary>
-    
-  ## The OBADA Standard
-  
-  </summary>
+  <summary><strong>The OBADA Standard</strong></summary>
   
   <div markdown="1">
     
@@ -410,11 +386,7 @@ IPFS stores the files in separate pieces, scattered over many servers, but the e
 </details>
 
 <details>
-  <summary>
-    
-  ## System Credits or "tokens"   
-    
-  </summary>
+  <summary><strong>System Credits or "tokens"</strong></summary>
   
   <div markdown="1">
 **1. What are system credits or tokens used for?**
@@ -445,11 +417,7 @@ The Locking period is 12 months, which means that once system credits received, 
 </details>
 
 <details>
-  <summary>
-    
-  ## Blockchain Questions
-  
-  </summary>
+  <summary><strong>Blockchain Questions</strong></summary>
 
   <div markdown="1">
     
@@ -479,11 +447,7 @@ The Locking period is 12 months, which means that once system credits received, 
 </details>
 
 <details>
-  <summary>
-    
-  ## ITAD Questions
-  
-  </summary>
+  <summary><strong>ITAD Questions</strong></summary>
   
   <div markdown="1">
   **1. What does ITAD stand for?**
