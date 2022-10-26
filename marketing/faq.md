@@ -210,12 +210,8 @@ OBADA member companies only need to run the OBADA node, or connect to the blockc
   
   <div markdown="1">
 
-  <a name="DAO-Structrue">
-
 **1. What is a DAO?**
 A DAO is a Decentralized Autonomous Organization. Unlike a traditional trade organization, or an LLC, there is no central decision maker. All decisions are made by the members of the DAO. Nobody is in charge.
-
-  </a>
 
 **2. Who owns the DAO?**
 Nobody owns it. Fees charged to end users are collected by DAO members and shared directly, equally, to other DAO members. 
@@ -295,6 +291,7 @@ The members of the DAO may vote at any time to change the price of DAO membershi
   <summary><strong>Network Maintenance</strong></summary>
 
   <div markdown="1">
+    
 **1. What is OBADA Business Services (OBS)?**
 OBADA Business Services (OBS) is a small company charged with sourcing and compensating the programming staff needed to build the OBADA blockchain, and to help companies with any issues they may experience in deploying and using the blockchain.
 
@@ -389,6 +386,7 @@ IPFS stores the files in separate pieces, scattered over many servers, but the e
   <summary><strong>System Credits or "tokens"</strong></summary>
   
   <div markdown="1">
+    
 **1. What are system credits or tokens used for?**
 Every public blockchain needs tokens to pay gas fees. A gas fee is incurred when:
 - a device is added to the registry
@@ -450,6 +448,7 @@ The Locking period is 12 months, which means that once system credits received, 
   <summary><strong>ITAD Questions</strong></summary>
   
   <div markdown="1">
+    
   **1. What does ITAD stand for?**
   IT asset disposition
 
