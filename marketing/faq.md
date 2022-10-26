@@ -245,7 +245,7 @@ The members of the DAO will vote on every decision about changes to the operatio
 - Gas fees for using the blockchain
 - Distribution of the collected gas fees
 - Creating additional membership seats for the DAO, and the price of membership
-- Changes to the supply of system credits or tokens, OBD.
+- Changes to the supply of system credits or tokens, OBD
     
   </div>
 </details>
