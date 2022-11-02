@@ -64,11 +64,11 @@ Dropdown + markdown structure:
   The cost of joining the DAO is $5,000. Each company can only join once.
 
   **9. How does a company show its interest in joining?**
-  Starting on November 20, 2022, fil out this form to express interest & provide details about your company: 
-  https://forms.gle/y3sd4CB9Ein9QXV8A 
+  Starting on November 20, 2022, fill out this form to express interest & provide details about your company: [https://forms.gle/y3sd4CB9Ein9QXV8A](https://forms.gle/y3sd4CB9Ein9QXV8A)
+  
 
   **10. Where can I find the Operating Agreement, to learn more?**
-  Right [here](https://docs.google.com/document/d/1F1luIwP-0R2RpdBZWuuU76vyxw10Eept/edit)
+  Right [here](https://www.dropbox.com/s/17hgdbl4e5mkuvw/OBADA%20DAO%2C%20LLC%20Operating%20Agreement%20%281.3.2022%29%20-%20Final.pdf?dl=0)
     
   </div>
 </details>
@@ -93,7 +93,7 @@ Dropdown + markdown structure:
 
   No standard has ever done any of those before.
 
-  **4. What are the Organizations that are Involved in this project?**
+  **4. What are the organizations that are involved in this project?**
   There are two primary organizations:
   - The OBADA Foundation - promoting the standard, and getting the blockchain built, initially
   - The OBADA DAO - building and operating the decentralized registry for the ITAD industry
@@ -109,10 +109,10 @@ Dropdown + markdown structure:
   Anyone could petition the OBADA Foundation to make a change to improve the standard.
 
   **7. Who legally owns the software to run the decentralized registry?**
-  The Decentralized Autonomous Organization (DAO) and owns the code it has commissioned.
+  The Decentralized Autonomous Organization (DAO) owns the code it has commissioned.
   Software is licensed under the GNU XXX.
   The source code is freely available on Github. 
-  However, companies must join the DAO in order to be able to read or write to the distributed ledger.
+  Companies must join the DAO in order to be able to read or write to the distributed ledger.
   Anyone could download the code and modify it as they see fit, and run it.
   The OBADA Foundation hopes to respond to any needs or requests in such a way that no organization ever feels the need to develop a competing standard.
 
