@@ -7,7 +7,7 @@ grand_parent: The OBADA Foundation
 ---
 ## Incorporation Documents
 
-+ ### [OBADA Federal EIN](/foundation/obada-foundation/corporate-docs/obada-ein.pdf) 
++ ### [OBADA Federal EIN](/obada-foundation/corporate-docs/obada-ein.pdf) 
 
-+ ### [OBADA WY Incorporation](/foundation/obada-foundation/corporate-docs/obada-incorp.pdf)
++ ### [OBADA WY Incorporation](/obada-foundation/corporate-docs/obada-incorp.pdf)
 
