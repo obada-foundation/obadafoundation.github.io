@@ -11,7 +11,7 @@ has_toc: false
 <br>
 	
 ## The OBADA Foundation
-The OBADA Foundation is a 501(c)6 nonprofit coalition of stakeholders in the IT asset disposition (ITAD) sector.  It's traditional off-chain organization which primarily serves three functions:
+The OBADA Foundation is a 501(c)(3) nonprofit coalition of stakeholders in the IT asset disposition (ITAD) sector.  It's traditional off-chain organization which primarily serves three functions:
 
 1. The foundation acts as the steward for the **OBADA Standard**, an open protocol describing the data models.  **The OBADA Foundation** is working with **ISO** to develop this standard.   
 
