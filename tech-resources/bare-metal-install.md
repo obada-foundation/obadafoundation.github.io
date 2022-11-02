@@ -1,7 +1,7 @@
 --- 
 title: Bare Metal Install
 parent: Tech Resources
-permalink: /foundation/tech-resources/bare-metal-install
+permalink: /tech-resources/bare-metal-install
 nav_order: 4
 ---
 
