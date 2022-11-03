@@ -1,7 +1,7 @@
 ---
-title: Public Explainer Site
+title: OBADA DAO Explainer Site
 nav_order: 1
-parent: Marketing
+parent: The OBADA DAO
 ---
 
 <meta charset="utf-8">
