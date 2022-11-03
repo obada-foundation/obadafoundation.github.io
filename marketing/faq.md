@@ -4,7 +4,7 @@ nav_order: 6
 has_children: false
 has_toc: false
 permalink: /marketing/faq
-parent: Marketing
+parent: 
 ---
 
 <!-- comment
