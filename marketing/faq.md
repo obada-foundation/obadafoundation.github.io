@@ -482,7 +482,7 @@ The Locking period is 12 months, which means that once system credits received, 
   4. Chain of custody issues
   5. Environmental damage / problems from used electronics
 
-    **4. How does a blockchain solve these problems?**
+  **4. How does a blockchain solve these problems?**
   1. Decentralized pNFT registry of all electronics devices accessible by all participants
   2. Economic incentives, and pre-funded recycling built into the protocols.
   3. Permissioned blockchain using registrars doing KYC/AML on users reduces instances of fraud. 
