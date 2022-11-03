@@ -21,58 +21,10 @@ Dropdown + markdown structure:
 
 -->
 
+## Please post any comments or questions [to the DAO Forum here](https://forum.obada.io/t/obada-faq-feedback-and-questions/85/3)
+
+
 # Frequently Asked Questions
-
-<details>
-  <summary><strong>OBADA Round B</strong></summary>
-  
-  <div markdown="1">
-    
-  **1. What is this?**
-  Round B of the OBADA Decentralized Autonomous Organization (DAO)
-
-  **2. What does a company gain from joining?**
-  By joining, a company gains:
-    - a seat at the table as the OBADA DAO shapes the future
-    - voting rights: 1 vote per member company
-    - system credit rights, also known as token rights, the right to a certain number of system credits
-    - node rights: the right to operate a node
-    - revenue sharing: operating a node entitles the node operator a share of the revenues from fees charged to users of the network
-  
-  **3. Is this a solicitation for an investment?**
-  No. It definitely is not a solicitation for an investment.  
-  
-  **4. What is OBADA building?**
-  - OBADA is using blockchain to create a decentralized registry for IT assets, and establish a clean chain of custody
-  - This will link inventory and reduce the value destruction that results when information loss when products change hands  
-  
-  **5. What is a DAO?**
-  - "DAO" stands for "Decentralized Autonomous Organization"
-  - An agreement to run a node of the decentralized registry 
-  - learn more [below](#DAO-Structure)
-
-  **6. Who is the round B for?**
-  - Restricted to members of the Asset Disposition (ITAD) sector, as well as institutions and non-profit organizations supporting and helping shape our industry
-  - Accredited Investors and expert corporations in the Asset Disposition industry
-  - These DAO members will be responsible for the growth, use and direction of the blockchain tool
-  - Companies interested in helping design the most exciting and impactful new technology in our space of the last few decades
-
-  **7. How many can join Round B?**
-  There are a maximum of 53 seats available
-  
-  **8. What is the cost of joining the DAO?**
-  The cost of joining the DAO is $5,000. Each company can only join once.
-
-  **9. How does a company show its interest in joining?**
-  Starting on November 20, 2022, fill out this form to express interest & provide details about your company: [https://forms.gle/y3sd4CB9Ein9QXV8A](https://forms.gle/y3sd4CB9Ein9QXV8A)
-  
-
-  **10. Where can I find the Operating Agreement, to learn more?**
-  Right [here](https://www.dropbox.com/s/17hgdbl4e5mkuvw/OBADA%20DAO%2C%20LLC%20Operating%20Agreement%20%281.3.2022%29%20-%20Final.pdf?dl=0)
-    
-  </div>
-</details>
-
 
 <details>
   <summary><strong>OBADA Overview</strong></summary>
@@ -106,7 +58,7 @@ Dropdown + markdown structure:
   **6. Who legally owns the Intellectual Property of the OBADA standard?**
   No one. OBADA is an open standard, so anyone could write their own software that is compliant with it. 
 
-  Anyone could petition the OBADA Foundation to make a change to improve the standard.
+  Anyone could petition the OBADA Foundation to make a change to improve the standard.   Or better, write the code and submit a pull request to Github.
 
   **7. Who legally owns the software to run the decentralized registry?**
   The Decentralized Autonomous Organization (DAO) owns the code it has commissioned.
@@ -124,6 +76,57 @@ Dropdown + markdown structure:
   
   </div>
 </details>
+
+<details>
+  <summary><strong>OBADA DAO Membership Round B</strong></summary>
+  
+  <div markdown="1">
+    
+  **1. What is this?**
+  The next membership round of the OBADA Decentralized Autonomous Organization (DAO). See the [Official Round B Announcement](https://docs.google.com/document/d/1If49K0t8VkpgNICOQtA19Pt9ic95X2Ti3nuh6Bro0gY/edit?usp=sharing)
+
+  **2. What does a company gain from joining?**
+  By joining, a company gains:
+    - a seat at the table as the OBADA DAO shapes the future
+    - voting rights: 1 vote per member company
+    - system credit rights, also known as token rights, the right to a certain number of system credits
+    - node rights: the right to operate a node
+    - revenue sharing: operating a node entitles the node operator a share of the revenues from fees charged to users of the network
+  
+  **3. Is this a solicitation for an investment?**
+  No. It definitely is not a solicitation for an investment.  
+  
+  **4. What is OBADA building?**
+  - OBADA is using blockchain to create a decentralized registry for IT assets, and establish a clean chain of custody
+  - This will link inventory and reduce the value destruction that results when information loss when products change hands  
+  
+  **5. What is a DAO?**
+  - "DAO" stands for "Decentralized Autonomous Organization"
+  - An agreement to run a node of the decentralized registry 
+  - learn more [below](#DAO-Structure)
+
+  **6. Who is the round B for?**
+  - Restricted to members of the Asset Disposition (ITAD) sector, as well as institutions and non-profit organizations supporting and helping shape our industry
+  - Accredited Investors and expert corporations in the Asset Disposition industry
+  - These DAO members will be responsible for the growth, use and direction of the blockchain tool
+  - Companies interested in helping design the most exciting and impactful new technology in our space of the last few decades
+
+  **7. How many can join Round B?**
+  There are a maximum of 53 seats available at this time.  The DAO is approved to 101 total members.  The DAo is currently at 23 members (prior to the start of Round B).
+  
+  **8. What is the cost of joining the DAO?**
+  The cost of joining the DAO is $5,000. Each company can only join once.
+
+  **9. How does a company show its interest in joining?**
+  Starting on November 14, 2022, fill out this form to express interest & provide details about your company: [https://forms.gle/y3sd4CB9Ein9QXV8A](https://forms.gle/y3sd4CB9Ein9QXV8A).   The early waitlist "friends and family round" was opened Nov 1 for the networks of the existing DAO members.
+  
+
+  **10. Where can I find the Operating Agreement, to learn more?**
+  Version 2 is in the process of being ratified.   You can see this proposed version right [here](https://docs.google.com/document/d/1di6g9fripFxG3U5EMoh7Ji1VaaSSLV-q/edit?usp=sharing&ouid=103777780221407604372&rtpof=true&sd=true))
+    
+  </div>
+</details>
+
 
 <details>
   <summary><strong>Decentralized Registry</strong></summary>
