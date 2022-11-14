@@ -17,7 +17,7 @@ This site serves as the joint documents and information repository for:
 * [Meeting Minutes and Presentations](https://www.obadafoundation.org/meetings) - Links to past presentations and screen recordings.
 * [DAO Forum](https://forum.obada.io) - DAO discussions and voting proposals
 * [Technical Information](https://github.com/obada-foundation/) - OBADA Github hosting the open-source software.
-* FAQ - Frequently asked questions
+* [FAQ - Frequently asked questions](https://www.obadafoundation.org/marketing/faq)
 
 ## Questions?
 Contact bizops @ obada.io
