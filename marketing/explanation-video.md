@@ -7,4 +7,4 @@ nav_order: 4
 
 ## Learn More - Watch Our Explanation Video Below (or [https://youtu.be/SMoGNI0NB7k](watch on youtube))
 
-<div style="align-content:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/SMoGNI0NB7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div style="align-content:center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/SMoGNI0NB7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
