@@ -1,7 +1,8 @@
 --- 
 title: DAO Corporate Docs
 parent: DAO Documents
-permalink: /documents/corporate-docs/
+grand_parent: The OBADA DAO
+permalink: /documents/dao-corporate-docs/
 nav_order: 6
 ---
 
