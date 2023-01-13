@@ -1,6 +1,6 @@
 ---
 title: DAO Operating Agreement
-parent: The OBADA DAO
+parent: DAO Documents
 permalink: /documents/dao-operating-agreement/
 nav_order: 1
 ---
