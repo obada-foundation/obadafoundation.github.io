@@ -1,9 +1,8 @@
 ---
-title: The pNFT Standard: Representing Physical Assets using Non-Fungible Tokens (NFTs)
+title: The pNFT Standard
 permalink: /standard/
-parent: The OBADA Foundation
-nav_order: 3
-has_children: false
+has_children: no
+nav_order: 4
 ---
 
 
