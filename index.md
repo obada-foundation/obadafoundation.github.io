@@ -1,5 +1,5 @@
 ---
-title: Documents Home
+title: Home
 permalink: /
 nav_order: 1
 has_toc: false
