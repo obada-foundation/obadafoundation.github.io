@@ -2,7 +2,7 @@
 title: DAO Waitlist
 parent: The OBADA DAO
 permalink: /dao/waitlist/
-nav_order: 2
+nav_order: 4
 ---
 
 # OBADA DAO Waitlist
