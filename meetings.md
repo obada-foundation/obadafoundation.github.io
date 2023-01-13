@@ -1,8 +1,6 @@
 --- 
 title: Meeting Minutes
 permalink: /meetings/
-parent: Quick Links
-nav_order: 2
 ---
 
 # Meeting Minutes and Past Presentations
