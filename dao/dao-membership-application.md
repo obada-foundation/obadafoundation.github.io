@@ -1,6 +1,7 @@
 ---
 title: DAO Membership Application
 permalink: /membership-application/
+parent: The OBADA DAO
 has_children: no
 nav_order: 5
 has_toc: false
