@@ -1,5 +1,6 @@
 --- 
 title: Meeting Minutes
+parent: Documents home
 permalink: /meetings/
 ---
 
