@@ -1,6 +1,6 @@
 <!------
 title: Resources
-permalink: /dao/resources
+permalink: /documents/resources
 has_toc: false
 --->
 
