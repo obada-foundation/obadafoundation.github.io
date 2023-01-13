@@ -1,6 +1,6 @@
 ---
-title: OBD Utility Token Allocation
-permalink: /documents/obd-token-allocation/
+title: Token Allocation
+permalink: /documents/token-allocation/
 parent: DAO Documents
 grand_parent: The OBADA DAO
 has_children: false
