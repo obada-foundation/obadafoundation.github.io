@@ -1,10 +1,10 @@
 ---
-title: Corporate Docs
-nav_order: 5
-permalink: /corporate-docs/
+title: OBD Utility Token Allocation
+permalink: /dao/OBD-token-allocation/
 parent: DAO Documents
 has_children: false
 has_toc: false
+nav_order: 1
 ---
 <br> <br>
 
