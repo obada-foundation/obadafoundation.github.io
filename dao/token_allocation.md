@@ -1,8 +1,8 @@
 ---
-title: Token Allocation
+title: OBD Utility Token Allocation
 permalink: /dao/token-allocation
 parent: The OBADA DAO
-nav_order: 4
+nav_order: 10
 has_toc: false
 ---
 
