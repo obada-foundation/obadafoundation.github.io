@@ -15,8 +15,7 @@ nav_order: 4
 * Please [follow the instructions here](../waitlist-processing-instructions).
  
 ### If you are interested in joining the waitlist
-* Please review the [DAO Operating Agreement](https://www.dropbox.com/s/17hgdbl4e5mkuvw/OBADA%20DAO%2C%20LLC%20Operating%20Agreement%20%281.3.2022%29%20-%20Final.pdf?dl=0).
-* Then [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdr-6CT7zsobF4J65jG_kUxmuCI3_-jGANKRbdbrv8WUzLO5g/viewform).
+* Review the [DAO Operating Agreement](https://www.dropbox.com/s/17hgdbl4e5mkuvw/OBADA%20DAO%2C%20LLC%20Operating%20Agreement%20%281.3.2022%29%20-%20Final.pdf?dl=0) then [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdr-6CT7zsobF4J65jG_kUxmuCI3_-jGANKRbdbrv8WUzLO5g/viewform).
 
 ## Current OBADA DAO Waitlist
 _As of Jan 13, 2022_
