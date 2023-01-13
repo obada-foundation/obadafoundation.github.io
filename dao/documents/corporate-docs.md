@@ -1,8 +1,8 @@
 --- 
 title: DAO Corporate Docs
-parent: The OBADA DAO
+parent: DAO Documents
 permalink: /documents/corporate-docs/
-nav_order: 5
+nav_order: 6
 ---
 
 # OBADA DAO Incorporation Docs
