@@ -1,7 +1,7 @@
 ---
 title: Calendar
 permalink: /calendar/
-parent: Documents Home
+parent: Home
 ---
 
 # Calendar
