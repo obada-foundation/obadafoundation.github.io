@@ -1,10 +1,9 @@
 ---
 title: FAQ
-nav_order: 6
+permalink: /faq/
 has_children: false
 has_toc: false
-permalink: /marketing/faq
-parent: 
+nav_order: 7
 ---
 
 <!-- comment
