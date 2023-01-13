@@ -1,6 +1,6 @@
 ---
 title: OBD Utility Token Allocation
-permalink: /dao/OBD-token-allocation/
+permalink: /dao/obd-token-allocation/
 parent: DAO Documents
 has_children: false
 has_toc: false
