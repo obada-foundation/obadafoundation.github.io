@@ -1,5 +1,5 @@
 --- 
-title: DAO LLC Corp Docs
+title: DAO Corporate Docs
 parent: The OBADA DAO
 permalink: /documents/corporate-docs/
 nav_order: 1
