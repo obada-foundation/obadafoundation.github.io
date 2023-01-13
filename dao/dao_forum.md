@@ -1,7 +1,7 @@
 ---
 title: DAO Forum
 parent: The OBADA DAO
-nav_order: 1
+nav_order: 2
 ---
 
 <meta charset="utf-8">
