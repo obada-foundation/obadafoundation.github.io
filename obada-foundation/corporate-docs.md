@@ -1,7 +1,7 @@
 ---
 title: Corporate Docs
 nav_order: 5
-permalink: /corporate-docs/
+permalink: /corporate-docs/legal-filings/
 parent: The OBADA Foundation
 has_children: true
 has_toc: false
