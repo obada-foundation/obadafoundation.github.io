@@ -1,8 +1,8 @@
 ---
 title: DAO Operating Agreement
 parent: The OBADA DAO
-permalink: /dao/dao-operating-agreement/
-nav_order: 4
+permalink: /documents/dao-operating-agreement/
+nav_order: 1
 ---
 
 <br> <br>
