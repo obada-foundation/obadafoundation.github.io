@@ -1,8 +1,8 @@
 ---
 title: Tech Resources
-nav_order: 5
+permalink: /tech-resources/
 has_children: true
 has_toc: false
-permalink: /tech-resources/
+nav_order: 5
 ---
 
