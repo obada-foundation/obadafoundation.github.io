@@ -1,6 +1,6 @@
 ---
 title: DAO Membership Application
-permalink: /membership-application/
+permalink: /dao/membership-application/
 parent: The OBADA DAO
 has_children: no
 nav_order: 5
