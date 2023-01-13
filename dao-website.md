@@ -1,7 +1,7 @@
 ---
-title: OBADA DAO Website
-nav_order: 1
+title: DAO Website
 parent: The OBADA DAO
+nav_order: 1
 ---
 
 <meta charset="utf-8">
