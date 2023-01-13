@@ -2,6 +2,7 @@
 title: OBD Utility Token Allocation
 permalink: /documents/obd-token-allocation/
 parent: DAO Documents
+grand_parent: The OBADA DAO
 has_children: false
 has_toc: false
 nav_order: 1
