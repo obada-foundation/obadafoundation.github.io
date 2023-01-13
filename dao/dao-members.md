@@ -1,8 +1,8 @@
 --- 
-title: DAO Members
-parent: Marketing
+title: DAO Member List
+parent: The OBADA DAO
 permalink: /dao/members/
-nav_order: 2
+nav_order: 1
 ---
 ## Current OBADA DAO Members
 
