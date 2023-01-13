@@ -1,8 +1,8 @@
 ---
-title: Content Management
-permalink: /content
-parent: Quick Links
-nav_order: 3
+title: Administration Tools
+permalink: /admin-tools/
+parent: The OBADA Foundation
+nav_order: 4
 ---
 
 # OBADA Content Management Tools
