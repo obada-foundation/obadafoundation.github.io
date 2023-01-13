@@ -1,6 +1,7 @@
 ---
 title: Calendar
-permalink: /calendar
+permalink: /calendar/
+parent: Documents Home
 ---
 
 # Calendar
