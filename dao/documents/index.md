@@ -1,8 +1,8 @@
 ---
 title: DAO Documents
-nav_order: 5
 permalink: /documents/
-parent: OBADA DAO, LLC
+parent: The OBADA DAO
 has_children: true
+nav_order: 6
 has_toc: false
 ---
