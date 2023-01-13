@@ -1,5 +1,5 @@
 ---
-title: OBADA DAO Explainer Site
+title: OBADA DAO Website
 nav_order: 1
 parent: The OBADA DAO
 ---
