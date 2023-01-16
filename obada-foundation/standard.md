@@ -1,6 +1,6 @@
 ---
 title: The pNFT Standard
-permalink: /standard2/
+permalink: /standard/
 has_children: true 
 nav_order: 4
 ---
