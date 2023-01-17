@@ -2,7 +2,7 @@
 title: DAO Operating Agreement
 parent: DAO Documents
 grand_parent: The OBADA DAO
-permalink: /documents/dao-operating-agreement/
+permalink: /dao/documents/dao-operating-agreement/
 nav_order: 1
 ---
 
