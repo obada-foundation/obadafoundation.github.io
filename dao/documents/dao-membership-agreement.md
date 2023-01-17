@@ -11,6 +11,7 @@ nav_order: 2
 # DAO Membership Agreement
 * To be completed by all DAO membership applicants
 
-**DAO Membership Agreement**: OBADA DAO, LLC Membership Agreement - 10_26_2022 - FINAL.docx.pdf**
+**DAO Membership Agreement**
+* OBADA DAO, LLC Membership Agreement - 10_26_2022 - FINAL.docx.pdf
 
 ``` Need link to dropbox file ```
