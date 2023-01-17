@@ -1,6 +1,6 @@
 ---
 title: DAO Documents
-permalink: /documents/
+permalink: /dao/documents/
 parent: The OBADA DAO
 has_children: true
 nav_order: 6
