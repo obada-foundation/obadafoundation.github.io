@@ -11,13 +11,14 @@ has_toc: false
 # Instructions for Companies on the Waitlist
 _Jan 13, 2022_
 
-Thank you for your interest in being an OBADA DAO member.  We have finalized the agreements to join and have outlined the joining process for you below.  If you no longer wish to join the DAO, please let me know so I will remove you from the reminder list.
+Thank you for your interest in being an OBADA DAO member.  We have finalized the agreements to join and have outlined the joining process for you below.  
+
  
 ### 1. DOCUMENTS
 There are three DAO-related administrative documents  that need to be executed by you.:
-  * [OBADA DAO, LLC Operating Agreement](TBD)
-  * [OBADA DAO, LLC Membership Agreement](TBD)
-  * [OBADA DAO, LLC Accredited Investor Questionnaire](TBD) 
+  * [OBADA DAO, LLC Operating Agreement](/dao/documents/dao-operating-agreement)
+  * [OBADA DAO, LLC Membership Agreement](/dao/documents/membership-agreement)
+  * [OBADA DAO, LLC Accredited Investor Questionnaire](/dao/documents/accredited-investor-questionairre/) 
  
 And there are two tax-related documents (please fill out and return the one that is applicable to you).
   * USA ONLY: W-9 tax form https://www.irs.gov/pub/irs-pdf/fw9.pdf 
