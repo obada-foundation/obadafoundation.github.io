@@ -60,7 +60,7 @@ New York, New York 10038
 Once we have received your signed documents AND have confirmed we have received your payment, we will execute your membership on our end and finalize your place in the DAO.  
  
 ### 5. FOLLOW UP
-We will be in touch with additional details regarding node set-up, technical contacts and other information needed in Q1.
+We will be in touch with additional details regarding node set-up, technical contacts and other information needed during Q1. 
  
 ### Questions?  
 Email Mark Schaffer, OBADA Facilitator, at [bizops@obada.io](mailto:bizops@obada.io)
