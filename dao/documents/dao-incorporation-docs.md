@@ -1,10 +1,10 @@
 --- 
 title: DAO Incorporation Documents
-permalink: /documents/dao-corporate-docs/
+permalink: /dao/documents/dao-corporate-docs/
 parent: DAO Documents
 grand_parent: The OBADA DAO
 has_children: no
-nav_order: 6
+nav_order: 5
 ---
 
 # OBADA DAO Incorporation Docs
