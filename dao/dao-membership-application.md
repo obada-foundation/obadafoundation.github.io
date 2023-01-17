@@ -21,8 +21,8 @@ There are three DAO-related administrative documents  that need to be executed b
   * [OBADA DAO, LLC Accredited Investor Questionnaire](/dao/documents/accredited-investor-questionairre/) 
  
 And there are two tax-related documents (please fill out and return the one that is applicable to you).
-  * USA ONLY: W-9 tax form https://www.irs.gov/pub/irs-pdf/fw9.pdf 
-  * INTERNATIONAL: W-8 form https://www.irs.gov/pub/irs-prior/fw8--1991.pdf 
+  * USA ONLY: [W-9 tax form](https://www.irs.gov/pub/irs-pdf/fw9.pdf)
+  * INTERNATIONAL: [W-8 form](https://www.irs.gov/pub/irs-prior/fw8--1991.pdf) 
  
 ### 2.  SIGNATURES
 
@@ -63,4 +63,4 @@ Once we have received your signed documents AND have confirmed we have received 
 We will be in touch with additional details regarding node set-up, technical contacts and other information needed in Q1.
  
 ### Questions?  
-Email Mark Shaffer, OBADA Facilitator, at [bizops@obada.io](mailto:bizops@obada.io)
+Email Mark Schaffer, OBADA Facilitator, at [bizops@obada.io](mailto:bizops@obada.io)
