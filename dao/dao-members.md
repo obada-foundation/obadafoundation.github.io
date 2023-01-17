@@ -4,11 +4,22 @@ parent: The OBADA DAO
 permalink: /dao/members/
 nav_order: 3
 ---
-## Current OBADA DAO Members
+
+
+# OBADA DAO Members
+_Updated Jan 17, 2023_
 
 ### ASCDI | Joe Marion, President
 <img src="../member-logos/ascdi-logo.jpg"  align="left" vspace="5" hspace="10" height="100px" width="100px">
 We are a worldwide not for profit trade association of companies that buy, sell, service, lease and provide ITAD services on IT and communications equipment dealing. The ASCDI embraces a world focused on the putting used technology back into productive use in an environmentally sound manner while protecting our customer's data.
+<br/><br/>
+
+### Big Data Supply
+_need info_
+<br/><br/>
+
+### Digital R-E-D
+_need info_
 <br/><br/>
 
 ### DMD Systems Recovery, Inc. | Aaron Zepper, CEO
@@ -60,7 +71,6 @@ University of Nevada, “Business is more than you think.” At Nevada's College
 <img src="../member-logos/xs-international-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px">
 XSi helps companies with their IT Lifecycle Services and Support. Services begin with the installation of new technology as well as de-installation, moving, consolidating, onsite disk wiping & destruction, IT Asset Disposition (ITAD) of legacy equipment, including resale or recycling. In addition, XSi provides lower-cost, Third Party Hardware Maintenance for installed models and extends the life of legacy, enterprise-brand servers, storage, network hardware and other devices, including UPS systems and supercomputers.
 <br/><br/>
-
 
 ### Dynamic Lifecycle Innovations | Bobbie Suhr
 <img src="../member-logos/think-dynamic-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px">
