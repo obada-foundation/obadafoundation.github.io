@@ -1,9 +1,9 @@
 ---
-title: Accredited Investor Quesionairre
+title: Accredited Investors
 parent: DAO Documents
 grand_parent: The OBADA DAO
-permalink: /dao/documents/accredited-investor/
-nav_order: 2
+permalink: /dao/documents/accredited-investor-questionairre/
+nav_order: 3
 ---
 
 <br> <br>
