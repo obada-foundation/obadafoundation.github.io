@@ -13,7 +13,7 @@ _As of Jan 17, 2022_
 * It's time to process your application. [Follow the instructions here](../dao/membership-application).
  
 ### Join the waitlist
-* Review the [DAO Operating Agreement](https://www.dropbox.com/s/17hgdbl4e5mkuvw/OBADA%20DAO%2C%20LLC%20Operating%20Agreement%20%281.3.2022%29%20-%20Final.pdf?dl=0) then [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdr-6CT7zsobF4J65jG_kUxmuCI3_-jGANKRbdbrv8WUzLO5g/viewform).
+* Review the [DAO Operating Agreement](/dao/documents/dao-operating-agreement/) then [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdr-6CT7zsobF4J65jG_kUxmuCI3_-jGANKRbdbrv8WUzLO5g/viewform).
 
 ## Current OBADA DAO Waitlist
 _As of Jan 13, 2022_
