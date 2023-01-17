@@ -10,7 +10,7 @@ _As of Jan 17, 2022_
 * The DAO will be capped at 101 seats.  [25 seats](/dao/members/) have been filled and we are processing the waitlist applicants below.
 
 ### On the waitlist?
-* It's time to process your application. [Follow the instructions here](../dao/membership-application).
+* It's time to process your application. [Follow the instructions here](/dao/membership-application).
  
 ### Join the waitlist
 * Review the [DAO Operating Agreement](/dao/documents/dao-operating-agreement/) then [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdr-6CT7zsobF4J65jG_kUxmuCI3_-jGANKRbdbrv8WUzLO5g/viewform).
