@@ -12,6 +12,6 @@ nav_order: 3
 
 * To be completed by all DAO Membership applicants.
 
-**DAO Accredited Investor Questionairre (name of file)** 
+**DAO Accredited Investor Questionairre** (OBADA DAO, LLC Accredited Investor Questionnaire - 11_18_21 - FINAL.docx.pdf) 
 
 ``` Link to Dropbox meeded. ```
