@@ -1,5 +1,5 @@
 ---
-title: DAO Website
+title: DAO Website (obada.io)
 parent: The OBADA DAO
 nav_order: 1
 ---
