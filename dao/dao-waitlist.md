@@ -7,7 +7,7 @@ nav_order: 4
 
 # OBADA DAO Waitlist
 _As of Jan 17, 2022_
-* The DAO will be capped at 101 seats.  [25 seats](../dao/members/) have been filled and we are processing the waitlist applicants below.
+* The DAO will be capped at 101 seats.  [25 seats](/dao/members/) have been filled and we are processing the waitlist applicants below.
 
 ### On the waitlist?
 * It's time to process your application. [Follow the instructions here](../dao/membership-application).
