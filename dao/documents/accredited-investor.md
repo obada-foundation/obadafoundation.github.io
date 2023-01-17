@@ -8,4 +8,10 @@ nav_order: 3
 
 <br> <br>
 
-**Accredited Investor Questionairre** - need link to dropbox
+# Accredited Investor Questionairre
+
+* To be completed by all DAO Membership applicants.
+
+**DAO Accredited Investor Questionairre (name of file)** 
+
+``` Link to Dropbox meeded. ```
