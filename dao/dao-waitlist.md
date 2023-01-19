@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 # OBADA DAO Waitlist
-_As of Jan 17, 2022_
+_As of Jan 17, 2023_
 * The DAO will be capped at 101 seats.  [25 seats](/dao/members/) have been filled and we are processing the waitlist applicants below.
 
 ### On the waitlist?
@@ -15,7 +15,7 @@ _As of Jan 17, 2022_
 ### Join the waitlist
 * Review the [DAO Operating Agreement](/dao/documents/dao-operating-agreement/) then [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdr-6CT7zsobF4J65jG_kUxmuCI3_-jGANKRbdbrv8WUzLO5g/viewform).
 
-## Current OBADA DAO Waitlist
+<!-- ## Current OBADA DAO Waitlist
 _As of Jan 13, 2022_
 1. 7Digits B.V. ([www.7digits.eu](www.7digits.eu))
 2. All Green Electronics Recycling, LLC ([www.allgreenrecycling.com](www.allgreenrecycling.com))
@@ -76,3 +76,4 @@ _As of Jan 13, 2022_
 57. The Renewed Store Ltd ([www.therenewedstore.com/](www.therenewedstore.com/))
 58. Waqas Trading  ([www.waqastrading.com](www.waqastrading.com))
 59. Ziperase LLC ([ziperase.com/](ziperase.com/))
+-->
