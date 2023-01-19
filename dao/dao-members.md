@@ -123,8 +123,12 @@ Since 1987, World Data Products has delivered value with IT hardware, maintenanc
 <br/><br/>
 
 
-### Guennael Delorme
-<!-- What company is part of the DAO? <img src="" align="left" vspace="5"  hspace="10" height="140px" width="120px"> -->
-<!-- Blurb Goes Here -->
-<br/><br/>
+### Rhapsody Ventures | Vincent Lui
+<!-- <img src="" align="left" vspace="5"  hspace="10" height="140px" width="120px"> -->
+<!-- 20+ years senior executive, deep tech investor and advisor - From early stage startup to Fortune 500 operations to deep tech VC / CVC investing. Passionate about accelerating commercialization and adoption of carbon negative and adaptation technologies, circular economy and sustainability solutions to combat climate change. -->
+<br/><br/> 
 
+### CELX Advisory | Guennael Delorme
+<!-- <img src="" align="left" vspace="5"  hspace="10" height="140px" width="120px"> -->
+<!-- Blurb about G. -->
+<br/><br/>
