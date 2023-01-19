@@ -13,4 +13,4 @@ The OBADA DAO is a [Wyoming DAO LLC](https://www.coindesk.com/wyoming-dao-llc-la
 
 **DAO members** are like the "owners" of this non-company. They run the nodes, vote on all platform changes, and set all platform fees and rewards.   The DAO is an open organization.   Any actor in the asset disposition ecosystem can participate by making a financial investment to **stake a node**.   Platform fees and rewards are collected and distributed  nightly back to the DAO members as “profit”.  Rewards are issued as “dividend yield”.    
 
-Someone needs to do a proper write up here.
+<!-- Someone needs to do a proper write up here. -->
