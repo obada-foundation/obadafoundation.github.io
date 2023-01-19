@@ -15,7 +15,8 @@ We are a worldwide not for profit trade association of companies that buy, sell,
 <br/><br/>
 
 ### Big Data Supply
-_need info_
+<img src="../member-logos/big-data-supply-logo.png"  align="left" vspace="5" hspace="10" height="100px" width="100px">
+Big Data Supply, Inc.; an R2 and RIOS certified ITAD company established to meet the ever-evolving life cycle management of data centers and corporations worldwide. Our core business is acquiring data storage equipment and peripherals such as Tape Storage; data tape media, tape drives, tape libraries. Computer Hardware; servers, disk array and Network Hardware. BDSI also has a solar division (www.solarrecycling.com) that decommissions solar panels for reuse. Currently trading IT and Solar assets in over 80 countries.
 <br/><br/>
 
 ### Digital R-E-D
