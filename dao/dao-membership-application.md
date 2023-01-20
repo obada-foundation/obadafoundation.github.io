@@ -36,23 +36,23 @@ Pay your $5,015.00 USD ($5,000.00 membership fee +$15.00 for bank charges) to OB
 
 We can only accept wire or ACH payments.  
  
-**ACH Payments (USA)**
+**ACH Payments (USA)** <br/>
 OBADA DAO, LLC <br/>
 Account Number: 466014318733 <br/>
 Routing Number (electronic) 011000138 <br/>
- <br/>
-Bank Address:
+
+Bank Address: <br/>
 Bank of America, NA <br/>
 222 Broadway <br/>
 New York, New York 10038 <br/>
 
-**Wire Payments (International)**
+**Wire Payments (International)** <br/>
 OBADA DAO, LLC <br/>
 Account Number: 466014318733 <br/>
 Routing Number (wires) 026009593 <br/>
 SWIFT CODE: BOFAUS3N <br/>
- <br/>
-Bank Address: 
+
+Bank Address: <br/>
 Bank of America, NA <br/>
 222 Broadway <br/>
 New York, New York 10038 <br/>
