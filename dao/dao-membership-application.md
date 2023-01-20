@@ -25,11 +25,9 @@ And there are two tax-related documents (please fill out and return the one that
   * INTERNATIONAL: [W-8 form](https://www.irs.gov/pub/irs-prior/fw8--1991.pdf) 
 
 
-## Once you have completed the above forms please send a signed copy of them to <a href="mailto:bizops@obada.io">bizops@obada.io</a> 
- 
 ### 2.  SIGNATURES
 
-Please review, fill in and sign your portion of each document and return to bizops@obada.io
+## Please review, fill in and sign your portion of each document and return to <a href="mailto:bizops@obada.io">bizops@obada.io</a> 
  * Note that you may join as either an Individual or as an Entity so please sign and fill out the documents accordingly (ie if you sign up as your business, please fill out the ENTITY parts of the documents and not the INDIVIDUAL parts of the documents).   Digital / typed signatures are acceptable.
  
 ### 3. PAYMENT
