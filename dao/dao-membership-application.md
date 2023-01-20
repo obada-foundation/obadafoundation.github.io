@@ -23,6 +23,9 @@ There are three DAO-related administrative documents  that need to be executed b
 And there are two tax-related documents (please fill out and return the one that is applicable to you).
   * USA ONLY: [W-9 tax form](https://www.irs.gov/pub/irs-pdf/fw9.pdf)
   * INTERNATIONAL: [W-8 form](https://www.irs.gov/pub/irs-prior/fw8--1991.pdf) 
+
+
+## Once you have completed the above forms please send a signed copy of them to <a href="mailto:bizops@obada.io">bizops@obada.io</a> 
  
 ### 2.  SIGNATURES
 
@@ -36,26 +39,26 @@ Pay your $5,015.00 USD ($5,000.00 membership fee +$15.00 for bank charges) to OB
 We can only accept wire or ACH payments.  
  
 **ACH Payments (USA)**
-OBADA DAO, LLC
-Account Number: 466014318733
-Routing Number (electronic) 011000138
-
+OBADA DAO, LLC <br/>
+Account Number: 466014318733 <br/>
+Routing Number (electronic) 011000138 <br/>
+ <br/>
 Bank Address:
-Bank of America, NA
-222 Broadway
-New York, New York 10038
+Bank of America, NA <br/>
+222 Broadway <br/>
+New York, New York 10038 <br/>
 
 **Wire Payments (International)**
-OBADA DAO, LLC
-Account Number: 466014318733
-Routing Number (wires) 026009593
-SWIFT CODE: BOFAUS3N
+OBADA DAO, LLC <br/>
+Account Number: 466014318733 <br/>
+Routing Number (wires) 026009593 <br/>
+SWIFT CODE: BOFAUS3N <br/>
+ <br/>
+Bank Address: 
+Bank of America, NA <br/>
+222 Broadway <br/>
+New York, New York 10038 <br/>
 
-Bank Address:
-Bank of America, NA
-222 Broadway
-New York, New York 10038
- 
 ### 4. PROCESSING
 Once we have received your signed documents AND have confirmed we have received your payment, we will execute your membership on our end and finalize your place in the DAO.  
  
