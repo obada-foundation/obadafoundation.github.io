@@ -11,7 +11,7 @@ This site serves as the joint documents and information repository for:
 * **[The OBADA Foundation](/about)**, a nonprofit 501(c)(3) coalition of stakeholders from the IT asset disposition (ITAD) sector.  
 * **[The pNFT Standard](https://www.obadafoundation.org/standard)** "Representing physical assets as non-fungible tokens (NFTs)", an international standard being developed by the foundation in conjunction with ISO (ISO TC/307 AHG3).
 
-## [FAQ - Frequently asked questions](https://www.obadafoundation.org/marketing/faq)
+## [FAQ - Frequently asked questions](https://www.obadafoundation.org/faq)
 
 ## Quick Links
 * [Calendar](https://www.obadafoundation.org/calendar) - All official foundation, committee, and DAO meetings.
