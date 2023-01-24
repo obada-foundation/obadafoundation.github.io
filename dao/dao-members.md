@@ -20,7 +20,7 @@ Big Data Supply, Inc.; an R2 and RIOS certified ITAD company established to meet
 <br/><br/>
 
 ### Digital R-E-D | Al Lainio, CEO
-<img src="../member-logos/digital-red-logo.jpg" align="left" vspace="5" hspace="10" height="120px" width="120px">
+<img src="../member-logos/digital-red-logo.jpg" align="left" vspace="5" hspace="10" height="140px" width="140px">
 We enable organizations transparent digital sustainability by aligning technology and recycling in an innovative and relevant way so positive and impactful changes continue to show growth. We recognize the importance of accurate and complete data of your IT assets to ensure stakeholder visibility into sustainable and secure best practices. 
 <br/><br/>
 
