@@ -119,6 +119,11 @@ Unduit is a software and services organization that provides asset life cycle ma
 Device inventory management for lifecycle chain of custody. Our solutions help customers collect devices to maximize their life cycle and ensure final recycling. We support local actors and ecosystems to create or regenerate the circular economy of secondary market. At a global level, we are providing decentralized and open-source technologies to democratize the access of collection, repair, reuse and recyling our electronic devices. Right to repair, right to know circularity, close digital divide, sustainability
 <br/><br/>
 
+### WIREAPP | Marcin Wyrwas, CEO
+<img src="../member-logos/wireapp-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px"> 
+WIPERAPP® is a module system designed for irreversible, certified hard disk data wiped out from storage media without the need for physical destruction. The application complies with requirements of FBI, CIA, FMV and ABW, it also follows the newest NIST standard (The National Institute of Standards and Technology). Therefore it can be used not only for personal purposes, but it can also be successfully used in companies and state institutions.
+<br/><br/>
+
 ### World Data Products, Inc. | Neil Vill
 <img src="../member-logos/world-data-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px"> 
 Since 1987, World Data Products has delivered value with IT hardware, maintenance programs, and other IT services including repair and logistics. We provide OEM-quality refurbished server, storage, networking solutions, and computer tape at substantial savings.
