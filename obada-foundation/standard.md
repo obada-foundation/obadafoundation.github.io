@@ -8,6 +8,7 @@ nav_order: 4
 
 # Representing Physical Assets using Non-Fungible Tokens
 Text for ISO New Work Item Proposal Form 04 - approved by AHG3 Aug 31, 2022
+* [See proposed revisions here](/proposed-changes/index.md)
  
 <br>
 
