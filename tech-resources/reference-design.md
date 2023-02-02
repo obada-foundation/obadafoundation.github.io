@@ -1,11 +1,11 @@
 ---
 title: Reference Design
-nav_order: 3
+nav_order: 2
 parent: Tech Resources
 ---
 
 <meta charset="utf-8">
- <meta http-equiv="refresh" content="0; URL=https://dev.rd.obada.io">
+ <meta http-equiv="refresh" content="0; URL=https://rd.obada.io">
  <link rel="canonical" href="https://rd.obada.io">
 
 
