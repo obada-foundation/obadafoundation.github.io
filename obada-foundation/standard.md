@@ -8,11 +8,11 @@ nav_order: 4
 
 # Representing Physical Assets using Non-Fungible Tokens
 Text for ISO New Work Item Proposal Form 04 - approved by AHG3 Aug 31, 2022
-* [View proposed revisions to the Outline in Github](https://github.com/obada-foundation/standard/blob/main/proposed-changes/index.md) - last reviewed by the editing team Jan 18, 2023
  
 <br>
 
 ## Outline
+* [View proposed revisions to the Outline in Github](https://github.com/obada-foundation/standard/blob/main/proposed-changes/index.md) - last reviewed by the editing team Jan 18, 2023
 
 #### Foreword
 
