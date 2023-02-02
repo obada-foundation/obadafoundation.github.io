@@ -6,14 +6,16 @@ nav_order: 3
 ---
 
 # Master / Validator Node
-The OBADA Master Node consists of a Validator Node (containing the digital ledgers) as well as several other components.   DAO Members have the rights to operate all the software contained in the Master Node, but are only required to operate the single Validator Node (which contains the digitial ledgers).
+The OBADA Master Node consists of a Validator Node (containing the digital ledgers) as well as several other components.   DAO Members have the rights to operate all the software contained in the Master Node, but are only required to operate the single Validator Node (which contains the digitial ledgers).  The node software can be found in the [Testnet Github Repo](https://github.com/obada-foundation/testnet/).
 
+## Installation Video 
+[See a video walkthrough](https://www.youtube.com/watch?v=is1h_RDG0C8) showing an actual node installation.
 
 ## DAO Member Node Options
 DAO Members have four options for running the node software.
 
-1. Install and maintain your own physical server.  Bare metal  installation instructions are below.
-2. Rent a cloud server (AWS, Google Cloud, etc..) then install and maintain the s/w yourself.  Instructions are below.
+1. Install and maintain your own physical server.  Bare metal installation instructions are below.
+2. Rent a cloud server (AWS, Google Cloud, etc..) then install and maintain the software yourself.  Instructions are below.
 3. Rent an cloud server and have OBADA install and maintain the node for you. This option is included in the DAO membership. Contact techops @ obada.io.
 4. License your node rights and requirements to someone else.  As of Feb 2023 no one has done this yet.   If you are the first, please share whatever legal agreement you create for this as an example template for other DAO Members to use.
 
