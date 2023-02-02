@@ -1,7 +1,7 @@
 ---
 title: The pNFT Standard
 permalink: /standard/
-has_children: true 
+has_children: false 
 nav_order: 4
 ---
 
