@@ -1,13 +1,26 @@
 --- 
-title: Bare Metal Install
+title: Install a Node
 parent: Tech Resources
-permalink: /tech-resources/bare-metal-install
-nav_order: 4
+permalink: /tech-resources/node-installation
+nav_order: 3
 ---
 
-# Bare Metal Install
+# Master / Validator Node
+The OBADA Master Node consists of a Validator Node (containing the digital ledgers) as well as several other components.   DAO Members have the rights to operate all the software contained in the Master Node, but are only required to operate the single Validator Node (which contains the digitial ledgers).
 
-## Hardware Prerequisites
+
+## DAO Member Node Options
+DAO Members have four options for running the node software.
+
+1. Install and maintain your own physical server.  Bare metal  installation instructions are below.
+2. Rent a cloud server (AWS, Google Cloud, etc..) then install and maintain the s/w yourself.  Instructions are below.
+3. Rent an cloud server and have OBADA install and maintain the node for you. This option is included in the DAO membership. Contact techops @ obada.io.
+4. License your node rights and requirements to someone else.  As of Feb 2023 no one has done this yet.   If you are the first, please share whatever legal agreement you create for this as an example template for other DAO Members to use.
+
+
+## Bare Metal Installation
+
+### Hardware Prerequisites
 
 1.  Server to host node
 
@@ -31,7 +44,7 @@ nav_order: 4
     
 * You will need a 3rd PC for preparation
 
-## Software Prerequisites
+### Software Prerequisites
 
 | Resource | Software | Note |
 | -------- | ------ | ---- |
@@ -40,7 +53,7 @@ nav_order: 4
 | Github | Obada/testnode | https://github.com/obada-foundation/testnet |
 | Balena | Etcher 1.7.9 | [balenaEtcher - Flash OS images to SD cards & USB drives](https://www.balena.io/etcher/), used on preparation pc |
 
-## Preparation Checklist
+### Preparation Checklist
 
 1. Node
 
@@ -69,7 +82,7 @@ nav_order: 4
 3. Prepare Install Media to USB Drive
     1. Use Etcher to create Workstation Media
   
-## Time Breakdown
+### Time Breakdown
 
 Several of these steps don't require attention from the user, you don't need to wait while the job is done.
 
@@ -84,11 +97,11 @@ Several of these steps don't require attention from the user, you don't need to 
 | Install prerequisites | 5 minutes |  |
 | Install node | 10 minutes |  |
 
-## Setup Diagram
+### Setup Diagram
 
 ![setup-diagram](https://user-images.githubusercontent.com/105013305/181301849-4a5fb081-9b7e-429b-a200-9ef28329ef01.png)
 
-## Preparation PC - Download and Create Install Media
+### Preparation PC - Download and Create Install Media
 
 1. Download Ubuntu Desktop
     1. Using a browser navigate to [Download Ubuntu Desktop - Download - Ubuntu](https://ubuntu.com/download/desktop)
@@ -104,7 +117,7 @@ Several of these steps don't require attention from the user, you don't need to 
     7. Select 'Flash!' to initiate writing to the USB Drive.
     8. When done remove the USB.
 
-## Node Preparation
+### Node Preparation
 
 Check your Server manual for the following steps:
 
@@ -117,7 +130,7 @@ Check your Server manual for the following steps:
 7. Configure ethernet.
 8. Add routes if needed for connectivity.
 
-## Workstation Preparation
+### Workstation Preparation
 
 Check your Workstation for the following steps:
 
@@ -131,7 +144,7 @@ Check your Workstation for the following steps:
 
 At this point you should be ready to install Node.
 
-## Install Ubuntu Desktop
+### Install Ubuntu Desktop
 
 1. Do the same process for both Node and workstation, use appropriate Hostname and IP address parameters for each machine. 
 
@@ -167,6 +180,7 @@ At this point you should be ready to install Node.
 
 12. Select the IPv4 tab.  Click the Manual radio button.  Enter the IP address, netmask and default gateway parameters.  Uncheck automatic switch for DNS server and enter your dns server ip address in the textbox.
 ![install-u-11](https://user-images.githubusercontent.com/105013305/181302896-357d3567-b8c7-4a84-9de9-b5df098f5e8d.png)
+
 
 ## Install Node
 
@@ -260,5 +274,10 @@ ansible-playbook deployment/playbook.yml -i inventory --ask-become-pass
     2. Enter 1 for Test net
 15. Node should be installed.
 
+
+## Network Playground
+OBADA also provides a "Network Playground".  This is a complete self-contained installation of all the software to to simulate the entire working blockchain, including several validator nodes operating in consensus, on a single machine.  
+
+The Network Playground is highly technical and not required for operating a node nor for simple integrations. OBADA recommends doing a simple installation and understanding the reference design first. But for those interested in doing a more technical deep integration, the Network Playground provides an ideal test environment.  You can download it from [https://github.com/obada-foundation/local-network-playground](Network Playground Github Repo).
 
 
