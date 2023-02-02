@@ -1,6 +1,6 @@
 ---
-title: Github Account
-nav_order: 2
+title: OBADA Github
+nav_order: 1
 parent: Tech Resources
 ---
 
