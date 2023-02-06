@@ -1,8 +1,8 @@
 ---
 title: Demo Video
 parent: Marketing
-permalink: /marketing/demo-video
-nav_order: 4
+permalink: /marketing/demo-video/
+nav_order: 5
 ---
 
 ## Blockchain Demo
