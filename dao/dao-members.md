@@ -69,6 +69,11 @@ For over twenty years, Tradeloop has been the wholesale network of choice for IT
 University of Nevada, “Business is more than you think.” At Nevada's College of Business, the faculty and staff are what has earned the college its impressive reputation. Experts with years of industry, research and academic experience take pride in preparing the next generation to be leaders and innovators in business. 
 <br/><br/>
 
+### Value Smart Trading Limited | Lex Jain, Director
+<img src="../member-logos/value-smart-trading-ltd-logo.png" align="left" vspace="5"  hspace="10" height="80px" width="80px">
+Value Smart Trading Limited was incorporated in 2015. We are traders and manufacturers of electronic goods like CPU, RAM, Hard Drives, Motherboard, Barebone and SSD. Value Smart Trading Limited acts as a bridge between economies and facilitates the trade of shortages and excesses. We have more than 400 customers in more than 50 countries with 20 manufacturing companies who produce our products in Mainland China for our 200+ suppliers worldwide.  
+<br/><br/>
+
 ### XS International, Inc. | Todd A. Bone
 <img src="../member-logos/xs-international-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px">
 XSi helps companies with their IT Lifecycle Services and Support. Services begin with the installation of new technology as well as de-installation, moving, consolidating, onsite disk wiping & destruction, IT Asset Disposition (ITAD) of legacy equipment, including resale or recycling. In addition, XSi provides lower-cost, Third Party Hardware Maintenance for installed models and extends the life of legacy, enterprise-brand servers, storage, network hardware and other devices, including UPS systems and supercomputers.
