@@ -120,7 +120,7 @@ Device inventory management for lifecycle chain of custody. Our solutions help c
 <br/><br/>
 
 ### Value Smart Trading Limited | Lex Jain, Director
-<img src="../member-logos/value-smart-trading-ltd-logo.png" align="left" vspace="5"  hspace="10" height="110px" width="110px">
+<img src="../member-logos/value-smart-trading-ltd-logo.jpg" align="left" vspace="5"  hspace="10" height="110px" width="110px">
 Value Smart Trading Limited was incorporated in 2015. We are traders and manufacturers of electronic goods like CPU, RAM, Hard Drives, Motherboard, Barebone and SSD. Value Smart Trading Limited acts as a bridge between economies and facilitates the trade of shortages and excesses. We have more than 400 customers in more than 50 countries with 20 manufacturing companies who produce our products in Mainland China for our 200+ suppliers worldwide.  
 <br/><br/>
 
