@@ -41,7 +41,7 @@ Eagle Advisors, LLC (Eagle) specializes in investing in large-scale ventures wit
 <br/><br/>
 
 ### Electrorecycle, Inc. dba Avritek | Edward Pletner, Founder & CEO
-<img src="../member-logos/avritek-logo.eps"  align="left" vspace="5" hspace="10" height="120px" width="120px">
+<img src="../member-logos/avritek-logo.png"  align="left" vspace="5" hspace="10" height="120px" width="120px">
 Since 2004 Avritek has been a leader in our industry because of our unwavering commitment to data security, ability to provide a high return on technology assets, and outstanding customer service. We service a wide variety of clients from industries such as Law, Finance, Biotech, Healthcare, Technology, Government, Manufacturers, as well as office environments of all sizes.
 <br/><br/>
 
