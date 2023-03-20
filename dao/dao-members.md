@@ -71,6 +71,21 @@ Europe's leading Computer Trading Exchange since 1999 and organizer of the www.E
 For over twenty years, Tradeloop has been the wholesale network of choice for ITADs, Recyclers, Refurbishers, Brokers, and other professional traders. Tradeloop's mission is to improve reuse and recycling rates for the circular economy including tackling the problems of fraud, counterfeiting, sustainability, e-Waste, data breaches, and participating in legislative efforts to give consumers the right to repair their digital devices.
 <br/><br/>
 
+### RSR Partners LLC dba Regency Technologies | Jim Levine, President
+<img src="../member-logos/rsr-regency-logo.jpg" align="left" vspace="5"  hspace="10" height="140px" width="120px">
+Regency Technologies was founded 1998 and has grown to encompass eight facilities and more than 800 employees nationwide. Regency currently processes over 150 million lbs. of recyclable material and more than 3 million assets annually. Regency maintains certification to the e-Stewards, NAID, RIOS, and ISO 14001:2015 standards at all of our locations.
+<br/><br/>
+
+ ### Taber Group LLC dba ITAD Solutions | Kent Taggart, CEO
+<!-- <img src="../member-logos/NEED LOGO" align="left" vspace="5"  hspace="10" height="140px" width="120px"> -->
+At ITAD Solutions, our goals are to integrate superior customer service into the facets of Data Security, Value Recovery, and ewaste Management. At a global level, our mission is to fuse our network of over 120 partners into a standardized, consolidated solution for all of your ITAD needs. We provide full ewaste and asset management from our headquarters in the San Francisco Bay Area, as well as nationwide and international. With over 120  partners worldwide, we provide a single point of contact, a standardized reporting tool, and a simplified, cost-effective global solution, tailored to your local needs. 
+<br/><br/> 
+
+### Renew IT Group PTY Ltd | Ethan Lancaster, Head of Operations & ESG
+<!-- <img src="../member-logos/NEED LOGO" align="left" vspace="5"  hspace="10" height="140px" width="120px"> -->
+Renew IT has become the trusted name in IT asset managed services in Australia and New Zealand. Our Outstanding growth has been down to our amazing team and our ever growing list of clients who are as passionate about the environment and their employees as we are and creating a Carbon Zero workplace. With 300+ Staff and field service technicians,  over 183,000 Sq feet (17,000 Sq metres) of R2 Accredited warehousing in Australia and New Zealand, and building dedicated Microfactories™ upcycling e-waste plastics and rare precious earths in our own facilities, Renew IT is the market leader in the Southern Hemisphere
+<br/><br/>
+
 ### University of Nevada | Ron Lembke
 <img src="../member-logos/university-of-nevada-logo.png" align="left" vspace="5"  hspace="10" height="80px" width="80px">
 University of Nevada, “Business is more than you think.” At Nevada's College of Business, the faculty and staff are what has earned the college its impressive reputation. Experts with years of industry, research and academic experience take pride in preparing the next generation to be leaders and innovators in business. 
