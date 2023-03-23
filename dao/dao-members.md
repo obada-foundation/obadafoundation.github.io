@@ -82,7 +82,7 @@ At ITAD Solutions, our goals are to integrate superior customer service into the
 <br/><br/> 
 
 ### Renew IT Group PTY Ltd | Ethan Lancaster, Head of Operations & ESG
-<!-- <img src="../member-logos/NEED LOGO" align="left" vspace="5"  hspace="10" height="140px" width="120px"> -->
+<img src="../member-logos/renewit_logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px">
 Renew IT has become the trusted name in IT asset managed services in Australia and New Zealand. Our Outstanding growth has been down to our amazing team and our ever growing list of clients who are as passionate about the environment and their employees as we are and creating a Carbon Zero workplace. With 300+ Staff and field service technicians,  over 183,000 Sq feet (17,000 Sq metres) of R2 Accredited warehousing in Australia and New Zealand, and building dedicated Microfactories™ upcycling e-waste plastics and rare precious earths in our own facilities, Renew IT is the market leader in the Southern Hemisphere
 <br/><br/>
 
