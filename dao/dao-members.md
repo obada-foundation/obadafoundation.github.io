@@ -57,7 +57,7 @@ JT Environmental Consulting assists businesses and non-for-profit organizations 
 <br/><br/>
 
 ### LedMax Electronics | Paul Helean
-<img src="../member-logos/ledmax-logo.png" align="left" vspace="5"  hspace="10" height="60px" width="60px">
+<img src="../member-logos/ledmax-logo.png" align="left" vspace="5"  hspace="10" height="60px" width="90px">
 LedMax has grown into a leading distributor of refurbished IT equipment. From our headquarters in Romania, we operate with all our employees in 10,000 sqm of industrial warehousing. With a strong reputation for honesty, integrity, and ease of doing business, we are a well-respected member of the global computer broker market. Dealing with IT refurbished, used computers and wholesale distribution of desktop computers, we process more than 70,000 systems every month through a variety of trade and wholesale channels.
 <br/><br/>
 
