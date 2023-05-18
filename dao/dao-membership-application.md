@@ -8,8 +8,8 @@ has_toc: false
 ---
 
 
-# Instructions for Companies on the Waitlist
-_Jan 13, 2022_
+# Instructions for Companies Who Wish to Join the DAO
+_May 17, 2022_
 
 Thank you for your interest in being an OBADA DAO member.  We have finalized the agreements to join and have outlined the joining process for you below.  
 
@@ -32,7 +32,7 @@ And there are two tax-related documents (please fill out and return the one that
  
 ### 3. PAYMENT
 
-Pay your $5,015.00 USD ($5,000.00 membership fee +$15.00 for bank charges) to OBADA DAO, LLC.  
+Pay your $6,515.00 USD ($6,500.00 membership fee +$15.00 for bank charges) to OBADA DAO, LLC.  
 
 We can only accept wire or ACH payments.  
  
@@ -61,7 +61,7 @@ New York, New York 10038 <br/>
 Once we have received your signed documents AND have confirmed we have received your payment, we will execute your membership on our end and finalize your place in the DAO.  
  
 ### 5. FOLLOW UP
-We will be in touch with additional details regarding node set-up, technical contacts and other information needed during Q1. 
+We will be in touch with additional details regarding node set-up, technical contacts and other information needed. 
  
 ### Questions?  
-Email Mark Schaffer, OBADA Facilitator, at [bizops@obada.io](mailto:bizops@obada.io)
+Email Adam Cirrone, OBADA Business Development, at [adam@obada.io](mailto:adam@obada.io)
