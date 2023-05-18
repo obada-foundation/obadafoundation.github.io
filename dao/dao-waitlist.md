@@ -3,8 +3,10 @@ title: DAO Waitlist
 parent: The OBADA DAO
 permalink: /dao/waitlist/
 nav_order: 4
+nav_exclude: true
 ---
 
+<!-- No More Waitlist // Removing
 # OBADA DAO Waitlist
 _As of Jan 17, 2023_
 * The DAO will be capped at **101 seats**.
@@ -16,3 +18,4 @@ _As of Jan 17, 2023_
  
 ### Join the waitlist
 * Review the [DAO Operating Agreement](/dao/documents/dao-operating-agreement/) then [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdr-6CT7zsobF4J65jG_kUxmuCI3_-jGANKRbdbrv8WUzLO5g/viewform).
+-->
