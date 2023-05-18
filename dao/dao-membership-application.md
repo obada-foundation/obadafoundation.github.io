@@ -8,7 +8,7 @@ has_toc: false
 ---
 
 
-# Instructions for Companies Who Wish to Join the DAO
+# Instructions for Companies Interested in Joining the DAO
 _May 17, 2022_
 
 Thank you for your interest in being an OBADA DAO member.  We have finalized the agreements to join and have outlined the joining process for you below.  
