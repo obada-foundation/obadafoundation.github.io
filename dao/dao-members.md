@@ -56,7 +56,7 @@ Technology lifecycle solutions to protect your business and our environment. We 
 JT Environmental Consulting assists businesses and non-for-profit organizations in gaining certification to a number of standards through consultation in; internal audits, system implementation, document control, training, system updates, among others. Let our certified professionals assist your organization in earning certification for several standards (in this realm, R2, e-Stewards, ISO 27001, ISO 14001, NAID AAA, etc.)
 <br/><br/>
 
-### LedMax Electronics | Paul Helean
+### LedMax Electronics | Marian Toma, Founder
 <img src="../member-logos/ledmax-logo.png" align="left" vspace="5"  hspace="10" height="60px" width="90px">
 LedMax has grown into a leading distributor of refurbished IT equipment. From our headquarters in Romania, we operate with all our employees in 10,000 sqm of industrial warehousing. With a strong reputation for honesty, integrity, and ease of doing business, we are a well-respected member of the global computer broker market. Dealing with IT refurbished, used computers and wholesale distribution of desktop computers, we process more than 70,000 systems every month through a variety of trade and wholesale channels.
 <br/><br/>
