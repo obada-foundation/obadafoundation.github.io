@@ -78,18 +78,18 @@ Dropdown + markdown structure:
 </details>
 
 <details>
-  <summary><strong>OBADA DAO Membership Round B</strong></summary>
+  <summary><strong>OBADA DAO Membership</strong></summary>
   
   <div markdown="1">
     
   **1. What is this?**
-  The next membership round of the OBADA Decentralized Autonomous Organization (DAO). See the [Official Round B Announcement](https://docs.google.com/document/d/1If49K0t8VkpgNICOQtA19Pt9ic95X2Ti3nuh6Bro0gY/edit?usp=sharing)
+  Become a Member of the OBADA Decentralized Autonomous Organization (DAO) 
 
   **2. What does a company gain from joining?**
   By joining, a company gains:
     - a seat at the table as the OBADA DAO shapes the future
     - voting rights: 1 vote per member company
-    - system credit rights, also known as token rights, the right to a certain number of system credits
+    - system credit rights, the right to an initial allocation of a certain number of system credits
     - node rights: the right to operate a node
     - revenue sharing: operating a node entitles the node operator a share of the revenues from fees charged to users of the network
   
@@ -105,24 +105,25 @@ Dropdown + markdown structure:
   - An agreement to run a node of the decentralized registry 
   - learn more [below](#DAO-Structure)
 
-  **6. Who is the round B for?**
+  **6. Who is qualified to join the DAO?**
   - Restricted to members of the Asset Disposition (ITAD) sector, as well as institutions and non-profit organizations supporting and helping shape our industry
   - Accredited Investors and expert corporations in the Asset Disposition industry
   - These DAO members will be responsible for the growth, use and direction of the blockchain tool
   - Companies interested in helping design the most exciting and impactful new technology in our space of the last few decades
 
-  **7. How many can join Round B?**
-  There are a maximum of 53 seats available at this time.  The DAO is approved to 101 total members.  The DAo is currently at 23 members (prior to the start of Round B).
+  **7. How many can join the DAO?**
+  The DAO has approved 101 total voting members.  The DAO is currently at 32 members (as of June 2023).
   
   **8. What is the cost of joining the DAO?**
-  The cost of joining the DAO is $5,000. Each company can only join once.
+  The cost of joining the DAO is currently $6,500. After every 10 seats filled, the DAO may adjust the seat price, and included system credit allocation that goes with each seat. 
 
   **9. How does a company show its interest in joining?**
-  Starting on November 14, 2022, fill out this form to express interest & provide details about your company: [https://forms.gle/y3sd4CB9Ein9QXV8A](https://forms.gle/y3sd4CB9Ein9QXV8A).   The early waitlist "friends and family round" was opened Nov 1 for the networks of the existing DAO members.
+   
+   Please contact [Adam Cirrone at OBADA](mailto:adam@obada.io)
   
 
   **10. Where can I find the Operating Agreement, to learn more?**
-  Version 2 is in the process of being ratified.   You can see this proposed version right [here](https://docs.google.com/document/d/1di6g9fripFxG3U5EMoh7Ji1VaaSSLV-q/edit?usp=sharing&ouid=103777780221407604372&rtpof=true&sd=true))
+  You can view the current version right [here](/dao/documents/dao-operating-agreement/)
     
   </div>
 </details>
