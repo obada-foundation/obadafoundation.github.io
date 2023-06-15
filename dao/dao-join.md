@@ -37,13 +37,13 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 <style>
     .box {
       display: inline-block;
-      width: 30%;
+      width: 33%;
+      height: 300px;
       margin: 10px;
-      border: 1px solid black;
+      border: 0px;
       padding: 10px;
     }
   </style>
-</head>
 <body>
   <div class="box">
     <img src="/assets/images/economic.png" alt="Economic">
