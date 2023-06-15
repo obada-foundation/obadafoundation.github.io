@@ -16,7 +16,7 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 ## DAO Members Get
 	<br/>
 
-	<div style="width:400px;">
+	<div style="max-width:600px;min-width:70px;display: inline-block;">
 		<img src="/assets/economic.png" class="block__image" alt="" width="80" height="80">
 		<h3>Economic Rights</h3>
 		<p><ul>
@@ -27,7 +27,7 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 		</p>
 	</div>
 
-	<div style="width:400px;">
+	<div style="max-width:600px;min-width:70px;display: inline-block;">
         <img src="/assets/operational.png" class="block__image" alt="" width="80" height="80">
 		<h3> Operational Rights</h3>
 		<p><ul>
@@ -38,13 +38,13 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 		</p>
 	</div>
 
-	<div style="width:400px;">
+	<div style="max-width:600px;min-width:70px;display: inline-block;">
 		<img src="/assets/governance.png" class="block__image" alt="" width="80" height="80">
 		<h3>Governance Rights</h3>
 		<p>Anyone can develop a pNFT, in any supply chain system or public layer-1 blockchain, using the registry as a bridge to the real-world device and it's information.</p>
 	</div>
 
-</div>
+</div> </div>
 
 # [Join Now: Contact Adam Cirrone at OBADA](mailto:adam@obada.io)
 
@@ -53,9 +53,9 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 ### Frequently Asked Questions
 
 <details>
-  <summary>What is OBADA's goal?/summary>
+  <summary>What is OBADA's goal?</summary>
 
-  <div markdown="1">
+  <div>
     
     To build a blockchain solution to track physical assets through their lifetimes using pNFTs on a blockchain, to facilitate device and component reuse, and end-of-life proper recovery or disposal.
 
@@ -66,7 +66,7 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 <details>
   <summary>Why is this needed?</summary>
 
-  <div markdown="1">
+  <div>
     
     OBADA's system is designed to address the main problems plaguing the ITAD market, and issues around proper reuse, recycling or disposal of IT equipment. These problems include:
     - Siloed and poor information on electronic devices
@@ -83,7 +83,7 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 <details>
   <summary>What is a DAO? </summary>
 
-  <div markdown="1">
+  <div>
     
     DAO stands for "Decentralized Autonomous Organization." Unlike a traditional trade organization, or an LLC, there is no central decision maker or single owner or entity in control. DAO members are like the “owners” of this non-company. They run the software, vote on all platform changes, and set all platform fees and rewards. 
 
@@ -95,7 +95,7 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 <details>
   <summary>What is ITAD?</summary>
 
-  <div markdown="1">
+  <div>
     
     IT asset disposition (ITAD) is an industry term and practice built around reusing, recycling, repurposing, repairing or disposing of unwanted IT equipment in a safe and environmentally friendly way.
 
@@ -107,7 +107,7 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 <details>
   <summary>What is the cost to join?</summary>
 
-  <div markdown="1">
+  <div>
     
     DAO membership seats are currently priced at a one-time fee of $6,500, plus a $15 bank charge. Note: After every 10 seats filled, the DAO may adjust the seat price, and included system credit allocation that goes with each seat.
 
@@ -119,7 +119,7 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 <details>
   <summary>What are DAO Members expected to do?</summary>
 
-  <div markdown="1">
+  <div>
     
     As a DAO member you would be responsible for voting on any future changes to the network. Also, you would be expected to either run a blockchain node, work with the DAO to ensure one is operating on your behalf, or to transfer your node rights to someone who will run a node for the system. Apart from that, being an active participant in helping to advocate for, or drive adoption efforts would be greatly appreciated. 
 
@@ -131,7 +131,7 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 <details>
   <summary>Where can I learn more?</summary>
 
-  <div markdown="1">
+  <div>
     
     Please <a href="mailto:adam@obada.io">contact Adam Cirrone of OBADA</a>, he will set up a call to answer any questions you have. 
 
@@ -151,7 +151,7 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 <img src="../member-logos/ascdi-logo.jpg" height="64px" width="64px">
 <img src="../member-logos/big-data-supply-logo.png" height="64px" width="64px">
 <img src="../member-logos/digital-red-logo.jpg" height="64px" width="64px">
-<img src="../member-logos/dmd-logo.png"" height="64px" width="64px">
+<img src="../member-logos/dmd-logo.png" height="64px" width="64px">
 <img src="../member-logos/ers_logo_sq_transp.png" height="64px" width="64px">
 <img src="../member-logos/eagle-advisors-logo.png" height="64px" width="64px">
 <img src="../member-logos/avritek-logo.png" height="64px" width="64px">
