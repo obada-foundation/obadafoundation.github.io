@@ -87,11 +87,11 @@ Dropdown + markdown structure:
 
   **2. What does a company gain from joining?**
   By joining, a company gains:
-    - a seat at the table as the OBADA DAO shapes the future
-    - voting rights: 1 vote per member company
-    - system credit rights, the right to an initial allocation of a certain number of system credits
-    - node rights: the right to operate a node
-    - revenue sharing: operating a node entitles the node operator a share of the revenues from fees charged to users of the network
+  - a seat at the table as the OBADA DAO shapes the future
+  - voting rights: 1 vote per member company
+  - system credit rights, the right to an initial allocation of a certain number of system credits
+  - node rights: the right to operate a node
+  - revenue sharing: operating a node entitles the node operator a share of the revenues from fees charged to users of the network
   
   **3. Is this a solicitation for an investment?**
   No. It definitely is not a solicitation for an investment.  
