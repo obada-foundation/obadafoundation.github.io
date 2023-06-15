@@ -14,8 +14,9 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 <div class="blocks-3">
 
 ## DAO Members Get
+	<br/>
 
-	<div class="block">
+	<div style="width:400px;">
 		<img src="/assets/economic.png" class="block__image" alt="" width="80" height="80">
 		<h3>Economic Rights</h3>
 		<p><ul>
@@ -26,7 +27,7 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 		</p>
 	</div>
 
-	<div class="block">
+	<div style="width:400px;">
         <img src="/assets/operational.png" class="block__image" alt="" width="80" height="80">
 		<h3> Operational Rights</h3>
 		<p><ul>
@@ -37,7 +38,7 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 		</p>
 	</div>
 
-	<div class="block">
+	<div style="width:400px;">
 		<img src="/assets/governance.png" class="block__image" alt="" width="80" height="80">
 		<h3>Governance Rights</h3>
 		<p>Anyone can develop a pNFT, in any supply chain system or public layer-1 blockchain, using the registry as a bridge to the real-world device and it's information.</p>
