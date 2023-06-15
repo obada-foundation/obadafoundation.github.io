@@ -33,16 +33,13 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 	<br/><br/>
 		<img src="/assets/images/governance.png" class="block__image" alt="" width="80" height="80">
 		<h3>Governance Rights</h3>
-		<p>
-		<ul> 
+		<p><ul> 
 		<li>Vote to guide the direction and changes in the blockchain ecosystem.</li>
 		<li>Make decisions about fees, and rewards for network participants. </li>
-
 		</ul>
 		</p>
-</div>
 
-#[Join Now: Contact Adam Cirrone at OBADA](mailto:adam@obada.io)
+# [Join Now: Contact Adam Cirrone at OBADA](mailto:adam@obada.io)
 
 <br/><br/>
 
