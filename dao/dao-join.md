@@ -37,8 +37,7 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 <style>
     .box {
       display: inline-block;
-      width: 33%;
-      height: 300px;
+      width: 30%;
       margin: 10px;
       border: 0px;
       padding: 10px;
