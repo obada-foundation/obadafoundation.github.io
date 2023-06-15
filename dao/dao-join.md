@@ -135,24 +135,22 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 ### Current DAO Members
 <div style="width:100%">
 
-<img style="padding:2px;" src="../member-logos/greentec-logo.jpg" height="160px" width="160px">
+<img style="padding:2px;" src="../member-logos/think-dynamic-logo.png" height="180px" width="180px">
+<img style="padding:2px;" src="../member-logos/world-data-logo.png" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/usody-logo.png" height="160px" width="160px">
+<img style="padding:2px;" src="../member-logos/ledmax-logo.png" height="160px" width="160px">
+<img style="padding:2px;" src="../member-logos/repair-org-logo.png" height="160px" width="160px">
+<img style="padding:2px;" src="../member-logos/avritek-logo.png" height="100px" width="160px">
 <img style="padding:2px;" src="../member-logos/digital-red-logo.jpg" height="140px" width="140px">
 <img style="padding:2px;" src="../member-logos/dmd-logo.png" height="140px" width="140px">
-<img style="padding:2px;" src="../member-logos/ers_logo_sq_transp.png" height="140px" width="140px">
-<img style="padding:2px;" src="../member-logos/world-data-logo.png" height="160px" width="160px">
-<img style="padding:2px;" src="../member-logos/avritek-logo.png" height="100px" width="160px">
-<img style="padding:2px;" src="../member-logos/ledmax-logo.png" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/techreuse-logo.jpg" height="160px" width="160px">
-
 <img style="padding:2px;" src="../member-logos/broker-site-white-bck-logo.png" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/renewit_logo.png" height="160px" width="160px">
- <img style="padding:2px;" src="../member-logos/Tradeloop-Logo-Hi-Res.png" height="160px" width="160px">
+<img style="padding:2px;" src="../member-logos/Tradeloop-Logo-Hi-Res.png" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/rsr-regency-logo.jpg" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/wireapp-logo.png" height="160px" width="160px">
-
 <img style="padding:2px;" src="../member-logos/xs-international-logo.png" height="100px" width="100px">
-<img style="padding:2px;" src="../member-logos/think-dynamic-logo.png" height="160px" width="160px">
+<img style="padding:2px;" src="../member-logos/ers_logo_sq_transp.png" height="140px" width="140px">
 <img style="padding:2px;" src="../member-logos/first-class-networks.png" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/good-point-recycling.png" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/ifixit-logo.png" height="160px" width="160px">
@@ -163,5 +161,5 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 <img style="padding:2px;" src="../member-logos/eagle-advisors-logo.png" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/jt-environmental-logo.gif" height="100px" width="100px">
 <img style="padding:2px;" src="../member-logos/university-of-nevada-logo.png" height="160px" width="160px"> 
-<img style="padding:2px;" src="../member-logos/repair-org-logo.png" height="160px" width="160px">
+<img style="padding:2px;" src="../member-logos/greentec-logo.jpg" height="160px" width="160px">
 </div>
