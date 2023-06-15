@@ -12,9 +12,7 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 
 <br/><br/>
 ## DAO Members Get
-<div>
-
-	<div style="max-width:600px;min-width:70px;display: inline-block;">
+<br/><br/>
 		<img src="/assets/images/economic.png" class="block__image" alt="" width="80" height="80">
 		<h3>Economic Rights</h3>
 		<p><ul>
@@ -42,8 +40,6 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 
 		</ul>
 		</p>
-	</div>
-
 </div>
 
 #[Join Now: Contact Adam Cirrone at OBADA](mailto:adam@obada.io)
