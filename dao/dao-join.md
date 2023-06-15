@@ -149,20 +149,19 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 <img style="padding:2px;" src="../member-logos/renewit_logo.png" height="160px" width="160px">
  <img style="padding:2px;" src="../member-logos/Tradeloop-Logo-Hi-Res.png" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/rsr-regency-logo.jpg" height="160px" width="160px">
+<img style="padding:2px;" src="../member-logos/wireapp-logo.png" height="160px" width="160px">
 
-<img style="padding:2px;" src="../member-logos/university-of-nevada-logo.png" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/xs-international-logo.png" height="100px" width="100px">
 <img style="padding:2px;" src="../member-logos/think-dynamic-logo.png" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/first-class-networks.png" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/good-point-recycling.png" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/ifixit-logo.png" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/quantum-lifecycle-logo.png" height="180px" width="180px">
-<img style="padding:2px;" src="../member-logos/repair-org-logo.png" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/value-smart-trading-ltd-logo.jpg" height="120px" width="120px">
-<img style="padding:2px;" src="../member-logos/wireapp-logo.png" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/ascdi-logo.jpg" height="120px" width="120px">
 <img style="padding:2px;" src="../member-logos/big-data-supply-logo.png" height="120px" width="120px">
 <img style="padding:2px;" src="../member-logos/eagle-advisors-logo.png" height="160px" width="160px">
 <img style="padding:2px;" src="../member-logos/jt-environmental-logo.gif" height="100px" width="100px">
-
+<img style="padding:2px;" src="../member-logos/university-of-nevada-logo.png" height="160px" width="160px"> 
+<img style="padding:2px;" src="../member-logos/repair-org-logo.png" height="160px" width="160px">
 </div>
