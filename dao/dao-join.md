@@ -137,7 +137,6 @@ nav_exclude: true <!--excluding for now, going to make it look nice then add it 
 <img style="padding:5px;" src="../member-logos/think-dynamic-logo.png" height="180px" width="180px">
 <img style="padding:5px;" src="../member-logos/world-data-logo.png" height="160px" width="160px">
 <img style="padding:5px;" src="../member-logos/usody-logo.png" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/usody-logo.png" height="160px" width="160px">
 <img style="padding:5px;" src="../member-logos/ledmax-logo.png" height="160px" width="160px">
 <img style="padding:5px;" src="../member-logos/mender-logo.jpg" height="160px" width="160px">
 <img style="padding:5px;" src="../member-logos/repair-org-logo.png" height="160px" width="160px">
