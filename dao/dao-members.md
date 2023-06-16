@@ -82,9 +82,9 @@ For over twenty years, Tradeloop has been the wholesale network of choice for IT
 Regency Technologies was founded 1998 and has grown to encompass eight facilities and more than 800 employees nationwide. Regency currently processes over 150 million lbs. of recyclable material and more than 3 million assets annually. Regency maintains certification to the e-Stewards, NAID, RIOS, and ISO 14001:2015 standards at all of our locations.
 <br/><br/>
 
-### Taber Group LLC dba ITAD Solutions | Kent Taggart, CEO
-<!-- <img src="../member-logos/NEED LOGO" align="left" vspace="5"  hspace="10" height="140px" width="120px"> -->
-At ITAD Solutions, our goals are to integrate superior customer service into the facets of Data Security, Value Recovery, and ewaste Management. At a global level, our mission is to fuse our network of over 120 partners into a standardized, consolidated solution for all of your ITAD needs. We provide full ewaste and asset management from our headquarters in the San Francisco Bay Area, as well as nationwide and international. With over 120  partners worldwide, we provide a single point of contact, a standardized reporting tool, and a simplified, cost-effective global solution, tailored to your local needs. 
+### Taber Group LLC dba Mender | Kent Taggart, CEO
+<img src="../member-logos/mender-logo.jpg" align="left" vspace="5"  hspace="10" height="140px" width="120px">
+Mender, an IT asset disposition company on a mission to solve problems and save the planet (no biggie). Mender is here to offer a better way forward for our planet and our clients by providing custom-tailored ITAD solutions. Mender's mission is to offset the demand for mining growth and mend the relationship between corporations and the natural world by promoting a circular economy. By helping companies reduce their environmental impact through our ESG-focused services, we're proud to say we're making a difference, one piece of tech at a time.
 <br/><br/> 
 
 ### Renew IT Group PTY Ltd | Ethan Lancaster, Head of Operations & ESG
