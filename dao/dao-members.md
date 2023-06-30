@@ -107,6 +107,11 @@ XSi helps companies with their IT Lifecycle Services and Support. Services begin
 Dynamic Lifecycle Innovations is a full-service electronics and materials lifecycle management corporation specializing in IT asset disposition, data security, remarketing and resale, electronics recycling, legislative compliance, product refurbishment, materials recovery, and logistics. We create customized, worldwide service packages designed to safeguard our customers’ sensitive data and protect the environment from e-waste and other pollutants.
 <br/><br/>
 
+### Evercycle | Nate Poynter, Founder & CEO
+<img src="../member-logos/evercycle-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px">
+Evercycle is a scalable B2B SaaS platform enabling organizations to automate IT circularity services for corporate liable devices such as phones, tablets, and computers wherever they may be deployed. With vetted integrated service providers from which users can filter and receive instant pricing, organizations can configure intuitive automation workflows, track progress, and report results enabling organizations with hands-off, compliant, and sustainable IT hardware programs.
+<br/><br/>
+
 ### First Class Networks 
 <img src="../member-logos/first-class-networks.png" align="left" vspace="5"  hspace="10" height="140px" width="120px"> 
 First Class Networks provides local businesses with customized and affordable IT support and cyber security solutions in a professional and accessible manner.
