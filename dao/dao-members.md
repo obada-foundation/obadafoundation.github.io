@@ -7,7 +7,7 @@ nav_order: 3
 
 
 # OBADA DAO Members
-_Updated Feb 17, 2023_
+_Updated July 2, 2023_
 
 ### ASCDI | Joe Marion, President
 <img src="../member-logos/ascdi-logo.jpg"  align="left" vspace="5" hspace="10" height="100px" width="100px">
