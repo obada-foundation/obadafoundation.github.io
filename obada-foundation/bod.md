@@ -20,7 +20,7 @@ The Board members are:
 # OBADA BOD Members
 _Updated July 21, 2023_
 
-## Chairman of the Board
+### Chairman of the Board
 ### Rohi Sukhia | Tradeloop Corporation | United States
 <img src="../bod-images/rohi-headshot.jpg"  align="left" vspace="5" hspace="10" height="60px" width="60px">
 In 2017, Rohi founded the OBADA (Open Blockchain for Asset Disposition Architecture) Foundation, a nonprofit consortium of key stakeholders in the ITAD sector.. a “blockchain” to provide traceability in asset disposition. Previously, Rohi founded Tradeloop Corporation in 1997, where he remains today as CEO.  Rohi also currently sits on the board of repair.org, fighting for our right to repair.  Previously, Rohi spent seven years at Intel after obtaining a BS in Electrical Engineering from Cornell.
@@ -28,7 +28,7 @@ In 2017, Rohi founded the OBADA (Open Blockchain for Asset Disposition Architect
 [Connect](https://www.linkedin.com/in/rohinton)
 <br/><br/>
 
-## Secretary
+### Secretary
 ### Mark Schaffer | Schaffer Environmental | United States
 <img src="../bod-images/mark-headshot.jpeg"  align="left" vspace="5" hspace="10" height="60px" width="60px">
 Sustainability Executive and Independent consultant specializing in Program Management, Technical Project Management, Environmental Technologies and Standards Development, Training and compliance. Currently providing environmental and project management consulting for the electronics industry and repair industry. Provides timely, accurate and valuable assistance to clients worldwide on pertinent environmental aspects of their business, products, organization and services. 
@@ -36,7 +36,7 @@ Sustainability Executive and Independent consultant specializing in Program Mana
 [Connect](https://www.linkedin.com/in/markschaffer/)
 <br/><br/>
 
-## Treasurer
+### Treasurer
 ### Joe Marion | ASCDI | United States
 <img src="../bod-images/joe-headshot.jpeg"  align="left" vspace="5" hspace="10" height="60px" width="60px">
 Focusing on helping technology resellers, communications, service providers and ITAD firms learn, grow and network with each other, worldwide.
@@ -44,6 +44,7 @@ Focusing on helping technology resellers, communications, service providers and 
 [Connect](https://www.linkedin.com/in/josephmarion/)
 <br/><br/>
 
+### Additional Board Members
 ### Charles Brennick | TechReuse | United States
 <img src="../bod-images/charles-headshot.jpeg"  align="left" vspace="5" hspace="10" height="60px" width="60px">
 Founder of largest nonprofit computer reuse and recycling organization in the Northwest and has over twenty years of experience in the field of IT asset disposition (ITAD), IT for Development (IT4D), recycling, and electronics reuse. A demonstrated leader with practical experience in community outreach, business development, operations, fundraising, ecommerce, and sales.  
