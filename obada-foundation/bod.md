@@ -103,19 +103,6 @@ Professor, Supply Chain Management, Chair of Marketing Department, at University
 
 <br/><br/>
 
-<!--
-### Leandro Navarro | USODY | United States
-
-<img src="../obada-foundation/bod-images/"  align="left" vspace="5" hspace="10" height="75px" width="75px">
-
-Description.
-
-<br/>
-
-<img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px") [Connect with Leandro]()
-
-<br/><br/> -->
-
 ### Neil Vill | World Data Products, Inc. | United States
 
 <img src="../obada-foundation/bod-images/neil-headshot.jpeg"  align="left" vspace="5" hspace="10" height="75px" width="75px">
