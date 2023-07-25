@@ -10,7 +10,7 @@ nav_order: 3
 _Updated July 21, 2023_
 
 ### ASCDI | Joe Marion, President | United States
-<img src="../member-logos/ascdi-logo-green.jpg"  align="left" vspace="5" hspace="10" height="100px" width="100px">
+<img src="../member-logos/ascdi-logo-green.jpg"  align="left" vspace="5" hspace="10" height="120px" width="120px">
 We are a worldwide not for profit trade association of companies that buy, sell, service, lease and provide ITAD services on IT and communications equipment dealing. The ASCDI embraces a world focused on the putting used technology back into productive use in an environmentally sound manner while protecting our customer's data.
 
 <br/><br/>
@@ -135,9 +135,9 @@ Network Commerce International is an online marketplace for technology resellers
 <br/><br/>
 
 ### Quantum Lifcycle Partners LP | Gary Diamond | Canada
-<img src="../member-logos/quantum-lifecycle-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px"> 
+<img src="../member-logos/quantum-lifecycle-logo.png" align="left" vspace="5"  hspace="10" height="120px" width="120px"> 
 Quantum Lifecycle is both an IT asset disposition (ITAD) company and an end-of-life electronics recycler. Through this strategic pairing of services, we cover every step of the IT disposition process, from data destruction to refurbishment, resale and recycling. 
-<br/><br/>
+<br/><br/><br/>
 
 ### The Repair Association | Gay Gordon-Byrne | United States
 <img src="../member-logos/repair-org-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px"> 
