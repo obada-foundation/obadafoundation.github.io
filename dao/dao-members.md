@@ -129,10 +129,10 @@ Good Point Recycling is a nationally-recognized electronics recycling company an
 We help thousands of people repair their devices every day. And every time you fix something, you help the planet by keeping e-waste from entering the landfill.
 <br/><br/>
 
-### Network Commerce International | United States
+### Network Commerce International | United States 
 <img src="../member-logos/network-commerce-logo.jpg"  align="left" vspace="5" hspace="10" height="100px" width="100px">
 Network Commerce International is an online marketplace for technology resellers specializing in Computer and Telecom Equipment.
-<br/><br/>
+<br/><br/><br/>
 
 ### Quantum Lifcycle Partners LP | Gary Diamond | Canada
 <img src="../member-logos/quantum-lifecycle-logo.png" align="left" vspace="5"  hspace="10" height="120px" width="120px"> 
