@@ -10,7 +10,7 @@ nav_order: 3
 _Updated July 21, 2023_
 
 ### ASCDI | Joe Marion, President | United States
-<img src="../member-logos/ascdi-logo.jpg"  align="left" vspace="5" hspace="10" height="100px" width="100px">
+<img src="../member-logos/ascdi-logo-green.jpg"  align="left" vspace="5" hspace="10" height="100px" width="100px">
 We are a worldwide not for profit trade association of companies that buy, sell, service, lease and provide ITAD services on IT and communications equipment dealing. The ASCDI embraces a world focused on the putting used technology back into productive use in an environmentally sound manner while protecting our customer's data.
 
 <br/><br/>
@@ -130,7 +130,7 @@ We help thousands of people repair their devices every day. And every time you f
 <br/><br/>
 
 ### Network Commerce International | United States
-<!-- <img src="" align="left" vspace="5"  hspace="10" height="140px" width="120px"> -->
+<img src="../member-logos/network-commerce-logo.jpg"  align="left" vspace="5" hspace="10" height="100px" width="100px">
 Network Commerce International is an online marketplace for technology resellers specializing in Computer and Telecom Equipment.
 <br/><br/>
 
