@@ -131,6 +131,10 @@ nav_exclude: false
 
 </details>
 
+<img style="padding:5px;" src="../member-logos/dao-mems-logos.png">
+
+TEST
+
 <br/><br/>
 ### Current DAO Members
 <div style="width:100%">
