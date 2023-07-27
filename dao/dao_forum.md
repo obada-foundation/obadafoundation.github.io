@@ -2,6 +2,7 @@
 title: DAO Forum (forum.obada.io)
 parent: The OBADA DAO
 nav_order: 2
+nav_exclude: true
 ---
 
 <meta charset="utf-8">
