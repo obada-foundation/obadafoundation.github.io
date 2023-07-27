@@ -163,5 +163,5 @@ nav_exclude: false
 <img style="padding:5px;" src="../member-logos/eagle-advisors-logo.png" height="160px" width="160px">
 <img style="padding:5px;" src="../member-logos/jt-environmental-logo.gif" height="100px" width="100px">
 <img style="padding:5px;" src="../member-logos/university-of-nevada-logo.png" height="160px" width="160px"> 
-<img style="padding:5px;" src="../member-logos/national-commerce-logo.jpg" height="160px" width="160px">
+<img style="padding:5px;" src="../member-logos/network-commerce-logo.jpg" height="160px" width="160px">
 </div>
