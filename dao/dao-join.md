@@ -8,9 +8,9 @@ nav_exclude: false
 
 # WHY SHOULD YOU JOIN THE DAO?
 
-<span style="font-size:14px;"> <strong>Join us<strong> in shaping the future of IT Asset Disposition (ITAD). Help us create a public utility to allow enterprise or supply chain systems to digitally represent physical assets as NFTs (pNFTs). We will be creating a decentralized “Carfax™” to capture permanent, interoperable recordkeeping of any asset, from manufacturer to recycler, and give the world a standard for ordering and tracking end-of-life services such as data destruction and recycling. </span>
+<div style="font-size:20px;"> <strong>Join us</strong> in shaping the future of IT Asset Disposition (ITAD). Help us create a public utility to allow enterprise or supply chain systems to digitally represent physical assets as NFTs (pNFTs). We will be creating a decentralized “Carfax™” to capture permanent, interoperable recordkeeping of any asset, from manufacturer to recycler, and give the world a standard for ordering and tracking end-of-life services such as data destruction and recycling. 
 
-<br/><br/>
+</div>
 ## DAO Members Get
 
 ![Economic](/assets/images/economic.png) 
