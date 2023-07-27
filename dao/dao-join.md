@@ -131,7 +131,7 @@ nav_exclude: false
 
 </details>
 
-<img style="padding:5px;" src="../member-logos/dao-mems-logos.jpeg">
+<!-- <img style="padding:5px;" src="../member-logos/dao-mems-logos.jpg"> -->
 
 
 <br/><br/>
