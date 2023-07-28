@@ -130,11 +130,13 @@ nav_exclude: false
   </div>
 
 </details>
-
+<br/><br/>
 <img style="padding:5px;" src="../member-logos/dao-mems-logos.jpg">
 
 
 <br/><br/>
+
+<!--
 ### Current DAO Members
 <div style="width:100%">
 
@@ -168,3 +170,4 @@ nav_exclude: false
 <img style="padding:5px;" src="../member-logos/university-of-nevada-logo.png" height="160px" width="160px"> 
 <img style="padding:5px;" src="../member-logos/network-commerce-logo.jpg" height="160px" width="160px">
 </div>
+-->
