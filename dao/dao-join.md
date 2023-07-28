@@ -8,7 +8,7 @@ nav_exclude: false
 
 # WHY SHOULD YOU JOIN THE DAO?
 
-<div style="font-size:20px;"> Join the movement to revolutionize IT Asset Disposition (ITAD) and propel this industry into the future. OBADA is writing an ISO Standard (ISO/AWI 20435) that details the method for digitally tracking physical assets using non-fungible tokens. Join our DAO to become the operators and governors of the world's first public utility, enabling enterprise and supply chain systems to digitally represent physical assets and create a decentralized "Carfax™" system. This innovative approach allows companies to capture permanent, interoperable record-keeping of any asset, from manufacturer to recycler, and establishes a global standard for ordering and tracking end-of-life services, such as data destruction and recycling. 
+<div style="font-size:20px;"> Join the movement to revolutionize IT Asset Disposition (ITAD) and propel this industry into the future. OBADA is writing an ISO Standard (ISO/AWI 20435) that details the method for digitally tracking physical assets using non-fungible tokens. Join our DAO to become the operators and governors of the world's first utility enabling enterprise and supply chain systems to digitally represent physical assets and create a decentralized "Carfax™" system. This innovative approach allows companies to capture permanent, interoperable record-keeping of any asset, from manufacturer to recycler, and establishes a global standard for ordering and tracking end-of-life services, such as data destruction and recycling. 
 </div>
 <br/>
 ## DAO Members Get
