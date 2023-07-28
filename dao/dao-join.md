@@ -29,17 +29,19 @@ nav_exclude: false
  - Vote to guide the direction and changes in the blockchain ecosystem.
  - Make decisions about fees, and rewards for network participants.
 
-<br/>
-
 # [Join Today: Schedule a Call to Learn More](https://calendly.com/adam-obada/30min)
 
-<br/><br/>
+<br/>
 
 ### Watch Our Overview Video Below 
 (Watch it below, or [watch it on youtube](https://youtu.be/NqAvBgJ2wH4))
 <div style="align-content:center;"><iframe width="680" height="382" src="https://www.youtube.com/embed/NqAvBgJ2wH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-<br/><br/>
+<br/>
+
+<img style="padding:5px;" src="../member-logos/dao-mems-logos.jpg">
+
+<br/>
 
 ### Frequently Asked Questions
 
@@ -129,11 +131,8 @@ nav_exclude: false
   </div>
 
 </details>
-<br/><br/>
-<img style="padding:5px;" src="../member-logos/dao-mems-logos.jpg">
 
-
-<br/><br/>
+<br/>
 
 <!--
 ### Current DAO Members
