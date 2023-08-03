@@ -34,7 +34,7 @@ As a DAO Member you will become an operator of the world's first utility that en
 <br/>
 
 ### Watch Our Overview Video
-(Watch it below, or [watch it on youtube](https://youtu.be/NqAvBgJ2wH4))
+(Watch it below, or [watch on youtube](https://youtu.be/NqAvBgJ2wH4))
 <div style="align-content:center;"><iframe width="680" height="382" src="https://www.youtube.com/embed/NqAvBgJ2wH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <br/>
