@@ -7,7 +7,6 @@ nav_order: 3
 
 
 # OBADA DAO Members
-_Updated July 21, 2023_
 
 ### ASCDI | Joe Marion, President | United States
 <img src="../member-logos/ascdi-logo-green.jpg"  align="left" vspace="5" hspace="10" height="140px" width="140px">
@@ -179,3 +178,5 @@ Since 1987, World Data Products has delivered value with IT hardware, maintenanc
 <!-- <img src="" align="left" vspace="5"  hspace="10" height="140px" width="120px"> -->
 <!-- Blurb about G. -->
 <br/><br/>
+
+<sub><sup>Last Updated October 2023</sup></sub>
