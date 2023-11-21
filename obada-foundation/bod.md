@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # OBADA BOD Members
-_Updated July 21, 2023_
+_Updated Nov 19, 2023_
 
 ### Chairman of the Board
 ### Rohi Sukhia | Tradeloop Corporation | United States
@@ -21,6 +21,7 @@ In 2017, Rohi founded the OBADA (Open Blockchain for Asset Disposition Architect
 [Connect with Rohi](https://www.linkedin.com/in/rohinton)
 <br/><br/>
 
+<!-- 
 ### Secretary
 ### Mark Schaffer | Schaffer Environmental | United States
 
@@ -32,7 +33,7 @@ Sustainability Executive and Independent consultant specializing in Program Mana
 <img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px">
 
 [Connect with Mark](https://www.linkedin.com/in/markschaffer/)
-<br/><br/>
+<br/><br/> --> 
 
 ### Treasurer
 ### Joe Marion | ASCDI | United States
@@ -102,7 +103,7 @@ Professor, Supply Chain Management, Chair of Marketing Department, at University
 <img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px"> [Connect with Ron](https://www.linkedin.com/in/ron-lembke-920b011/)
 
 <br/><br/>
-
+<!--
 ### Neil Vill | World Data Products, Inc. | United States
 
 <img src="../obada-foundation/bod-images/neil-headshot.jpeg"  align="left" vspace="5" hspace="10" height="75px" width="75px">
@@ -112,3 +113,4 @@ Senior executive and action-oriented leader with CEO and Board of Directors expe
 <img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px"> [Connect with Neil](https://www.linkedin.com/in/neilvill/)
 
 <br/><br/>
+--> 
