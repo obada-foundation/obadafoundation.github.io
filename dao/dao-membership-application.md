@@ -32,13 +32,19 @@ And there are two tax-related documents (please fill out and return the one that
  
 ### 3. PAYMENT
 
-Pay your $6,515.00 USD ($6,500.00 membership fee +$15.00 for bank charges) to OBADA DAO, LLC.  
+Pay your $6,515.00 USD ($6,500.00 membership fee +$15.00 for bank charges) to OBADA  
 
 We can only accept wire or ACH payments.  
+
+**Our Address** <br/>
+OBADA <br/>
+30 N Gould St <br/>
+Sheridan, WY 82801 <br/>
+
  
 **ACH Payments (USA)** <br/>
-OBADA DAO, LLC <br/>
-Account Number: 466014318733 <br/>
+OBADA <br/>
+Account Number: 466002697275 <br/>
 Routing Number (electronic) 011000138 <br/>
 
 Bank Address: <br/>
@@ -48,7 +54,7 @@ New York, New York 10038 <br/>
 
 **Wire Payments (International)** <br/>
 OBADA DAO, LLC <br/>
-Account Number: 466014318733 <br/>
+Account Number: 466002697275 <br/>
 Routing Number (wires) 026009593 <br/>
 SWIFT CODE: BOFAUS3N <br/>
 
