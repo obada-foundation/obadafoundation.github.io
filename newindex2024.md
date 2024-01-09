@@ -1,79 +1,62 @@
 # Welcome to The OBADA Foundation
 
-![OBADA Logo](your-logo-image-link)
-
-The OBADA Foundation is a 501(c)(3) nonprofit coalition dedicated to revolutionizing the IT asset disposition (ITAD) sector. Our mission is to build and maintain an open-source blockchain protocol that empowers recycling industries, manufacturers, and individuals to track and document information technology (IT) assets throughout their lifecycle.
+# ![OBADA Foundation Logo](assets/images/obada-foundation-sm.png)  The OBADA Foundation  
 
 ## About Us
 
-### Our Purpose
+The OBADA Foundation is a 501(c)(3) nonprofit coalition in the IT asset disposition (ITAD) sector. We serve as stewards for the OBADA Standard and work in collaboration with ISO to develop open protocols for data models in the ITAD industry. Our foundation focuses on real-world solutions in legal, financial, and industry-specific contexts.
 
-At The OBADA Foundation, we serve three primary functions:
+## Our Mission
 
-1. **Stewardship**: We act as the steward for the OBADA Standard, an open protocol describing data models. We are actively collaborating with ISO to develop this industry-standard.
+Our mission is to develop and maintain an open-source blockchain protocol to enable tracking and documentation of IT assets across their lifecycle. This effort is led by our members, key players in the electronics recycling industry, to foster a sustainable and responsible digital economy.
 
-2. **Real-world Challenges**: We address real-world issues, such as legal matters, fiat currency, and the complexities of the asset disposition industry.
+## Vision
 
-3. **Software Development**: We are dedicated to developing the initial software and establishing the OBADA DAO to run the decentralized software application.
-
-### Our Vision
-
-Our vision is to enable participants in the information technology supply chain to:
+We aim to empower stakeholders in the information technology supply chain to:
 
 - Safeguard ownership of IT assets.
 - Track IT assets from creation to end-of-life.
 - Control data sharing about their assets.
-- Facilitate recycling and the circular economy.
+- Promote recycling and the circular economy.
 
-### What We Do
+## OBADA's Work
 
-- Build and maintain an open-source blockchain protocol for the IT asset supply chain.
-- Provide "proof" of work completed on electronic devices.
-- Enable provenance of devices, parts, and ownership to reduce counterfeits.
-- Facilitate IT asset data sharing across the supply chain.
-- Enable increased data sharing with network participants, including government agencies, manufacturers, retailers, customers, and recyclers.
+- Building a blockchain protocol for the IT asset supply chain.
+- Providing proof of work on electronic devices.
+- Enabling device provenance to combat counterfeits.
+- Facilitating IT asset data sharing across the supply chain.
 
-### Value Proposition
+## Value Proposition
 
-Our platform creates an industry ecosystem and token economy model that facilitates economic exchange across the entire supply chain by:
+We create an ecosystem and token economy to:
 
-- Validating ownership and preventing counterfeiting.
-- Verifying functionality and quality.
-- Recording events on an immutable record.
-- Enabling pre-payment and escrow services.
-- Ensuring proper disposition of IT assets.
+- Validate ownership and prevent counterfeiting.
+- Verify functionality and quality of IT assets.
+- Record immutable asset history.
+- Facilitate secure economic transactions within the industry.
 
-### Stakeholders
+## Stakeholders
 
-Our stakeholders include:
+- OEMs, software companies, and blockchain firms.
+- Marketplaces, resellers, and recyclers.
 
-- Original equipment manufacturers (OEM)
-- Asset and data management software companies
-- Data wiping and diagnostic software providers
-- Blockchain companies
-- Marketplaces
-- Resellers and recyclers
+## Costs
 
-### Our Costs
+Our operations are funded through:
 
-We allocate resources for:
-
-- Creation, documentation, and management of the blockchain protocol.
-- Node hosting and maintenance.
-- Outreach and education.
-- Employee salaries and contractor fees.
-- Operational expenses including office rent, hardware, software, and travel.
+- Blockchain protocol development and maintenance.
+- Education and outreach programs.
+- Operational expenses including staffing and office needs.
 
 ## Operations
 
-To promote sustainability and responsible practices in the ITAD and E-Recycling industry, we:
+OBADA aims to:
 
-- Develop and maintain the OBADA Network and Protocol.
-- Provide tools and services for OBADA Network users.
-- Offer guidance for the OBADA ecosystem.
-- Promote adoption of OBADA as a worldwide standard.
-- Develop a Digital Asset for the OBADA ecosystem.
-- Create and support partnerships and sustainability initiatives.
+- Develop a global transaction network and open-source protocol.
+- Provide tools and services for the OBADA network.
+- Set the direction for the OBADA ecosystem.
+- Promote OBADA as a global standard.
+- Foster partnerships for digital inclusion and sustainability.
 
 ## Get Involved
 
