@@ -1,7 +1,8 @@
 ---
-title: Video Explanation
-parent: Marketing
-permalink: /marketing/video-explanation/
+title: Explainer Video
+parent: OBADA DAO
+grand_parent: Our Projects
+permalink: /dao/explainer-video/
 nav_order: 4
 ---
 

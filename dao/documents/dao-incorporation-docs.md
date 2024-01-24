@@ -2,7 +2,7 @@
 title: Incorporation Docs
 permalink: /dao/documents/incorporation-docs/
 parent: DAO Documents
-grand_parent: The OBADA DAO
+grand_parent: OBADA DAO
 has_children: no
 nav_order: 5
 ---

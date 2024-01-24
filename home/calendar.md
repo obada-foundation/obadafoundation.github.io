@@ -1,7 +1,8 @@
 ---
 title: Calendar
 permalink: /calendar/
-parent: Home
+parent: About Us
+nav_exlude: true
 ---
 
 # Calendar

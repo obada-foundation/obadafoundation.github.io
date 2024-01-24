@@ -1,9 +1,11 @@
 ---
 title: Marketing
 nav_order: 6
+parent: 
 has_children: true
 has_toc: false
 permalink: /marketing/
+nav_exlude: true
 ---
 
 <br> <br>

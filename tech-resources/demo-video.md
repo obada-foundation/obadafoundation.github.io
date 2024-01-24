@@ -1,6 +1,6 @@
 ---
 title: Demo Video
-parent: Marketing
+parent: Tech Resources
 permalink: /marketing/demo-video/
 nav_order: 5
 ---

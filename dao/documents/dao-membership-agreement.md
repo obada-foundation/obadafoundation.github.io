@@ -1,7 +1,7 @@
 ---
 title: Membership Agreement
 parent: DAO Documents
-grand_parent: The OBADA DAO
+grand_parent: OBADA DAO
 permalink: /dao/documents/membership-agreement/
 nav_order: 2
 ---

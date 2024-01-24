@@ -1,7 +1,8 @@
 --- 
 title: Meeting Minutes
-parent: Home
+parent: About Us
 permalink: /meetings/
+nav_exlude: true
 ---
 
 # Meeting Minutes and Past Presentations

@@ -1,8 +1,7 @@
 ---
 title: Press
-parent: Marketing
-permalink: /marketing/press/
-nav_order: 3
+permalink: /press/
+nav_order: 6
 ---
 
 
