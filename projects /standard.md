@@ -1,8 +1,9 @@
 ---
 title: ISO 20435 Standard
 permalink: /standard/
+parent: Our Projects
 has_children: false 
-nav_order: 4
+nav_order: 1
 ---
 
 
