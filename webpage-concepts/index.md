@@ -1,7 +1,7 @@
 ---
 title: Webpage Concepts
 nav_order: 4
-parent: Marketing
+parent: Tech Resources
 ---
 
 <br> <br>

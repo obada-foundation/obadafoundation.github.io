@@ -1,9 +1,11 @@
 ---
 title: Press
 permalink: /press/
-nav_order: 6
+nav_order: 6 
+nav_exclude: true
 ---
 
+<!-- Set nav_exclude:true ON Jan 24, 2024 when we get more press releases/items we can republish>
 
 ## OBADA In the Press
 
