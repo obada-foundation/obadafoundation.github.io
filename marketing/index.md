@@ -1,8 +1,8 @@
 ---
 title: Marketing
 permalink: /marketing/
-nav_order: 6
 nav_exlude: true
+nav_order: 6
 has_children: false
 has_toc: false
 ---
