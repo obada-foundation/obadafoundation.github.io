@@ -1,6 +1,6 @@
 ---
 title: DAO Membership Application
-permalink: /dao/membership-application/
+permalink: //dao/membership-application/
 parent: OBADA DAO
 grandparent: Our Projects
 has_children: no
