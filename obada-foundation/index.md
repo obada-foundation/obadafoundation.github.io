@@ -1,6 +1,7 @@
 ---
-title: The OBADA Foundation
-nav_order: 100
+title: OBADA Foundation
+nav_order: 2
+parent: Our Projects
 has_children: true
 has_toc: false
 nav_exclude: true

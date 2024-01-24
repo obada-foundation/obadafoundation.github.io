@@ -1,9 +1,9 @@
 ---
 title: Other Documents
-nav_order: 5
+nav_order: 4
 permalink: /corporate-docs/other/
 parent: Corporate Docs 
-grand_parent: The OBADA Foundation
+grand_parent: OBADA Foundation
 ---
 
 + #### [Member Contact List](https://docs.google.com/spreadsheets/d/12un_4X-nJmClOmxLpwr79Vzv-0_qxtRjhFKiAramUL4/edit#gid=0)  (need permission to access)

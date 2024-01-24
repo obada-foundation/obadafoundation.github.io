@@ -1,9 +1,9 @@
 ---
 title: Bylaws
-nav_order: 3
+nav_order: 1
 permalink: /corporate-docs/bylaws/
 parent: Corporate Docs
-grand_parent: The OBADA Foundation
+grand_parent: OBADA Foundation
 ---
 
 # BYLAWS OF **Open Blockchain for Asset Disposal Alliance**

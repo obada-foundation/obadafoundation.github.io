@@ -1,8 +1,9 @@
 ---
 title: Corporate Docs
-nav_order: 5
+nav_order: 2
 permalink: /corporate-docs/legal-filings/
-parent: The OBADA Foundation
+parent: OBADA Foundation
+grand_parent: Our Projects
 has_children: true
 has_toc: false
 ---

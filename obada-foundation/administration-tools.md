@@ -1,7 +1,8 @@
 ---
 title: Administration Tools
 permalink: /admin-tools/
-parent: The OBADA Foundation
+parent: OBADA Foundation
+grand_parent: Our Projects
 nav_order: 4
 ---
 

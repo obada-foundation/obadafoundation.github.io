@@ -1,9 +1,9 @@
 ---
 title: Legal Filings
-nav_order: 3
+nav_order: 2
 permalink: /corporate-docs/legal-filings/
 parent: Corporate Docs 
-grand_parent: The OBADA Foundation
+grand_parent: OBADA Foundation
 ---
 ## Incorporation Documents
 
