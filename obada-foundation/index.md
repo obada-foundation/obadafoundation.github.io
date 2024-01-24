@@ -1,10 +1,12 @@
 ---
 title: The OBADA Foundation
-permalink: /about
-nav_order: 3
+nav_order: 100
 has_children: true
 has_toc: false
+nav_exclude: true
 ---
+
+<!-- OLD FOUNDATION PAGE - REPLACED WITH NEW INDEX
 	
 ##  The OBADA Foundation
 
@@ -18,4 +20,4 @@ The OBADA Foundation is a 501(c)(3) nonprofit coalition of stakeholders in the I
 2. The foundation deals with **"real-world" issues** such as lawyers, fiat, and the asset disposition industry.
 
 3. The foundation is chartered with **developing the initial software** and **forming the OBADA DAO** to run the decentralized software application.
-
+-->
