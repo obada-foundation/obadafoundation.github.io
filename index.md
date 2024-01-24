@@ -1,3 +1,11 @@
+---
+title: Home
+permalink: /
+nav_order: 1
+has_toc: false
+---
+
+
 # Welcome to The OBADA Foundation
 
 # ![OBADA Foundation Logo](assets/images/obada-foundation-sm.png)  The OBADA Foundation  
