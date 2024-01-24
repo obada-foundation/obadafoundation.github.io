@@ -1,8 +1,8 @@
 ---
 title: Mission
-nav_order: 1
+nav_order: 2
 permalink: /mission/
-parent: The OBADA Foundation
+nav_exclude: false
 ---
 ### OUR MISSION
 The mission is to build and maintain an open-source blockchain protocol that enables recycling industries, manufacturers, and individuals to track and document information technology (IT) assets from creation through their end-of-life.
