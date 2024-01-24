@@ -4,7 +4,7 @@ permalink: /dao/
 nav_order: 5
 has_children: true
 has_toc: false
-
+grand_parent: Our Projects
 ---
 
 ## The OBADA DAO (Decentralized Autonomous Organization)
