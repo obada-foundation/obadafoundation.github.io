@@ -1,12 +1,12 @@
 ---
-title: The pNFT Standard
+title: ISO 20435 Standard
 permalink: /standard/
 has_children: false 
 nav_order: 4
 ---
 
 
-# Representing Physical Assets using Non-Fungible Tokens
+# ISO 20435: Representing Physical Assets using Non-Fungible Tokens
 Text for ISO New Work Item Proposal Form 04 - approved by AHG3 Aug 31, 2022
  
 <br>
