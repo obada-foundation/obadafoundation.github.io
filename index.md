@@ -1,5 +1,5 @@
 ---
-title: Home
+title: OBADA Foundation
 permalink: /
 nav_order: 1
 has_toc: false
