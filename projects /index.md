@@ -1,6 +1,6 @@
 ---
 title: Our Projects
-permalink: /projects
+permalink: /projects/
 nav_order: 5
 has_toc: false
 nav_exlude: false
