@@ -1,7 +1,5 @@
 ---
 title: Home
-permalink: /
-nav_order: 100
 has_toc: false
 nav_exlude: true
 ---
