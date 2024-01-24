@@ -1,10 +1,10 @@
 ---
 title: OBADA DAO
 permalink: /dao/
-nav_order: 5
+parent: Our Projects
+nav_order: 3
 has_children: true
 has_toc: false
-grand_parent: Our Projects
 ---
 
 ## The OBADA DAO (Decentralized Autonomous Organization)
