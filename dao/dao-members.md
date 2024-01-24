@@ -144,7 +144,7 @@ The Repair Association brings businesses big and small from many sectors of the 
 <br/><br/>
 
 ### Unduit | United States
-<img src="../member-logos/unduit-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px">
+<img src="../member-logos/unduit-logo2.png" align="left" vspace="5"  hspace="10" height="140px" width="120px">
 Unduit is a software and services organization that provides asset life cycle management of IT Assets from procurement to end of life of assets for enterprises ranging from small businesses to Fortune 100 companies. Unduit's app based cloud platform that uses technologies such as blockchain to drive value for customers.
 <br/><br/>
 
@@ -170,7 +170,7 @@ Since 1987, World Data Products has delivered value with IT hardware, maintenanc
 
 
 ### Rhapsody Ventures | Vincent Lui | United States
-<img src="../member-logos/rhapsody-ventures-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px">
+<img src="../member-logos/rhapsody-ventures-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="140px">
 20+ years senior executive, deep tech investor and advisor - From early stage startup to Fortune 500 operations to deep tech VC / CVC investing. Passionate about accelerating commercialization and adoption of carbon negative and adaptation technologies, circular economy and sustainability solutions to combat climate change.
 <br/><br/> 
 
