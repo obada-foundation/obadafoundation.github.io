@@ -1,6 +1,7 @@
 --- 
 title: Join the DAO
-parent: The OBADA DAO
+parent: OBADA DAO
+grandparent: Our Projects
 permalink: /dao/join/
 nav_order: 2
 nav_exclude: false
