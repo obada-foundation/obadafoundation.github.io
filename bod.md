@@ -1,8 +1,8 @@
 ---
 title: Board of Directors
-parent: The OBADA Foundation
 permalink: /bod/
-nav_order: 2
+nav_order: 3
+nav_exclude: false
 ---
 
 # OBADA BOD Members
