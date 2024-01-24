@@ -2,7 +2,7 @@
 title: Main Website (obada.io)
 parent: OBADA DAO
 grand_parent: Our Projects
-nav_order: 5
+nav_order: 7
 ---
 
 <meta charset="utf-8">
