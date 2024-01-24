@@ -1,7 +1,7 @@
 ---
 title: OBADA Foundation
 nav_order: 2
-grand_parent: Our Projects
+parent: Our Projects
 has_children: true
 has_toc: false
 nav_exclude: true

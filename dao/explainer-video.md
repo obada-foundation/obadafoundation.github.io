@@ -3,7 +3,7 @@ title: Explainer Video
 parent: OBADA DAO
 grand_parent: Our Projects
 permalink: /dao/explainer-video/
-nav_order: 4
+nav_order: 1
 ---
 
 ## Learn More  
