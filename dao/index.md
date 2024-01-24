@@ -1,5 +1,5 @@
 ---
-title: The OBADA DAO
+title: OBADA DAO
 permalink: /dao/
 nav_order: 5
 has_children: true
