@@ -1,9 +1,11 @@
 ---
 title: Home
 permalink: /
-nav_order: 1
+nav_order: 100
 has_toc: false
+nav_exlude: true
 ---
+
 
 #  OBADA Documents Site
 This site serves as the joint documents and information repository for:
