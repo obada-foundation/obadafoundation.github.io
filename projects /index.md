@@ -1,13 +1,14 @@
 ---
-title: Foundation Projects
+title: Our Projects
 permalink: /projects
 nav_order: 5
 has_toc: false
 nav_exlude: false
+has_children: true
 ---
 
 
-#  OBADA FOUNDATION PROJECTS
+#  FOUNDATION PROJECTS
 Get involved, and help out!
 * **[Foundation](/about)**, a nonprofit 501(c)(3) coalition of stakeholders from the IT asset disposition (ITAD) sector.  
 * **[DAO](https://www.obadafoundation.org/dao)**, a decentralized autonomous organization developing an asset registry in alignment with the ISO Standard.
