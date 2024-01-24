@@ -1,7 +1,7 @@
 ---
 title: OBADA DAO
 permalink: /dao/
-parent: Our Projects
+parent: OBADA DAO
 nav_order: 5
 has_children: true
 has_toc: false
