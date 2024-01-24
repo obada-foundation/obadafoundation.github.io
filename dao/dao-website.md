@@ -1,7 +1,7 @@
 ---
 title: Main Website (obada.io)
 parent: OBADA DAO
-grandparent: Our Projects
+grand_parent: Our Projects
 nav_order: 8
 ---
 

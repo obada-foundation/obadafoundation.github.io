@@ -1,7 +1,7 @@
 --- 
 title: DAO Member List
 parent: OBADA DAO
-grandparent: Our Projects
+grand_parent: Our Projects
 permalink: /dao/members/
 nav_order: 3
 ---

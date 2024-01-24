@@ -1,7 +1,7 @@
 --- 
 title: DAO Waitlist
 parent: OBADA DAO
-grandparent: Our Projects
+grand_parent: Our Projects
 permalink: /dao/waitlist/
 nav_order: 4
 nav_exclude: true

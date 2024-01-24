@@ -2,9 +2,10 @@
 title: Our Projects
 permalink: /projects/
 parent: Our Projects
-nav_order: 1
-has_children: false
+nav_order: 5
+has_children: true
 has_toc: false
+nav_exclude: false
 ---
 
 

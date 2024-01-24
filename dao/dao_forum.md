@@ -1,7 +1,7 @@
 ---
 title: DAO Forum (forum.obada.io)
 parent: OBADA DAO
-grandparent: Our Projects
+grand_parent: Our Projects
 nav_order: 2
 nav_exclude: true
 ---
