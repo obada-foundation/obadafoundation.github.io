@@ -1,10 +1,11 @@
 ---
 title: OBADA DAO
-permalink: /dao/
+permalink: /projects/dao/
+parent: Our Projects
 nav_order: 5
 has_children: true
 has_toc: false
-parent: Our Projects
+
 ---
 
 ## The OBADA DAO (Decentralized Autonomous Organization)
