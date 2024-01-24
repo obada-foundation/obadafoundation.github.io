@@ -1,6 +1,6 @@
 ---
 title: OBADA DAO
-permalink: /projects/dao/
+permalink: /dao/
 parent: Our Projects
 nav_order: 5
 has_children: true
