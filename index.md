@@ -1,5 +1,5 @@
 ---
-title: OBADA Foundation
+title: About Us
 permalink: /
 nav_order: 1
 has_toc: false
