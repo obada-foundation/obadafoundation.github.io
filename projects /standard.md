@@ -3,7 +3,7 @@ title: ISO 20435 Standard
 permalink: /standard/
 parent: Our Projects
 has_children: false 
-nav_order: 1
+nav_order: 2
 ---
 
 
