@@ -4,7 +4,6 @@ nav_order: 2
 parent: Our Projects
 has_children: true
 has_toc: false
-nav_exclude: true
 ---
 
 <!-- OLD FOUNDATION PAGE - REPLACED WITH NEW INDEX
