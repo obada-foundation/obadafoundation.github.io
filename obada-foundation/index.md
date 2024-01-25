@@ -5,7 +5,7 @@ parent: Our Projects
 has_children: true
 has_toc: false
 ---
-# ![OBADA Foundation Logo](assets/images/obada-foundation-sm.png)  The OBADA Foundation  
+# ![OBADA Foundation Logo](../assets/images/obada-foundation-sm.png)  The OBADA Foundation  
 
 The OBADA Foundation is a 501(c)(3) nonprofit coalition in the IT asset disposition (ITAD) sector. We serve as stewards for the OBADA Standard and work in collaboration with ISO to develop open protocols for data models in the ITAD industry. Our foundation focuses on real-world solutions in legal, financial, and industry-specific contexts.
 
