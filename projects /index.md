@@ -3,9 +3,9 @@ title: Our Projects
 permalink: /projects/
 nav_order: 5
 has_children: true
-has_toc: false
+has_toc: true
 nav_exclude: false
 ---
 
 
-## THIS IS WHERE THE INFORMATION ABOUT OBADA'S PROJECTS WOULD GO. 
+## OBADA FOUNDATION PROJECTS
