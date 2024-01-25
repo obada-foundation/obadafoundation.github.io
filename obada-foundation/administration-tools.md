@@ -17,4 +17,3 @@ nav_order: 4
 * Devjock - Tech Project Managment 
 * Discourse - Hosted DAO Forum for proposals and voting
 * meet.jit.si - free screenshare platform with no downloads
-* etc..
