@@ -21,20 +21,6 @@ In 2017, Rohi founded the OBADA (Open Blockchain for Asset Disposition Architect
 [Connect with Rohi](https://www.linkedin.com/in/rohinton)
 <br/><br/>
 
-<!-- 
-### Secretary
-### Mark Schaffer | Schaffer Environmental | United States
-
-<img src="../obada-foundation/bod-images/mark-headshot.jpeg"  align="left" vspace="5" hspace="10" height="75px" width="75px">
-
-Sustainability Executive and Independent consultant specializing in Program Management, Technical Project Management, Environmental Technologies and Standards Development, Training and compliance. Currently providing environmental and project management consulting for the electronics industry and repair industry. Provides timely, accurate and valuable assistance to clients worldwide on pertinent environmental aspects of their business, products, organization and services. 
-<br/>
-
-<img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px">
-
-[Connect with Mark](https://www.linkedin.com/in/markschaffer/)
-<br/><br/> --> 
-
 ### Treasurer
 ### Joe Marion | ASCDI | United States
 
@@ -58,18 +44,6 @@ Founder of largest nonprofit computer reuse and recycling organization in the No
 <img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px">
 
 [Connect with Charles](https://www.linkedin.com/in/charles-brennick-52560a3/)
-<br/><br/>
-
-### David Franquesa | USODY | Spain
-
-<img src="../obada-foundation/bod-images/david-headshot.jpeg"  align="left" vspace="5" hspace="10" height="75px" width="75px">
-
-Passionate about enabling reuse and recycling, as it aligns with circular economy principles, bridges the digital divide, and contributes to a more sustainable future. My focus is on assisting companies, governments and a circular economy business in enabling reuse and recycling of electronics. Collaboration is at the core of my approach, as I believe in the power of working together to achieve greater impact. 
-<br/>
-
-<img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px">
-
-[Connect with David](https://www.linkedin.com/in/davidfranquesa/)
 <br/><br/>
 
 ### Robin Ingenthron | Good Point Recycling | United States
