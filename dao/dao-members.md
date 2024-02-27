@@ -19,6 +19,11 @@ We are a worldwide not for profit trade association of companies that buy, sell,
 Big Data Supply, Inc.; an R2 and RIOS certified ITAD company established to meet the ever-evolving life cycle management of data centers and corporations worldwide. Our core business is acquiring data storage equipment and peripherals such as Tape Storage; data tape media, tape drives, tape libraries. Computer Hardware; servers, disk array and Network Hardware. BDSI also has a solar division (www.solarrecycling.com) that decommissions solar panels for reuse. Currently trading IT and Solar assets in over 80 countries.
 <br/><br/>
 
+### CELX Advisory | Guennael Delorme | United States
+<!-- <img src="" align="left" vspace="5"  hspace="10" height="140px" width="120px"> -->
+CE/LX (pronounce 'Sea-Lex', for "Consumer Electronics / Life Extension"). We partner with players in the secondary phone and consumer electronics markets to develop profitable circular economy capabilities and scale growth.
+<br/><br/>
+
 ### Digital R-E-D | Al Lainio, CEO | United States
 <img src="../member-logos/digital-red-logo.jpg" align="left" vspace="5" hspace="10" height="140px" width="140px">
 We enable organizations transparent digital sustainability by aligning technology and recycling in an innovative and relevant way so positive and impactful changes continue to show growth. We recognize the importance of accurate and complete data of your IT assets to ensure stakeholder visibility into sustainable and secure best practices. 
@@ -174,10 +179,5 @@ Since 1987, World Data Products has delivered value with IT hardware, maintenanc
 XSi helps companies with their IT Lifecycle Services and Support. Services begin with the installation of new technology as well as de-installation, moving, consolidating, onsite disk wiping & destruction, IT Asset Disposition (ITAD) of legacy equipment, including resale or recycling. In addition, XSi provides lower-cost, Third Party Hardware Maintenance for installed models and extends the life of legacy, enterprise-brand servers, storage, network hardware and other devices, including UPS systems and supercomputers.
 <br/><br/>
 
-
-### CELX Advisory | Guennael Delorme | United States
-<!-- <img src="" align="left" vspace="5"  hspace="10" height="140px" width="120px"> -->
-<!-- Blurb about G. -->
-<br/><br/>
 
 <sub><sup>Last Updated February 2024</sup></sub>
