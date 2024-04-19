@@ -66,11 +66,11 @@ OBADA aims to:
 
 ## Get Involved
 
-Join us in our mission to revolutionize the ITAD sector and drive digital inclusion and sustainability. [Become a Member](link-to-membership-page).
+Join us in our mission to revolutionize the ITAD sector and drive digital inclusion and sustainability. [Become a Member](https://www.obadafoundation.org/dao/join/).
 
 [Contact Us](mailto:bizops@obada.io) for inquiries and partnership opportunities.
 
-Follow us on [Twitter](https://twitter.com/obadafoundation) | [LinkedIn](https://linkedin.com/company/obadafoundation) | [Facebook](https://facebook.com/obadafoundation)
+Follow us on [LinkedIn](https://linkedin.com/company/obadafoundation)
 
 Stay updated with the latest news and developments in the world of IT asset disposition. Together, we can make a difference!
 
