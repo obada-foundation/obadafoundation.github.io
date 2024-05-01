@@ -88,13 +88,5 @@ Guennael "G" Delorme is a long-time member of the mobility and reverse logistics
 
 <br/><br/>
 
-### Sarah Kim | E-Reuse Services | United States
 
-<img src="../obada-foundation/bod-images/sarah-headshot.jpeg"  align="left" vspace="5" hspace="10" height="75px" width="75px">
-
-Sarah Kim, the Owner of E-Reuse Services, (ERS) which provides consulting and collaboration services to the electronics repair, recycling, and refurbishing industries. Sarah’s passion for the industry started when she watched per parents start a refurbishing business in 2000. Sarah spent seven years working at the company and running the Electronics Reuse Conference until she opened ERS to focus on the industry's specific needs. Sarah travels worldwide to speak at conferences and deliver training to promote the reuse and recycling of electronic equipment. She was a member of the Responsible Recycling (R2) Technical Advisory Committee from 2012 - 2021.
-
-<img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px"> [Connect with Sarah](https://www.linkedin.com/in/sarahcadekim/)
-
-<br/><br/>
 
