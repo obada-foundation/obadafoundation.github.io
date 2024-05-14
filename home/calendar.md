@@ -1,8 +1,8 @@
 ---
 title: Calendar
 permalink: /calendar/
-parent: About Us
-nav_exlude: true
+parent: OBADA Foundation
+nav_exlude: false
 ---
 
 # Calendar
