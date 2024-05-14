@@ -2,7 +2,9 @@
 title: Calendar
 permalink: /calendar/
 parent: OBADA Foundation
+grand_parent: Our Projects
 nav_exlude: false
+nav_order: 4
 ---
 
 # Calendar
