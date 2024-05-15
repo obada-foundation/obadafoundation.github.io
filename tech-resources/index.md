@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Tech Resources
 permalink: /tech-resources/
 has_children: true
 has_toc: false
