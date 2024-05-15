@@ -1,9 +1,9 @@
 ---
 title: Meeting Calendar
 permalink: /calendar/
-parent: Board of Directors
-nav_exlude: false
+parent: Resources
 nav_order: 3
+nav_exlude: false
 ---
 
 # Calendar of Upcoming Meetings 
