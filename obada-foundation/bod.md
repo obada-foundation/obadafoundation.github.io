@@ -3,6 +3,7 @@ title: Board of Directors
 permalink: /bod/
 nav_order: 3
 nav_exclude: false
+has_children: true
 ---
 
 # OBADA BOD Members
