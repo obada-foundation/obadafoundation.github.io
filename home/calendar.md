@@ -1,8 +1,8 @@
 ---
 title: Meeting Calendar
 permalink: /calendar/
-parent: Resources
-nav_order: 3
+parent: Tech Resources
+nav_order: 7
 nav_exlude: false
 ---
 
