@@ -40,7 +40,7 @@ As a DAO Member you will become an operator of the world's first utility that en
 
 <br/>
 
-<img style="padding:10px;" src="../member-logos/dao-mems-logos.jpg">
+<img style="padding:10px;" src="../member-logos/dao-mem-logos-apr-2024.png">
 
 <br/>
 
@@ -135,38 +135,3 @@ As a DAO Member you will become an operator of the world's first utility that en
 
 <br/>
 
-<!--
-### Current DAO Members
-<div style="width:100%">
-
-<img style="padding:5px;" src="../member-logos/think-dynamic-logo.png" height="180px" width="180px">
-<img style="padding:5px;" src="../member-logos/world-data-logo.png" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/usody-logo.png" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/ledmax-logo.png" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/mender-logo.jpg" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/evercycle-logo.png" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/repair-org-logo.png" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/avritek-logo.png" height="100px" width="160px">
-<img style="padding:5px;" src="../member-logos/digital-red-logo.jpg" height="140px" width="140px">
-<img style="padding:5px;" src="../member-logos/dmd-logo.png" height="140px" width="140px">
-<img style="padding:5px;" src="../member-logos/techreuse-logo.jpg" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/broker-site-white-bck-logo.png" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/renewit_logo.png" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/Tradeloop-Logo-Hi-Res.png" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/rsr-regency-logo.jpg" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/wireapp-logo.png" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/xs-international-logo.png" height="100px" width="100px">
-<img style="padding:5px;" src="../member-logos/ers_logo_sq_transp.png" height="140px" width="140px">
-<img style="padding:5px;" src="../member-logos/first-class-networks.png" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/good-point-recycling.png" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/ifixit-logo.png" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/quantum-lifecycle-logo.png" height="180px" width="180px">
-<img style="padding:5px;" src="../member-logos/value-smart-trading-ltd-logo.jpg" height="120px" width="120px">
-<img style="padding:5px;" src="../member-logos/ascdi-logo-green.jpg" height="120px" width="120px">
-<img style="padding:5px;" src="../member-logos/big-data-supply-logo.png" height="120px" width="120px">
-<img style="padding:5px;" src="../member-logos/eagle-advisors-logo.png" height="160px" width="160px">
-<img style="padding:5px;" src="../member-logos/jt-environmental-logo.gif" height="100px" width="100px">
-<img style="padding:5px;" src="../member-logos/university-of-nevada-logo.png" height="160px" width="160px"> 
-<img style="padding:5px;" src="../member-logos/network-commerce-logo.jpg" height="160px" width="160px">
-</div>
--->
