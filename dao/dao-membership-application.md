@@ -54,7 +54,7 @@ Bank of America, NA <br/>
 New York, New York 10038 <br/>
 
 **Wire Payments (International)** <br/>
-OBADA DAO, LLC <br/>
+OBADA <br/>
 Account Number: 466002697275 <br/>
 Routing Number (wires) 026009593 <br/>
 SWIFT CODE: BOFAUS3N <br/>
