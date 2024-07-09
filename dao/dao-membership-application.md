@@ -10,7 +10,7 @@ has_toc: false
 
 
 # Instructions for Companies Interested in Joining the DAO
-_May 17, 2022_
+_July 9, 2024_
 
 Thank you for your interest in being an OBADA DAO member.  We have finalized the agreements to join and have outlined the joining process for you below.  
 
@@ -28,7 +28,7 @@ And there are two tax-related documents (please fill out and return the one that
 
 ### 2.  SIGNATURES
 
-## Please review, fill in and sign your portion of each document and return to <a href="mailto:bizops@obada.io">bizops@obada.io</a> 
+## Please review, fill in and sign your portion of each document and return to <a href="mailto:adam@obada.io">adam@obada.io</a> 
  * Note that you may join as either an Individual or as an Entity so please sign and fill out the documents accordingly (ie if you sign up as your business, please fill out the ENTITY parts of the documents and not the INDIVIDUAL parts of the documents).   Digital / typed signatures are acceptable.
  
 ### 3. PAYMENT
