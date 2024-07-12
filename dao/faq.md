@@ -522,7 +522,3 @@ The Locking period is 12 months, which means that once system credits received, 
 
 
 ##### Looking to get involved or join the DAO? [Contact Our DAO Coordinator](mailto:adam@obada.io)
-
-
----
-[edit this page on github](https://github.com/obada-foundation/obadafoundation.github.io/blob/main/dao/faq.md)
