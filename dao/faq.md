@@ -24,8 +24,6 @@ Dropdown + markdown structure:
 
 # Frequently Asked Questions
 
-## Please post any comments or questions [to the DAO Forum here](https://forum.obada.io/t/obada-faq-feedback-and-questions/85/3)
-
 <details>
   <summary><strong>OBADA Overview</strong></summary>
 
@@ -520,5 +518,11 @@ The Locking period is 12 months, which means that once system credits received, 
 </details>
 
 
-## Please post any comments or questions [to the DAO Forum here](https://forum.obada.io/t/obada-faq-feedback-and-questions/85/3)
+### Need More Information, or Have Other Questions? [Contact Us](mailto:bizops@obada.io)
 
+
+##### Looking to get involved or join the DAO? [Contact Our DAO Coordinator](mailto:adam@obada.io)
+
+
+---
+[edit this page on github](https://github.com/obada-foundation/obadafoundation.github.io/blob/main/dao/faq.md)
