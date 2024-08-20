@@ -30,7 +30,7 @@ As a DAO Member you will become an operator of the world's first utility that en
  - Vote to guide the direction and changes in the blockchain ecosystem.
  - Make decisions about fees, and rewards for network participants.
 
-# [Join Today: Schedule a Call to Learn More](https://calendly.com/adam-obada/30min)
+# [Ready to Join? Schedule a Call]([https://calendly.com/adam-obada/30min](https://calendar.app.google/UyWRA3UTRjJfZYFJ8))
 
 <br/>
 
