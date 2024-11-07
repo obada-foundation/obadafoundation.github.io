@@ -34,7 +34,7 @@ We enable organizations transparent digital sustainability by aligning technolog
 DMD provides ITAD solutions adhering to the most rigorous environmental and security standards to deliver confidence for companies who value our world and their reputation. DMD works with hundreds of companies and public entities to securely destroy their data, decommission assets, and redeploy or remarket the equipment across IT categories including Data Center, End User Compute, and Mobility.
 <br/><br/>
 
-### Dynamic Lifecycle Innovations | Bobbie Suhr | United States
+### Dynamic Lifecycle Innovations | Mary Hemmersbach | United States
 <img src="../member-logos/think-dynamic-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px">
 Dynamic Lifecycle Innovations is a full-service electronics and materials lifecycle management corporation specializing in IT asset disposition, data security, remarketing and resale, electronics recycling, legislative compliance, product refurbishment, materials recovery, and logistics. We create customized, worldwide service packages designed to safeguard our customers’ sensitive data and protect the environment from e-waste and other pollutants.
 <br/><br/>
