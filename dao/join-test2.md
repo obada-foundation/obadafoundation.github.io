@@ -19,9 +19,9 @@ Don’t wait—take the first step to becoming part of OBADA’s groundbreaking 
 
 ## **What You Receive as a DAO Member**
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 15px; margin: 15px 0;">
 
-<div style="text-align: center; max-width: 280px;">
+<div style="text-align: center; max-width: 350px;">
 <img src="/assets/images/economic.png" alt="Economic Rights" width="80" height="80">
 <h3>Economic Rights</h3>
 <ul style="text-align: left; margin: 10px auto;">
@@ -31,7 +31,7 @@ Don’t wait—take the first step to becoming part of OBADA’s groundbreaking 
 </ul>
 </div>
 
-<div style="text-align: center; max-width: 280px;">
+<div style="text-align: center; max-width: 350px;">
 <img src="/assets/images/operational.png" alt="Operational Rights" width="80" height="80">
 <h3>Operational Rights</h3>
 <ul style="text-align: left; margin: 10px auto;">
@@ -41,7 +41,7 @@ Don’t wait—take the first step to becoming part of OBADA’s groundbreaking 
 </ul>
 </div>
 
-<div style="text-align: center; max-width: 280px;">
+<div style="text-align: center; max-width: 350px;">
 <img src="/assets/images/governance.png" alt="Governance Rights" width="80" height="80">
 <h3>Governance Rights</h3>
 <ul style="text-align: left; margin: 10px auto;">
@@ -59,7 +59,7 @@ Don’t wait—take the first step to becoming part of OBADA’s groundbreaking 
 
 Discover how OBADA’s blockchain system ensures transparency, traceability, and compliance by tracking assets from deinstallation to reuse in Ghana.
 
-<div style="align-content:center; margin: 20px 0;">
+<div style="align-content:center; margin: 15px 0;">
 <iframe width="680" height="382" src="https://www.youtube.com/embed/NHYf5NHNor4" title="OBADA Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
@@ -72,19 +72,19 @@ As a DAO Member, you’ll help govern the world’s first decentralized registry
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
 
-<div style="text-align: center; max-width: 300px;">
+<div style="text-align: center; max-width: 350px;">
 <img src="/assets/images/simplify-tracking.svg" alt="Simplify Tracking" width="80" height="80">
 <h3>Simplify Asset Tracking</h3>
 <p>Ensure accurate record-keeping for every step of the asset lifecycle, from deinstallation to reuse or recycling.</p>
 </div>
 
-<div style="text-align: center; max-width: 300px;">
+<div style="text-align: center; max-width: 350px;">
 <img src="/assets/images/regulations.svg" alt="Stay Ahead of Regulations" width="80" height="80">
 <h3>Stay Ahead of Regulations</h3>
 <p>Prepare for compliance with upcoming global standards like the EU Digital Product Passport initiative.</p>
 </div>
 
-<div style="text-align: center; max-width: 300px;">
+<div style="text-align: center; max-width: 350px;">
 <img src="/assets/images/sustainability.svg" alt="Drive Sustainability Goals" width="80" height="80">
 <h3>Drive Sustainability Goals</h3>
 <p>Promote responsible recycling, secure data destruction, and the recovery of critical materials for a circular economy.</p>
