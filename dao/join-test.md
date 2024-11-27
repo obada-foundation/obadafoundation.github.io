@@ -9,9 +9,9 @@ nav_exclude: true
 # WHY JOIN THE OBADA DAO?
 
 <div style="font-size:18px;">
-Be part of a movement that’s transforming the IT Asset Disposition (ITAD) industry. OBADA is leading the charge to create a transparent, sustainable future by developing **ISO/AWI 20435**, a framework for securely tracking physical assets through tokenization.  
+Join the movement to revolutionize IT Asset Disposition (ITAD) and transform how physical assets are tracked, reused, and recycled. OBADA is spearheading the development of <strong>ISO/AWI 20435</strong>: A Framework for Representing Physical Assets Using Tokens.
 <br/><br/>
-As a DAO Member, you’ll have the opportunity to shape the future of traceability and sustainability while gaining early access to a system that’s built to solve key industry challenges. Join us to influence the standards that will define global best practices for decades to come.
+As a DAO Member, you will govern the world’s first utility that enables enterprises and supply chain systems to digitally represent physical assets. This decentralized, interoperable registry sets a new global standard for tracking assets throughout their lifecycle, ensuring transparency, accountability, and sustainability. 
 </div>
 
 ---
