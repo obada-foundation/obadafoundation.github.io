@@ -2,9 +2,8 @@
 title: Why Join the DAO?
 parent: OBADA DAO
 grand_parent: Our Projects
-permalink: /dao/join/
 nav_order: 2
-nav_exclude: false
+nav_exclude: true
 ---
 
 # WHY JOIN THE OBADA DAO?
