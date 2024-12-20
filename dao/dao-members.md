@@ -164,6 +164,11 @@ Device inventory management for lifecycle chain of custody. Our solutions help c
 Value Smart Trading Limited was incorporated in 2015. We are traders and manufacturers of electronic goods like CPU, RAM, Hard Drives, Motherboard, Barebone and SSD. Value Smart Trading Limited acts as a bridge between economies and facilitates the trade of shortages and excesses. We have more than 400 customers in more than 50 countries with 20 manufacturing companies who produce our products in Mainland China for our 200+ suppliers worldwide.  
 <br/><br/>
 
+### Vision Investment Group (VIG) | Hameed Mohammed | Ontario, Canada
+<img src="../member-logos/vig-logo-lo-res.png.jpg" align="left" vspace="5"  hspace="10" height="110px" width="110px">
+Vision Investment Group (VIG) is a global leader in refurbished technology, combining decades of expertise with a commitment to sustainability. As a Microsoft Authorized Refurbisher and Gold Partner, VIG provides high-quality, eco-friendly solutions, including R2-certified recycling, secure data protection, and lifecycle reporting. Established in 2000, VIG supports schools, businesses, and consumers with tailored IT services, driving circular technology while ensuring excellence and environmental responsibility.  
+<br/><br/>
+
 ### WIPERAPP | Marcin Wyrwas, CEO | Poland
 <img src="../member-logos/wireapp-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px"> 
 WIPERAPP® is a module system designed for irreversible, certified hard disk data wiped out from storage media without the need for physical destruction. The application complies with requirements of FBI, CIA, FMV and ABW, it also follows the newest NIST standard (The National Institute of Standards and Technology). Therefore it can be used not only for personal purposes, but it can also be successfully used in companies and state institutions.
