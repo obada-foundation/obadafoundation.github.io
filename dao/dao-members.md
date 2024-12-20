@@ -165,7 +165,7 @@ Value Smart Trading Limited was incorporated in 2015. We are traders and manufac
 <br/><br/>
 
 ### Vision Investment Group (VIG) | Hameed Mohammed | Ontario, Canada
-<img src="../member-logos/vig-logo-lo-res.jpg" align="left" vspace="5"  hspace="10" height="110px" width="110px">
+<img src="../member-logos/vig-logo-lo-res.png" align="left" vspace="5"  hspace="10" height="110px" width="110px">
 Vision Investment Group (VIG) is a global leader in refurbished technology, combining decades of expertise with a commitment to sustainability. As a Microsoft Authorized Refurbisher and Gold Partner, VIG provides high-quality, eco-friendly solutions, including R2-certified recycling, secure data protection, and lifecycle reporting. Established in 2000, VIG supports schools, businesses, and consumers with tailored IT services, driving circular technology while ensuring excellence and environmental responsibility.  
 <br/><br/>
 
