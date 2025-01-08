@@ -190,4 +190,4 @@ XSi helps companies with their IT Lifecycle Services and Support. Services begin
 7Digits, founded in 2006, is a leading ITAD partner specializing in refurbished hardware, data destruction, and IT hardware circularity. Serving data centers, SMEs, and professionals, we transform old hardware into valuable assets. Based in Pijnacker, we ensure top-tier security for on-site services and transport, backed by ISO 9001, 14001, and 27001 certifications. Committed to sustainability, we reduce e-waste and support initiatives like Tree Planting Day, Dierenbescherming, and the Kwasa Foundation.
 <br/><br/>
 
-<sub><sup>Last Updated February 2024</sup></sub>
+<sub><sup>Last Updated January 2025</sup></sub>
