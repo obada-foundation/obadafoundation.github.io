@@ -6,7 +6,7 @@ parent: Corporate Docs
 grand_parent: OBADA Foundation
 ---
 
-# BYLAWS OF **Open Blockchain for Asset Disposal Alliance**
+# Bylaws of **Open Blockchain for Asset Disposal Alliance**
 
 Incorporated under the laws of the State of Wyoming
 
