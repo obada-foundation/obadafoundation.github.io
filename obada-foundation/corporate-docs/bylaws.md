@@ -1,7 +1,7 @@
 ---
 title: Bylaws
 nav_order: 1
-permalink: /corporate-docs/bylaws/
+permalink: /obada-foundation/bylaws/
 parent: OBADA Foundation
 grand_parent: Our Projects
 ---
