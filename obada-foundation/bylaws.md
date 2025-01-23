@@ -7,7 +7,7 @@ grand_parent: Our Projects
 ---
 
 
-# Bylaws of **Open Blockchain for Asset Disposition Architecture
+# Bylaws of Open Blockchain for Asset Disposition Architecture
 
 Incorporated under the laws of the State of Wyoming
 
