@@ -40,7 +40,7 @@ As a DAO Member you will become an operator of the world's first utility that en
 
 <br/>
 
-<img style="padding:10px;" src="../member-logos/dao-mem-logos-apr-2024.png">
+<img style="padding:10px;" src="../member-logos/dao-mem-logos-jan-2025.png">
 
 <br/>
 
