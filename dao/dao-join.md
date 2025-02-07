@@ -133,7 +133,7 @@ Collaborate with forward-thinking companies like those above to shape the future
 <details>
   <summary><strong>What is the cost to join?</strong></summary>
   <div>
-    DAO membership seats are priced at a one-time fee of $6,515, plus a $15 bank charge. Pricing and included benefits may adjust after every 10 seats are filled.
+    DAO membership seats are priced at a one-time fee of $6,500, plus a $15 bank charge. Pricing and included benefits may adjust after every 10 seats are filled.
   </div>
 </details>
 
