@@ -7,12 +7,12 @@ nav_order: 2
 nav_exclude: false
 ---
 
-# **Shape the Future of IT Asset Disposition**
+# Shape the Future of IT Asset Disposition**
 
 Join the movement to transform IT Asset Disposition (ITAD) and create global transparency, accountability, and sustainability in the reuse and recycling of electronics. OBADA is spearheading the development of **ISO/AWI 20435**, a framework for representing physical assets using tokenization.
 
 ---
-## **Demo of OBADA in Action**
+## OBADA in Action
 Discover how OBADA’s blockchain system ensures transparency, traceability, and compliance by tracking assets from deinstallation to reuse in Ghana.
 
 <div style="align-content:center; margin: 15px 0;">
@@ -21,15 +21,15 @@ Discover how OBADA’s blockchain system ensures transparency, traceability, and
 
 ---
 
-## **Ready to Get Involved?**
+## Ready to Get Involved?
 
 📅 [Schedule a Call Today](https://calendar.app.google/81DC9HAdBcm6CCtS8)  
 Don’t wait—take the first step to becoming part of OBADA’s groundbreaking initiative.
 
 ---
 
-## **Why Join the OBADA DAO?**
-### **Be Part of the Solution**
+## Why Join the OBADA DAO?
+### Be Part of the Solution
 As a DAO Member, you’ll help govern the world’s first decentralized registry for tokenized physical assets. This system sets a new global standard for tracking assets from deinstallation to final recycling, addressing key challenges in the ITAD industry.
 <br/>
 <div style="display: flex; justify-content: space-around; margin: 20px 0;">
@@ -88,13 +88,13 @@ As a DAO Member, you’ll help govern the world’s first decentralized registry
 </div>
 
 ---
-## **Who’s Already Involved?**
+## Who’s Involved?
 
 Join a growing coalition of industry leaders working together to set the standard for IT asset traceability, sustainability, and innovation. These organizations are paving the way for responsible reuse and recycling.
 
 <img style="padding:10px;max-width:650px;" src="../member-logos/dao-mem-logos-jan-2025.png">
 
-### **Be Part of the Movement**
+### Be Part of the Movement
 
 Collaborate with forward-thinking companies like those above to shape the future of IT asset disposition and sustainability. By joining the OBADA DAO, your organization can influence global standards, contribute to sustainability goals, and gain early access to cutting-edge solutions.
 
@@ -102,7 +102,7 @@ Collaborate with forward-thinking companies like those above to shape the future
 
 ---
 
-## **Frequently Asked Questions**
+## Frequently Asked Questions
 
 <details>
   <summary><strong>What is OBADA's goal?</strong></summary>
