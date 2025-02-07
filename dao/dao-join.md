@@ -12,21 +12,6 @@ nav_exclude: false
 Join the movement to transform IT Asset Disposition (ITAD) and create global transparency, accountability, and sustainability in the reuse and recycling of electronics. OBADA is spearheading the development of **ISO/AWI 20435**, a framework for representing physical assets using tokenization.
 
 ---
-## OBADA in Action
-Discover how OBADA’s blockchain system ensures transparency, traceability, and compliance by tracking assets from deinstallation to reuse in Ghana.
-
-<div style="align-content:center; margin: 15px 0;">
-<iframe width="680" height="382" src="https://www.youtube.com/embed/NHYf5NHNor4" title="OBADA Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
----
-
-## Ready to Get Involved?
-
-📅 [Schedule a Call Today](https://calendar.app.google/81DC9HAdBcm6CCtS8)  
-Don’t wait—take the first step to becoming part of OBADA’s groundbreaking initiative.
-
----
 
 ## Why Join the OBADA DAO?
 ### Be Part of the Solution
@@ -86,6 +71,21 @@ As a DAO Member, you’ll help govern the world’s first decentralized registry
     </ul>
   </div>
 </div>
+
+---
+## OBADA in Action
+Discover how OBADA’s blockchain system ensures transparency, traceability, and compliance by tracking assets from deinstallation to reuse in Ghana.
+
+<div style="align-content:center; margin: 15px 0;">
+<iframe width="680" height="382" src="https://www.youtube.com/embed/NHYf5NHNor4" title="OBADA Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+---
+
+## Ready to Get Involved?
+
+📅 [Schedule a Call Today](https://calendar.app.google/81DC9HAdBcm6CCtS8)  
+Don’t wait—take the first step to becoming part of OBADA’s groundbreaking initiative.
 
 ---
 ## Who’s Involved?
