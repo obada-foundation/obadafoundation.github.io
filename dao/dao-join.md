@@ -92,7 +92,7 @@ As a DAO Member, you’ll help govern the world’s first decentralized registry
 
 Join a growing coalition of industry leaders working together to set the standard for IT asset traceability, sustainability, and innovation. These organizations are paving the way for responsible reuse and recycling.
 
-<img style="padding:10px;max-width:500px;" src="../member-logos/dao-mem-logos-jan-2025.png">
+<img style="padding:10px;max-width:650px;" src="../member-logos/dao-mem-logos-jan-2025.png">
 
 ### **Be Part of the Movement**
 
