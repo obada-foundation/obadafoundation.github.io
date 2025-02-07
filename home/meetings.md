@@ -1,6 +1,5 @@
 --- 
 title: Meeting Minutes
-parent: About Us
 nav_exclude: true
 permalink: /meetings/
 
