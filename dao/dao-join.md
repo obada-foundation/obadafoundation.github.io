@@ -31,7 +31,7 @@ Don’t wait—take the first step to becoming part of OBADA’s groundbreaking 
 ## **Why Join the OBADA DAO?**
 ### **Be Part of the Solution**
 As a DAO Member, you’ll help govern the world’s first decentralized registry for tokenized physical assets. This system sets a new global standard for tracking assets from deinstallation to final recycling, addressing key challenges in the ITAD industry.
-
+<br/>
 <div style="display: flex; justify-content: space-around; margin: 20px 0;">
 <div style="text-align: center; max-width: 280px;">
 <img src="/assets/images/simplify-tracking.png" alt="Simplify Tracking" width="80" height="80">
