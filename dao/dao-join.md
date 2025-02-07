@@ -7,7 +7,7 @@ nav_order: 2
 nav_exclude: false
 ---
 
-# Shape the Future of IT Asset Disposition**
+# Shape the Future of IT Asset Disposition
 
 Join the movement to transform IT Asset Disposition (ITAD) and create global transparency, accountability, and sustainability in the reuse and recycling of electronics. OBADA is spearheading the development of **ISO/AWI 20435**, a framework for representing physical assets using tokenization.
 
