@@ -2,7 +2,7 @@
 title: Meeting Calendar
 permalink: /calendar/
 nav_order: 7
-nav_exlude: false
+nav_exclude: true
 ---
 
 # Calendar of Upcoming Meetings 
