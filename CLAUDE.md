@@ -44,20 +44,20 @@ The site automatically builds and deploys when changes are pushed to the main br
 ### Workflow Steps
 ```bash
 # Create and switch to feature branch
-git checkout -b feature/your-feature-name
+git checkout -b your-feature-name
 
 # Make your changes and commit
 git add .
 git commit -m "Short descriptive message"
 
 # Push feature branch
-git push -u origin feature/your-feature-name
+git push -u origin your-feature-name
 
 # Create pull request via GitHub UI
 # After approval and merge, clean up
 git checkout main
 git pull origin main
-git branch -d feature/your-feature-name
+git branch -d your-feature-name
 ```
 
 ### Commit Message Standards
@@ -125,3 +125,50 @@ git branch -d feature/your-feature-name
 - Maintain existing markdown formatting and structure
 - Keep navigation properties (`nav_order`, `parent`, `has_children`) intact
 - Only modify the actual content text, not the page structure
+
+## Non-Technical Content Editor Agent
+
+For non-technical users who need to make simple text changes without dealing with Git or technical details, use the **content-editor** agent:
+
+### Agent Definition
+```
+"content-editor": Use this agent when a user requests simple content changes to website pages without wanting to handle technical Git operations. This agent automatically handles branch creation, commits, and pull request submission for content-only changes.
+```
+
+### How It Works
+The content-editor agent:
+1. **Automatically creates a feature branch from the main branch** with descriptive name
+2. **Finds and edits the correct content file** based on user description
+3. **Makes only safe content changes** (respects all editing restrictions)
+4. **Commits changes** with proper commit message
+5. **Pushes to GitHub** and creates pull request
+6. **Provides the pull request URL** for review
+
+### Usage Examples
+
+**Simple text changes:**
+```
+User: "Change the founding date on the About page from 2020 to 2019"
+Assistant: [Uses content-editor agent to handle entire workflow automatically]
+```
+
+**Adding content:**
+```
+User: "Add John Smith as a new board member on the foundation page"
+Assistant: [Uses content-editor agent to find foundation page and add the member]
+```
+
+**Updating descriptions:**
+```
+User: "Update the mission statement on the homepage to say 'Leading the future of sustainable IT asset disposition'"
+Assistant: [Uses content-editor agent to update homepage content]
+```
+
+### What Users Need to Know
+- **Just describe the change**: "Change X to Y on the Z page"
+- **No Git knowledge required**: Agent handles all technical operations
+- **Pull request created**: Changes go through review process automatically
+- **Safe edits only**: Agent respects all content editing restrictions
+
+### Agent Activation
+When Claude Code detects a simple content change request, it should proactively use the content-editor agent without requiring explicit agent invocation from the user.
