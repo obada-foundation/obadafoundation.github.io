@@ -60,3 +60,5 @@ To promote and drive the ITAD and E-Recycling industry toward a digital, sustain
 * Promote adoption of OBADA as a worldwide standard for sharing information about IT asset authenticity, functionality, disposition status, and other data.
 * Develop a Digital Asset for the OBADA ecosystem to expand the reach of the network, and create a viable shared economic ecosystem to the benefit of the industry and sustainability initiatives.
 * Create and support technical and non-technical partnerships and sustainability initiatives to boost digital inclusion and environmental effort at the national and worldwide level.
+
+TEST MESSAGE - This is a test addition to verify local editing works.
