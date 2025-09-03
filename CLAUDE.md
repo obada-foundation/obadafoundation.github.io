@@ -34,6 +34,42 @@ jekyll serve
 
 The site automatically builds and deploys when changes are pushed to the main branch.
 
+## Git Workflow
+
+### Branch Strategy
+- **Main Branch Protection**: Never commit directly to `main`
+- **Feature Branches**: Create feature branches for all changes
+- **Pull Requests**: All changes must go through pull requests for review
+
+### Workflow Steps
+```bash
+# Create and switch to feature branch
+git checkout -b feature/your-feature-name
+
+# Make your changes and commit
+git add .
+git commit -m "Short descriptive message"
+
+# Push feature branch
+git push -u origin feature/your-feature-name
+
+# Create pull request via GitHub UI
+# After approval and merge, clean up
+git checkout main
+git pull origin main
+git branch -d feature/your-feature-name
+```
+
+### Commit Message Standards
+- **Keep commits short and descriptive**
+- **No attribution in commit messages** (Git tracks authorship automatically)
+- Use past tense: "Added feature" not "Add feature"
+- Examples:
+  - ✅ "Updated DAO member information"
+  - ✅ "Fixed navigation menu styling"
+  - ❌ "Updated DAO member information by John Smith"
+  - ❌ "This commit fixed the navigation menu styling issue that was reported"
+
 ## Content Management
 
 - **Front Matter**: All content pages use Jekyll front matter with `title`, `nav_order`, `permalink`, etc.
@@ -60,3 +96,32 @@ The site automatically builds and deploys when changes are pushed to the main br
 - Custom SCSS in `_sass/custom/custom.scss` and `_sass/navigation.scss`
 - Custom includes in `_includes/` for navigation and site components
 - Theme configuration through `_config.yml`
+
+## Content Editing Restrictions
+
+**IMPORTANT: User content editing is strictly limited to the following:**
+
+### Allowed Modifications
+- **Page Content**: Text content within Markdown files (`.md`) in all content directories:
+  - Root level pages (`index.md`, `press.md`, etc.)
+  - `/dao/` directory pages
+  - `/obada-foundation/` directory pages
+  - `/tech-resources/` directory pages
+  - `/webpage-concepts/` directory pages
+  - `/example-pages/` directory pages
+- **Config Text Values**: Only text values within `_config.yml` (site title, description, etc.)
+
+### FORBIDDEN Modifications
+- **NO system files**: Never modify `Gemfile`, `Gemfile.lock`, or any Ruby configuration
+- **NO structural files**: Never modify `_config.yml` structure, only text values within it
+- **NO theme files**: Never modify `_sass/`, `_includes/`, or any theme-related files
+- **NO build files**: Never modify anything in `_site/` directory
+- **NO asset files**: Never modify images, CSS, JS, or other assets
+- **NO new files**: Never create new files unless explicitly requested for content pages
+- **NO system directories**: Never modify `.git/`, build artifacts, or system files
+
+### Content Editing Guidelines
+- Always preserve Jekyll front matter (the YAML between `---` markers)
+- Maintain existing markdown formatting and structure
+- Keep navigation properties (`nav_order`, `parent`, `has_children`) intact
+- Only modify the actual content text, not the page structure

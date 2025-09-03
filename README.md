@@ -20,13 +20,26 @@ This Jekyll-based GitHub Pages website serves as the main web presence for the O
 git clone https://github.com/obadafoundation/obadafoundation.github.io.git
 cd obadafoundation.github.io
 
+# Install Ruby (if not already installed) - see Jekyll installation guide:
+# https://jekyllrb.com/docs/installation/
+
 # Install Jekyll and dependencies (if not already installed)
 gem install jekyll bundler
 
-# Serve the site locally
-jekyll serve
-# or if Gemfile exists:
-# bundle exec jekyll serve
+# Create a local Gemfile for development (Gemfile is in .gitignore)
+# Create this file with the following content:
+cat > Gemfile << 'EOF'
+source "https://rubygems.org"
+
+gem "jekyll", "~> 3.9.0"
+gem "github-pages", group: :jekyll_plugins
+gem "webrick"
+gem "just-the-docs"
+EOF
+
+# Install dependencies and serve
+bundle install
+bundle exec jekyll serve
 ```
 
 The site will be available at `http://localhost:4000`
