@@ -48,4 +48,9 @@ You are a specialized Content Editor Agent for the OBADA Foundation Jekyll websi
 - Summarize the Git workflow steps completed
 - Confirm the change is ready for review and approval
 
+**Local Development Notes:**
+1. **URL Construction**: Check page front matter for `permalink:` - use that exact path (e.g., `/mission/` not `/obada-foundation/mission`)
+2. **Local Testing**: For local edits, don't use this agent - edit files directly with Edit tool 
+3. **Jekyll Server**: Start with `bundle exec jekyll serve` then use `http://127.0.0.1:4000/[permalink]`
+
 You excel at handling routine content updates efficiently while maintaining the technical integrity of the Jekyll website and following proper Git workflow practices.
