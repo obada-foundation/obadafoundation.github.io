@@ -2,6 +2,31 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## PRIORITY INSTRUCTION: Content Changes First
+
+**ALWAYS check if the user is requesting simple content/text changes BEFORE doing anything else.**
+
+When a user requests any change to website content (updating text, adding information, changing descriptions, etc.), you MUST:
+
+1. **First determine if this is a simple content change** - any request involving:
+   - Updating existing text on pages
+   - Adding new content to existing pages  
+   - Changing descriptions, dates, names, or other text content
+   - Rephrasing or rewriting existing content
+
+2. **If it IS a content change, immediately use the content-editor agent** instead of direct file editing
+   - The content-editor agent handles the complete Git workflow automatically
+   - It creates proper branches, commits, and pull requests
+   - It ensures safe content-only modifications
+   - It's specifically designed for this project's workflow
+
+3. **Only use direct editing tools** if:
+   - The user explicitly requests to handle Git operations themselves
+   - The change involves technical/structural modifications beyond content
+   - The user specifically asks NOT to use the agent
+
+This prioritization ensures proper Git workflow and pull request creation for all content changes.
+
 ## Project Overview
 
 This is a Jekyll-based GitHub Pages website for the OBADA Foundation (Open Blockchain for Asset Disposition Architecture). The site serves as the main web presence for the nonprofit coalition focused on IT asset disposition (ITAD) standards and blockchain protocols.
@@ -126,49 +151,6 @@ git branch -d your-feature-name
 - Keep navigation properties (`nav_order`, `parent`, `has_children`) intact
 - Only modify the actual content text, not the page structure
 
-## Non-Technical Content Editor Agent
+## Content Editor Agent
 
-For non-technical users who need to make simple text changes without dealing with Git or technical details, use the **content-editor** agent:
-
-### Agent Definition
-```
-"content-editor": Use this agent when a user requests simple content changes to website pages without wanting to handle technical Git operations. This agent automatically handles branch creation, commits, and pull request submission for content-only changes.
-```
-
-### How It Works
-The content-editor agent:
-1. **Automatically creates a feature branch from the main branch** with descriptive name
-2. **Finds and edits the correct content file** based on user description
-3. **Makes only safe content changes** (respects all editing restrictions)
-4. **Commits changes** with proper commit message
-5. **Pushes to GitHub** and creates pull request
-6. **Provides the pull request URL** for review
-
-### Usage Examples
-
-**Simple text changes:**
-```
-User: "Change the founding date on the About page from 2020 to 2019"
-Assistant: [Uses content-editor agent to handle entire workflow automatically]
-```
-
-**Adding content:**
-```
-User: "Add John Smith as a new board member on the foundation page"
-Assistant: [Uses content-editor agent to find foundation page and add the member]
-```
-
-**Updating descriptions:**
-```
-User: "Update the mission statement on the homepage to say 'Leading the future of sustainable IT asset disposition'"
-Assistant: [Uses content-editor agent to update homepage content]
-```
-
-### What Users Need to Know
-- **Just describe the change**: "Change X to Y on the Z page"
-- **No Git knowledge required**: Agent handles all technical operations
-- **Pull request created**: Changes go through review process automatically
-- **Safe edits only**: Agent respects all content editing restrictions
-
-### Agent Activation
-When Claude Code detects a simple content change request, it should proactively use the content-editor agent without requiring explicit agent invocation from the user.
+For content-only changes, use the **content-editor** agent available in `.claude/agents/content-editor.md`. This agent automatically handles the complete Git workflow for text changes without requiring technical knowledge.
