@@ -15,17 +15,17 @@ When a user requests any change to website content (updating text, adding inform
    - Rephrasing or rewriting existing content
 
 2. **If it IS a content change, immediately use the content-editor agent** instead of direct file editing
-   - The content-editor agent handles the complete Git workflow automatically
-   - It creates proper branches, commits, and pull requests
-   - It ensures safe content-only modifications
-   - It's specifically designed for this project's workflow
+   - The content-editor agent makes content changes and provides local preview
+   - It ensures safe content-only modifications with user approval
+   - After approval, use the git-operations agent for Git workflow
+   - It's specifically designed for this project's two-step workflow
 
 3. **Only use direct editing tools** if:
    - The user explicitly requests to handle Git operations themselves
    - The change involves technical/structural modifications beyond content
    - The user specifically asks NOT to use the agent
 
-This prioritization ensures proper Git workflow and pull request creation for all content changes.
+This prioritization ensures proper review process and Git workflow for all content changes.
 
 ## Project Overview
 
@@ -151,6 +151,15 @@ git branch -d your-feature-name
 - Keep navigation properties (`nav_order`, `parent`, `has_children`) intact
 - Only modify the actual content text, not the page structure
 
-## Content Editor Agent
+## Specialized Agents
 
-For content-only changes, use the **content-editor** agent available in `.claude/agents/content-editor.md`. This agent automatically handles the complete Git workflow for text changes without requiring technical knowledge.
+### Content Editor Agent
+For content-only changes, use the **content-editor** agent available in `.claude/agents/content-editor.md`. This agent makes content changes and provides local preview for user approval before committing.
+
+### Git Operations Agent  
+For Git workflow operations, use the **git-operations** agent available in `.claude/agents/git-operations.md`. This agent handles branch creation, commits, pushes, and pull request creation after content has been approved.
+
+### Workflow
+1. Use **content-editor** agent for making content changes and local preview
+2. User reviews and approves changes locally  
+3. Use **git-operations** agent for committing approved changes and creating pull requests
