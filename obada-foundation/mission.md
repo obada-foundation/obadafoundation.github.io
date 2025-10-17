@@ -1,62 +1,79 @@
 ---
 title: Mission
+has_children: false
+parent: OBADA Foundation
 nav_order: 2
-permalink: /mission/
-nav_exclude: false
+permalink: /obada-foundation/mission/
 ---
-### OUR MISSION
-The mission is to build and maintain an open-source blockchain protocol that enables recycling industries, manufacturers, and individuals to track and document information technology (IT) assets from creation through their end-of-life.
 
-The stewards of the system architecture is the OBADA Foundation, a 501c(6) organization whose members consist of the key organizations in the electronics recycling industry, such as trade associations, trading networks, and the providers of key industry software.
+# OBADA Foundation Mission
 
-OBADA was incorporated in 2019 as a nonprofit corporation in the blockchain-friendly U.S. State of Wyoming. OBADA has no stock, no profits given to individuals, and no private inurement.
+The OBADA Foundation is a 501(c)(6) nonprofit industry coalition bringing organizations across the IT asset disposition (ITAD) industry, including enterprises and blockchain companies, together to create a standard for a blockchain-enabled, decentralized ledger of IT assets.
 
-![bg-1003](https://user-images.githubusercontent.com/80361607/112531325-d0e48e00-8d7d-11eb-9dee-caee65c4ed26.png)
+OBADA believes that "if an asset is properly tracked from birth to end-of-life the world will be a better place". To develop the trust needed to properly track assets the approach is to create an open protocol where everyone can and is encouraged to participate.
 
-### VISION
-To enable information technology supply chain participants to:
-* Safeguard ownership of IT assets.
-* Track all information technology assets from creation through their end-of-life.
-* Control with whom owners share data about their assets.
-* Facilitate recycling and the circular economy.
+## Goals
 
-### OBADA’S WORK
-* Build and maintain an open-source blockchain protocol for the IT asset supply chain.
-* Provides “proof” of work completed on electronic devices
-* Enable provenance of devices, parts and ownership to reduce counterfeits
-* Provide IT asset data sharing capabilities across the supply chain
-* Enable increased data sharing with network participants including government agencies, manufacturers, retailers, customers, and recyclers
+The primary goals for the OBADA DAO/Foundation are
 
-### VALUE PROPOSITION
-* Creates an industry ecosystem and token economy model to facilitate economic exchange across the entire supply chain
-* Validate ownership and prevents counterfeiting
-* Verify functionality and quality
-* Record events including data wipes, upgrades and location changes on an immutable record
-* Pre-pay and ensure payment for services and provide a platform for escrow
-* Verify IT assets are sold, donated or recycled.
-* Provide an ability to facilitate new industry product solutions to meet circular economy economic challenges
-* Create new information-based products/services by sharing data across the supply chain
+1. **Building open Blockchain protocols** to track physical assets throughout their entire lifecycle.
+2. **Encouraging the adoption** of the protocol via incorporation into industry applications and processes.
+3. **Implementing asset registries, recycling and sustainability programs** with data generated using the protocol.
+4. **Building an ecosystem of participants** who will create sustainable value flows and markets atop the protocol layer.
 
-### STAKEHOLDERS
-* Original equipment manufacturers (OEM)
-* Asset and data management software companies
-* Data wiping and diagnostic software
-* Blockchain companies
-* Marketplaces
-* Resellers and recyclers
+## Purpose
 
-### COSTS
-* Creation, documentation and management of the blockchain protocol.
-* Node hosting and maintenance
-* Outreach and education
-* Full-time and part-time employees, as well as contractors, to develop and execute programs that promote reuse, recycling, digital inclusion, and sustainability. 
-* Operational expenses including the costs of office rent, office amenities, hardware, software, travel and partnership and educational programs.
+OBADA is creating an open protocol for tracking the life cycle and chain of custody for electronic assets that brings transparency to all stakeholders about origin, location, condition and rights to transfer (Legal title/ownership).
 
-### OPERATIONS
-To promote and drive the ITAD and E-Recycling industry toward a digital, sustainable, responsible economy, OBADA shall:
-* Develop and maintain a secure and low cost global transaction network (“OBADA Network”) and protocol (“OBADA Protocol”) that is high quality, scalable, open-source, and publicly accessible to everyone.
-* Develop and maintain private tools and services to support the OBADA Network and its users.
-* Provide guidance and direction for the OBADA ecosystem.
-* Promote adoption of OBADA as a worldwide standard for sharing information about IT asset authenticity, functionality, disposition status, and other data.
-* Develop a Digital Asset for the OBADA ecosystem to expand the reach of the network, and create a viable shared economic ecosystem to the benefit of the industry and sustainability initiatives.
-* Create and support technical and non-technical partnerships and sustainability initiatives to boost digital inclusion and environmental effort at the national and worldwide level.
+## Opportunity
+
+The OBADA standard provides a way for all supply chain participants to be actors and participants (nodes) across the entire IT asset life cycle, providing authentication, security, document attachments, titles and legal records, and enabling an open platform (a protocol-based ecosystem) for anyone to interact and exchange value.
+
+## Primary Standard
+
+OBADA believes that "Standard ISO/IEC 19970 Information technology — IT asset management" is the international reference standard for tracking IT assets for our industry and our blockchain approach. Currently there are a very small number of software companies in the world that have built to this standard.
+
+The OBADA approach is to build a full featured ISO compliant "External Repository Manager" (ERM) (the blockchain is the external repo). This will allow OBADA to be a plugin for any ISO compliant software platform so that we can scale quickly.
+
+## MEMBER CATEGORIES
+
+**Standards development organization:** The OBADA Foundation
+**Standard registry:** The OBADA DAO
+**Technology:** CosmosSDK, CosmWasm, Tendermint (compatible with any EVM-based chain)
+**Asset Types:** Electronic devices
+**Service:** Authentication
+**Use cases for Data Storage:** Sustainability info, Right to Repair info, Pedigree info
+
+## Solutions
+
+1. **Auditing** current state of asset.
+2. **Authentication** of custody and title.
+3. **Member training and industry standards** to create awareness and adoption.
+
+## Physical NFTs
+
+OBADA's blockchain approach uses the concept of Physical NFTs (pNFTs).
+
+By making physical devices NFT-compatible without needing to attach any electronics to them, the OBADA standard enables a decentralized, open platform that allows anyone to interact and exchange value.
+
+Some basic reading in the [Physical NFT Methodology](https://www.obada.io/physical-nfts).
+
+## Industry Collaboration Programs
+
+Many of the OBADA DAO participants are involved in programs for bringing functional "end-of-corporate-life" assets back into circulation through industry partnerships, supporting the circular economy and extending asset lifecycles for member organizations.
+
+## Green Initiatives
+
+Fully reusing and remarketing equipment is still the best thing for the environment. But even with extensive remarketing/donation programs assets eventually are no longer useful (functionally obsolete). For assets that have reached their real end-of-life OBADA is working on "mass balance"(aka "recycled content") tracking for plastics, metals etc. to show the circular economy is functioning.
+
+## DLT and Supply Chain
+
+A large part of OBADA's mission is industry consensus around core decentralized identifier methodology. Decentralized identifiers for objects is what allows supply chain actors to work together with these systems built by different parties.
+
+## Technology
+
+The OBADA DAO is using open-source technology via our partnership with the [Open Source Recycling Foundation](www.osr-foundation.org)
+
+1. **Cosmos-SDK:** The blockchains application-specific blockchain built on the Cosmos-SDK for ultimate performance.
+2. **CosmWasm:** RUST-based multi-chain smart contracts running in a WASM-based environment.
+3. **IBC Protocol:** Interchain communication.
