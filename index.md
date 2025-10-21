@@ -1,81 +1,45 @@
 ---
-title: About Us
-permalink: /
+layout: home
+title: Home
 nav_order: 1
-has_toc: false
 ---
 
+# Welcome to OBADA Foundation
 
-# ![OBADA Foundation Logo](assets/images/obada-foundation-sm.png)  The OBADA Foundation  
+<img src="assets/images/obada-circle.png" alt="OBADA Foundation Logo" style="max-width: 200px; display: block; margin: 2rem auto;">
 
-## About Us
+## Transforming IT Asset Management Through Open Standards
 
-The OBADA Foundation is a 501(c)(3) nonprofit coalition in the IT asset disposition (ITAD) sector. We serve as stewards for the OBADA Standard and work in collaboration with ISO to develop open protocols for data models in the ITAD industry. Our foundation focuses on real-world solutions in legal, financial, and industry-specific contexts.
+The OBADA Foundation is a 501(c)(6) nonprofit industry coalition bringing together leaders in IT asset disposition (ITAD), electronics recycling, and blockchain technology. We're building the future of responsible asset management through open-source innovation.
 
 ## Our Mission
 
-Our mission is to develop and maintain an open-source blockchain protocol to enable tracking and documentation of IT assets across their lifecycle. This effort is led by our members, key players in the electronics recycling industry, to foster a sustainable and responsible digital economy.
+Our mission is to advance member business interests by creating and promoting an open blockchain protocol that transforms how organizations track, manage, and responsibly dispose of IT assets throughout their lifecycle.
 
-## Vision
+## What We Do
 
-We aim to empower stakeholders in the information technology supply chain to:
+### Standards Development
+We develop and maintain the Open Blockchain for Asset Disposition Architecture (OBADA) Protocol - an open-source standard for creating immutable records of IT assets from manufacture through end-of-life.
 
-- Safeguard ownership of IT assets.
-- Track IT assets from creation to end-of-life.
-- Control data sharing about their assets.
-- Promote recycling and the circular economy.
+### Industry Collaboration
+We bring together ITAD companies, recyclers, OEMs, enterprises, and technology providers to establish common standards that benefit the entire ecosystem.
 
-## OBADA's Work
+### Technology Innovation
+Our blockchain-based approach creates transparent, verifiable chains of custody that build trust, reduce fraud, and improve environmental outcomes in electronics recycling.
 
-- Building a blockchain protocol for the IT asset supply chain.
-- Providing proof of work on electronic devices.
-- Enabling device provenance to combat counterfeits.
-- Facilitating IT asset data sharing across the supply chain.
+## Why It Matters
 
-## Value Proposition
-
-We create an ecosystem and token economy to:
-
-- Validate ownership and prevent counterfeiting.
-- Verify functionality and quality of IT assets.
-- Record immutable asset history.
-- Facilitate secure economic transactions within the industry.
-
-## Stakeholders
-
-- OEMs, software companies, and blockchain firms.
-- Marketplaces, resellers, and recyclers.
-
-## Costs
-
-Our operations are funded through:
-
-- Blockchain protocol development and maintenance.
-- Education and outreach programs.
-- Operational expenses including staffing and office needs.
-
-## Operations
-
-OBADA aims to:
-
-- Develop a global transaction network and open-source protocol.
-- Provide tools and services for the OBADA network.
-- Set the direction for the OBADA ecosystem.
-- Promote OBADA as a global standard.
-- Foster partnerships for digital inclusion and sustainability.
+- **$62.5 billion** in e-waste generated globally each year
+- **Only 20%** of electronics are properly recycled
+- **Billions in value** lost due to lack of tracking and verification
+- **Environmental impact** from improper disposal threatens communities worldwide
 
 ## Get Involved
 
-Join us in our mission to revolutionize the ITAD sector and drive digital inclusion and sustainability. [Become a Member](https://www.obadafoundation.org/dao/join/).
+Whether you're an ITAD provider, electronics recycler, enterprise IT manager, or technology innovator, OBADA offers opportunities to shape the future of our industry.
 
-[Contact Us](mailto:bizops@obada.io) for inquiries and partnership opportunities.
-
-Follow us on [LinkedIn](https://linkedin.com/company/obadafoundation)
-
-Stay updated with the latest news and developments in the world of IT asset disposition. Together, we can make a difference!
+[Join the DAO](/dao/) | [View Standards](/tech-resources/) | [Contact Us](mailto:info@obada.io)
 
 ---
 
-**The OBADA Foundation**
-A Nonprofit Dedicated to Transforming the IT Asset Disposition Industry
-Incorporated in 2019, Wyoming, USA
+*Join our industry coalition to advance your business through blockchain-powered IT asset management standards. Together, we're creating standards that protect data, preserve value, and safeguard our planet.*

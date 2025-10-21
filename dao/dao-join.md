@@ -1,160 +1,75 @@
---- 
-title: Join the DAO
-parent: OBADA DAO
-grand_parent: Our Projects
+---
+title: Join DAO
+nav_order: 1
 permalink: /dao/join/
-nav_order: 2
-nav_exclude: false
+parent: DAO
+has_children: false
 ---
 
-# Shape the Future of IT Asset Disposition
+# Join the OBADA DAO (Decentralized Autonomous Organization)
 
-Join the movement to transform IT Asset Disposition (ITAD) and create global transparency, accountability, and sustainability in the reuse and recycling of electronics. OBADA is spearheading the development of **ISO/AWI 20435**, a framework for representing physical assets using tokenization.
+The OBADA DAO is a tokenized governance structure for member organizations actively engaged in developing and operating industry-standard protocols for IT asset disposition. The DAO enables member companies to collectively advance ITAD industry standards, improve operational efficiency, and strengthen market position through collaborative technology development.
 
----
+OBADA's DAO (decentralized autonomous organization) is a **member organization consortium** focused on developing and implementing technology standards that serve the business interests of companies in the IT asset disposition (ITAD) and electronics recycling industry. This structure provides transparent, collective decision-making where member organizations use blockchain-based governance tokens to vote on technical standards, allocate development resources, and shape industry protocols that enhance their competitive positioning.
 
-## Why Join the OBADA DAO?
-### Be Part of the Solution
-As a DAO Member, you’ll help govern the world’s first decentralized registry for tokenized physical assets. This system sets a new global standard for tracking assets from deinstallation to final recycling, addressing key challenges in the ITAD industry.
-<br/>
-<div style="display: flex; justify-content: space-around; margin: 20px 0;">
-<div style="text-align: center; max-width: 280px;">
-<img src="/assets/images/simplify-tracking.png" alt="Simplify Tracking" width="80" height="80">
-<h3>Simplify Asset Tracking</h3>
-<p>Ensure accurate record-keeping for every step of the asset lifecycle, from deinstallation to reuse or recycling.</p>
-</div>
+This governance model combines traditional industry expertise with modern decentralized technology, enabling member companies across the ITAD ecosystem - from recyclers and refurbishers to technology providers and enterprises - to collaborate on developing standards that improve their operational efficiency and market opportunities while maintaining individual competitive advantages.
 
-<div style="text-align: center; max-width: 280px;">
-<img src="/assets/images/regulations.png" alt="Stay Ahead of Regulations" width="80" height="80">
-<h3>Stay Ahead of Regulations</h3>
-<p>Prepare for compliance with upcoming global standards like the EU Digital Product Passport initiative.</p>
-</div>
+To **participate in this industry consortium**, member organizations have **two membership pathways** that align with different engagement models:
 
-<div style="text-align: center; max-width: 280px;">
-<img src="/assets/images/sustainability.png" alt="Drive Sustainability Goals" width="80" height="80">
-<h3>Drive Sustainability Goals</h3>
-<p>Promote responsible recycling, secure data destruction, and the recovery of critical materials for a circular economy.</p>
-</div>
-</div>
+### Option 1: Strategic Member Organization
 
----
-## What You Receive as a DAO Member
+This membership tier is designed for organizations ready to make a strategic commitment to advancing ITAD industry standards through financial investment and governance participation.
 
-<div style="display: flex; justify-content: space-around; margin: 20px 0;">
-  <div style="text-align: center; max-width: 280px;">
-    <img src="/assets/images/economic.png" alt="Economic Rights" width="80" height="80">
-    <h3>Economic Rights</h3>
-    <ul style="text-align: left; margin: 10px auto;">
-      <li>Share in platform fees.</li>
-      <li>Receive system rewards.</li>
-      <li>Access a system credit allocation.</li>
-    </ul>
-  </div>
+By investing in consortium tokens, member organizations gain access to the technical working groups, governance rights, and industry networking opportunities that drive standard development.
 
-  <div style="text-align: center; max-width: 280px;">
-    <img src="/assets/images/operational.png" alt="Operational Rights" width="80" height="80">
-    <h3>Operational Rights</h3>
-    <ul style="text-align: left; margin: 10px auto;">
-      <li>Operate nodes for the decentralized registry.</li>
-      <li>Offer tokenization-powered services like Trust Anchoring.</li>
-      <li>Expand your service offerings with blockchain capabilities.</li>
-    </ul>
-  </div>
+**Membership Investment Tiers:**
+(Subject to consortium approval)
+- **Tier 1:** Entry-level membership providing foundational access to technical resources and working groups
+- **Tier 2:** Enhanced membership with expanded governance participation and technical committee access
+- **Tier 3:** Strategic membership with full governance rights and leadership opportunities in strategic initiatives
 
-  <div style="text-align: center; max-width: 280px;">
-    <img src="/assets/images/governance.png" alt="Governance Rights" width="80" height="80">
-    <h3>Governance Rights</h3>
-    <ul style="text-align: left; margin: 10px auto;">
-      <li>Vote on standards, fees, and rewards.</li>
-      <li>Guide the platform's strategic direction.</li>
-      <li>Help shape sustainability initiatives globally.</li>
-    </ul>
-  </div>
-</div>
+**Strategic Member Benefits:**
+- Full access to technical working groups and industry forums
+- Direct participation in standard-setting processes
+- Networking opportunities with industry peers and partners
+- Governance rights proportional to membership tier
+- Priority access to new technical implementations and protocols
 
----
-## OBADA in Action
-Discover how OBADA’s blockchain system ensures transparency, traceability, and compliance by tracking assets from deinstallation to reuse in Ghana.
 
-<div style="align-content:center; margin: 15px 0;">
-<iframe width="680" height="382" src="https://www.youtube.com/embed/NHYf5NHNor4" title="OBADA Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+### Option 2: Contributing Member Organization
 
----
+This membership pathway enables organizations to participate through technical contributions and active engagement in standard development rather than financial investment.
 
-## Ready to Get Involved?
+Contributing members earn governance tokens through their technical work, documentation contributions, and participation in working groups. This model recognizes the value of expertise and active participation in building industry standards.
 
-📅 [Schedule a Call Today](https://calendar.app.google/81DC9HAdBcm6CCtS8)  
-Don’t wait—take the first step to becoming part of OBADA’s groundbreaking initiative.
+**Contributing Member Benefits:**
+- Active participation in technical standard development
+- Access to industry working groups and technical forums
+- Networking opportunities within the consortium
+- Earned governance rights based on contribution levels
+- Recognition for technical expertise and industry leadership
 
----
-## Who’s Involved?
 
-Join a growing coalition of industry leaders working together to set the standard for IT asset traceability, sustainability, and innovation. These organizations are paving the way for responsible reuse and recycling.
+## Membership Process:
 
-<img style="padding:10px;max-width:650px;" src="../member-logos/dao-mem-logos-jan-2025.png">
+1. **Submit Organizational Application**: Complete the consortium membership application detailing your organization's ITAD industry involvement and intended contributions
+2. **Consortium Review**: Applications are reviewed by the membership committee composed of current member organizations
+3. **Onboarding Process**: Approved organizations receive governance tokens and access to consortium platforms and working groups
+4. **Active Participation**: Engage in technical committees, governance votes, and industry standard development
 
-### Be Part of the Movement
+## Consortium Participation Requirements
 
-Collaborate with forward-thinking companies like those above to shape the future of IT asset disposition and sustainability. By joining the OBADA DAO, your organization can influence global standards, contribute to sustainability goals, and gain early access to cutting-edge solutions.
+Member organizations are expected to:
+- Maintain active participation in relevant working groups
+- Contribute industry expertise to standard development
+- Uphold consortium bylaws and governance protocols
+- Represent their organization's interests while advancing industry-wide standards
 
-📅 [Schedule a Call Today](https://calendar.app.google/81DC9HAdBcm6CCtS8)
+## Begin Your Membership Journey
 
----
+To explore membership in the OBADA DAO consortium:
+- Review the [DAO Governance Documents](/dao/documents/) to understand our consortium structure
+- Contact the membership committee at dao@obada.io to discuss your organization's participation
+- Attend an upcoming industry briefing to learn about current standard development initiatives
 
-## Frequently Asked Questions
-
-<details>
-  <summary><strong>What is OBADA's goal?</strong></summary>
-  <div>
-    OBADA is creating a blockchain-powered registry to securely track physical assets throughout their lifecycle. This system facilitates reuse, recycling, and responsible end-of-life management of IT equipment.
-  </div>
-</details>
-
-<details>
-  <summary><strong>Why is this needed?</strong></summary>
-  <div>
-    OBADA addresses key challenges in ITAD, including:  
-    - Poor tracking and siloed data on electronic devices.  
-    - Low recycling rates and improper disposal.  
-    - Chain-of-custody issues leading to fraud.  
-    - Environmental damage caused by e-waste.  
-    Our decentralized system ensures accountability, compliance, and sustainability.
-  </div>
-</details>
-
-<details>
-  <summary><strong>What is a DAO?</strong></summary>
-  <div>
-    A Decentralized Autonomous Organization (DAO) allows members to govern collaboratively, with no central authority. OBADA’s DAO members drive decisions on standards, updates, fees, and rewards.
-  </div>
-</details>
-
-<details>
-  <summary><strong>What is the cost to join?</strong></summary>
-  <div>
-    DAO membership seats are priced at a one-time fee of $6,500, plus a $15 bank charge. Pricing and included benefits may adjust after every 10 seats are filled.
-  </div>
-</details>
-
-<details>
-  <summary><strong>What are DAO Members expected to do?</strong></summary>
-  <div>
-    DAO members vote on platform updates, operate blockchain nodes (or ensure one is operated on their behalf), and actively advocate for system adoption.
-  </div>
-</details>
-
-<details>
-  <summary><strong>Where can I learn more?</strong></summary>
-  <div>
-    Please <a href="mailto:adam@obada.io">contact Adam Cirrone</a> to schedule a call and discuss your questions.
-  </div>
-</details>
-
----
-
-## **Ready to Join?**
-
-Be part of shaping the future of ITAD and sustainability.  
-📅 [Schedule a Call Now](https://calendar.app.google/81DC9HAdBcm6CCtS8)
-
+The OBADA DAO represents a strategic opportunity for ITAD industry organizations to shape the technical standards and protocols that will define the future of asset disposition, creating competitive advantages for member companies while advancing the entire industry ecosystem.
