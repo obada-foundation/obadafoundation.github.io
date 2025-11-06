@@ -69,7 +69,7 @@ Member organizations are expected to:
 
 To explore membership in the OBADA DAO consortium:
 - Review the [DAO Governance Documents](/dao/documents/) to understand our consortium structure
-- Contact the membership committee at dao@obada.io to discuss your organization's participation
+- Contact the membership committee at adam@obada.io to discuss your organization's participation
 - Attend an upcoming industry briefing to learn about current standard development initiatives
 
 The OBADA DAO represents a strategic opportunity for ITAD industry organizations to shape the technical standards and protocols that will define the future of asset disposition, creating competitive advantages for member companies while advancing the entire industry ecosystem.
