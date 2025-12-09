@@ -6,7 +6,7 @@ nav_order: 1
 
 # Welcome to OBADA Foundation
 
-<img src="assets/images/obada-circle.png" alt="OBADA Foundation Logo" style="max-width: 200px; display: block; margin: 2rem auto;">
+<img src="assets/images/obada-foundation-sm.png" alt="OBADA Foundation Logo" style="max-width: 200px; display: block; margin: 2rem auto;">
 
 ## Transforming IT Asset Management Through Open Standards
 

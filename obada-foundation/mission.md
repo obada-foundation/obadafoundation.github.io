@@ -64,7 +64,7 @@ Many of the OBADA DAO participants are involved in programs for bringing functio
 
 ## Green Initiatives
 
-Fully reusing and remarketing equipment is still the best thing for the environment. But even with extensive remarketing/donation programs assets eventually are no longer useful (functionally obsolete). For assets that have reached their real end-of-life OBADA is working on "mass balance"(aka "recycled content") tracking for plastics, metals etc. to show the circular economy is functioning.
+Fully reusing and remarketing equipment is still the best thing for the environment. But even with extensive remarketing and redistribution programs, assets eventually are no longer useful (functionally obsolete). For assets that have reached their real end-of-life OBADA is working on "mass balance"(aka "recycled content") tracking for plastics, metals etc. to show the circular economy is functioning.
 
 ## DLT and Supply Chain
 

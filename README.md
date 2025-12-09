@@ -1,6 +1,6 @@
 # OBADA Foundation Website
 
-The official website for the OBADA Foundation (Open Blockchain for Asset Disposition Architecture), a 501(c)(3) nonprofit coalition focused on IT asset disposition (ITAD) standards and blockchain protocols.
+The official website for the OBADA Foundation (Open Blockchain for Asset Disposition Architecture), a 501(c)(6) nonprofit industry coalition focused on IT asset disposition (ITAD) standards and blockchain protocols.
 
 ## About
 
