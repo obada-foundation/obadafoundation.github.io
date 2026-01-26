@@ -14,10 +14,9 @@ _Updated Jan 26, 2026_
 
 Founder of largest nonprofit computer reuse and recycling organization in the Northwest and has over twenty years of experience in the field of IT asset disposition (ITAD), IT for Development (IT4D), recycling, and electronics reuse. A demonstrated leader with practical experience in community outreach, business development, operations, fundraising, ecommerce, and sales.
 
-<img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px">
-
-[Connect with Charles](https://www.linkedin.com/in/charles-brennick-52560a3/)
+<img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px"> [Connect with Charles](https://www.linkedin.com/in/charles-brennick-52560a3/)
 <br/><br/>
+<div style="clear:both"></div>
 
 ### Guennael "G" Delorme | Allstate | United States
 
@@ -28,6 +27,7 @@ Guennael "G" Delorme is a long-time member of the mobility and reverse logistics
 <img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px"> [Connect with Guennael](https://www.linkedin.com/in/guennaeldelorme/)
 
 <br/><br/>
+<div style="clear:both"></div>
 
 ### Robin Ingenthron | Good Point Recycling | United States
 
@@ -38,6 +38,7 @@ Guennael "G" Delorme is a long-time member of the mobility and reverse logistics
 <img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px"> [Connect with Robin](https://www.linkedin.com/in/robiningenthron/)
 
 <br/><br/>
+<div style="clear:both"></div>
 
 ### Kenneth Jacobsen, Treasurer | Reverse Logistics Association | United States
 
@@ -49,6 +50,7 @@ Specialties: Mobile computing, telecom, strategic planning, Currently involved w
 <img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px"> [Connect with Ken](https://www.linkedin.com/in/jacobsenken/)
 
 <br/><br/>
+<div style="clear:both"></div>
 
 ### Ronald Lembke | University of Nevada | United States
 
@@ -60,6 +62,7 @@ Professor, Supply Chain Management, Chair of Marketing Department, at University
 <img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px"> [Connect with Ron](https://www.linkedin.com/in/ron-lembke-920b011/)
 
 <br/><br/>
+<div style="clear:both"></div>
 
 ### Joe Marion | ASCDI | United States
 
@@ -68,10 +71,9 @@ Professor, Supply Chain Management, Chair of Marketing Department, at University
 Focusing on helping technology resellers, communications, service providers and ITAD firms learn, grow and network with each other, worldwide.
 <br/>
 
-<img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px">
-
-[Connect with Joe](https://www.linkedin.com/in/josephmarion/)
+<img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px"> [Connect with Joe](https://www.linkedin.com/in/josephmarion/)
 <br/><br/>
+<div style="clear:both"></div>
 
 ### Rohi Sukhia, Chairman | Tradeloop Corporation | United States
 
@@ -80,10 +82,9 @@ Focusing on helping technology resellers, communications, service providers and 
 In 2017, Rohi founded the OBADA (Open Blockchain for Asset Disposition Architecture) Foundation, a nonprofit consortium of key stakeholders in the ITAD sector.. a "blockchain" to provide traceability in asset disposition. Previously, Rohi founded Tradeloop Corporation in 1997, where he remains today as CEO.  Rohi also currently sits on the board of repair.org, fighting for our right to repair.  Previously, Rohi spent seven years at Intel after obtaining a BS in Electrical Engineering from Cornell.
 <br/>
 
-<img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px">
-
-[Connect with Rohi](https://www.linkedin.com/in/rohinton)
+<img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px"> [Connect with Rohi](https://www.linkedin.com/in/rohinton)
 <br/><br/>
+<div style="clear:both"></div>
 
 ### Chad Upchurch | Procurri | United States
 
