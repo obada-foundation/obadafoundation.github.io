@@ -86,7 +86,7 @@ In 2017, Rohi founded the OBADA (Open Blockchain for Asset Disposition Architect
 <br/><br/>
 <div style="clear:both"></div>
 
-### Chad Upchurch | Procurri | United States
+### Chad Upchurch | United States
 
 <img src="../obada-foundation/bod-images/chad-headshot.jpg"  align="left" vspace="5" hspace="10" height="75px" width="75px">
 
