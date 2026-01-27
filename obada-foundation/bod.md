@@ -79,14 +79,14 @@ Focusing on helping technology resellers, communications, service providers and 
 
 <img src="../obada-foundation/bod-images/rohi-headshot.jpg"  align="left" vspace="5" hspace="10" height="75px" width="75px">
 
-In 2017, Rohi founded the OBADA (Open Blockchain for Asset Disposition Architecture) Foundation, a nonprofit consortium of key stakeholders in the ITAD sector.. a "blockchain" to provide traceability in asset disposition. Previously, Rohi founded Tradeloop Corporation in 1997, where he remains today as CEO.  Rohi also currently sits on the board of repair.org, fighting for our right to repair.  Previously, Rohi spent seven years at Intel after obtaining a BS in Electrical Engineering from Cornell.
+In 2017, Rohi founded the OBADA (Open Blockchain for Asset Disposition Architecture) Foundation, a nonprofit consortium of key stakeholders in the ITAD sector.. a "blockchain" to provide traceability in asset disposition. Previously, Rohi founded Tradeloop Corporation in 1997, where he remains today as CEO. Rohi is convenor of ISO TC 307 Working Group 8 "tokenization of assets" and is an advisor to repair.org, fighting for our right to repair. Previously, Rohi spent seven years at Intel after obtaining a BS in Electrical Engineering from Cornell.
 <br/>
 
 <img src="../obada-foundation/bod-images/linkedin-logo.png" align="left" vspace="5" hspace="5" height="25px" width="25px"> [Connect with Rohi](https://www.linkedin.com/in/rohinton)
 <br/><br/>
 <div style="clear:both"></div>
 
-### Chad Upchurch | Procurri | United States
+### Chad Upchurch | United States
 
 <img src="../obada-foundation/bod-images/chad-headshot.jpg"  align="left" vspace="5" hspace="10" height="75px" width="75px">
 
