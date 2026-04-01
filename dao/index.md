@@ -75,3 +75,15 @@ The DAO is actively working on several key industry advancement initiatives:
 ## Get Involved
 
 To learn more about participating in the OBADA DAO and contributing to industry standards development, contact us at dao@obada.io or review our membership application process.
+
+<script
+  src="https://www.devjock.ai/embed/widget.min.js"
+  data-primary-color="#662637"
+  data-button-position="bottom-right"
+  data-workspace-id="45"
+  data-agent-id="179"
+  data-api-key="cHNzWWxpWk9EMXRhR05OSWliNVBrSlBCbGltNXhDMVpRMzFncEJyWHhUT1FJMmJWTHhkR0RsUlcvZlJuZlduRDVMa1hLSnFGSWNvSmQ5SkFSMU9aOWcwQnlGWUcyR1BOdzQ4WU1MbjBQcWtWWTlIM0pwNkZZQ2tKM2hTbk1Rbkc="
+  data-task-id="45-510"
+  data-make-sub-task="1"
+  async
+></script>
